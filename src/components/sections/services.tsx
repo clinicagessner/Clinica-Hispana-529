@@ -45,8 +45,7 @@ export function Services() {
                   src={highlightedServices[0].image}
                   alt={`${highlightedServices[0].title} - Clínica Hispana Familiar 529 Houston TX`}
                   fill
-                  priority
-                  loading="eager"
+                  loading="lazy"
                   className="object-cover group-hover:scale-105 transition-transform duration-500"
                   sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                 />

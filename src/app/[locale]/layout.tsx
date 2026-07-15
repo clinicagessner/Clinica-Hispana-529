@@ -7,7 +7,6 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
 import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
-import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
@@ -18,6 +17,9 @@ const montserrat = Montserrat({
   weight: ["600", "700", "800"],
   variable: "--font-montserrat",
   display: "swap",
+  // Sin <link rel=preload>: evita el warning "preloaded but not used" en cargas
+  // ancladas (/#seccion); con display:swap el texto se pinta igual de rápido.
+  preload: false,
 });
 
 const sourceSans = Source_Sans_3({
@@ -25,6 +27,7 @@ const sourceSans = Source_Sans_3({
   weight: ["400", "500", "600", "700"],
   variable: "--font-source-sans",
   display: "swap",
+  preload: false,
 });
 
 type Props = {
@@ -163,7 +166,6 @@ export default async function LocaleLayout({ children, params }: Props) {
             <ScrollToTop />
             <JsonLdMedicalClinic />
             <ScrollAnimations />
-            <Analytics />
           </TooltipProvider>
         </NextIntlClientProvider>
       </body>
