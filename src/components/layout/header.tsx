@@ -24,7 +24,7 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
   const isHomepage = pathname === "/";
   const [isScrolled, setIsScrolled] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
-  const [activeSection, setActiveSection] = useState("home");
+  const [activeSection, setActiveSection] = useState("inicio");
   const phone = phoneOverride?.phone ?? CONTACT_INFO.phone;
   const phoneFormatted = phoneOverride?.phoneFormatted ?? CONTACT_INFO.phoneFormatted;
 
@@ -46,17 +46,28 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // Scroll spy to detect active section
+  // Scroll spy: detecta la sección visible y refleja su ancla (en español) en la URL
   useEffect(() => {
-    const sectionIds = ["home", ...NAV_ITEMS
-      .filter(item => item.href.includes("#"))
-      .map(item => item.href.split("#")[1])];
+    if (!isHomepage) return;
+
+    const sectionIds = [
+      "inicio",
+      "promociones",
+      "servicios",
+      "cuidado-cronico",
+      "testimonios",
+      "preguntas-frecuentes",
+      "ubicacion",
+      "blog",
+      "contacto",
+    ];
+    let lastSection = "";
 
     const handleScroll = () => {
       const scrollPosition = window.scrollY + 150;
 
       // Find the section that's currently in view
-      let currentSection = "home";
+      let currentSection = "inicio";
 
       for (const sectionId of sectionIds) {
         const element = document.getElementById(sectionId);
@@ -72,13 +83,23 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
       }
 
       setActiveSection(currentSection);
+
+      // Actualiza el hash sin crear entradas de historial ni provocar scroll
+      if (currentSection !== lastSection) {
+        lastSection = currentSection;
+        const url =
+          currentSection === "inicio"
+            ? window.location.pathname + window.location.search
+            : `#${currentSection}`;
+        window.history.replaceState(null, "", url);
+      }
     };
 
     window.addEventListener("scroll", handleScroll, { passive: true });
     handleScroll(); // Check initial position
 
     return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  }, [isHomepage]);
 
   const handleLinkClick = () => {
     setIsOpen(false);

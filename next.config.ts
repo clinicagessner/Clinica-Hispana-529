@@ -34,7 +34,7 @@ const nextConfig: NextConfig = {
       { source: "/servicios/:path*", destination: "/services", permanent: true },
       { source: "/nosotros", destination: "/", permanent: true },
       { source: "/nosotros/:path*", destination: "/", permanent: true },
-      { source: "/contacto", destination: "/#contact", permanent: true },
+      { source: "/contacto", destination: "/#contacto", permanent: true },
       { source: "/tag/:slug*", destination: "/blog", permanent: true },
       { source: "/category/:slug*", destination: "/blog", permanent: true },
       { source: "/:year(\\d{4})/:month(\\d{2})", destination: "/blog", permanent: true },
