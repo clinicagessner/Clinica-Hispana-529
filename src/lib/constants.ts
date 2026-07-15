@@ -489,7 +489,7 @@ export const SERVICES: Service[] = [
       "Thyroid, liver and kidney tests",
       "Results explained in Spanish"
     ],
-    "highlighted": true,
+    "highlighted": false,
     "order": 11
   },
   {
@@ -1214,13 +1214,91 @@ export const SERVICES: Service[] = [
   }
 ];
 
-// TODO(randy): rellenar cuando el cliente pase los flyers de SUS promociones
-// (los flyers y precios del proyecto de referencia no se reutilizan).
-// Cada promo: slug (= nombre del .webp en /images/promotions), title/titleEn,
-// price ($X o null), blurb/blurbEn, includes/includesEn, image, alt/altEn, order.
-// Mientras el arreglo esté vacío, la sección de la home y el enlace del menú
-// se ocultan automáticamente.
-export const PROMOTIONS: Promotion[] = [];
+// Promociones reales de la clínica (datos extraídos de los flyers del cliente).
+// El precio vive en la imagen; aquí solo se usa como dato.
+export const PROMOTIONS: Promotion[] = [
+  {
+    slug: "chequeo-completo-mujer",
+    title: "Chequeo Completo de Mujer",
+    titleEn: "Complete Women's Checkup",
+    price: "$79",
+    blurb:
+      "Chequeo integral para la mujer que incluye examen de Papanicolaou, examen de orina, orden de mamografía y consulta ginecológica con atención profesional y personalizada.",
+    blurbEn:
+      "A comprehensive women's checkup that includes a Pap smear, a urine test, a mammogram order, and a gynecological consultation with professional, personalized care.",
+    includes: [
+      "Examen de Papanicolaou",
+      "Examen de orina",
+      "Orden de mamografía",
+      "Consulta ginecológica",
+    ],
+    includesEn: [
+      "Pap smear",
+      "Urine test",
+      "Mammogram order",
+      "Gynecological consultation",
+    ],
+    image: "/images/promotions/chequeo-completo-mujer.webp",
+    alt: "Promoción de chequeo completo de mujer por $79 con Papanicolaou, orina, orden de mamografía y consulta ginecológica en Clínica Hispana Familiar 529 Houston",
+    altEn: "Complete women's checkup promotion for $79 with Pap smear, urine test, mammogram order and gynecological consultation at Clínica Hispana Familiar 529 Houston",
+    highlighted: true,
+    order: 1,
+  },
+  {
+    slug: "chequeo-completo-hombres",
+    title: "Chequeo Completo para Hombres",
+    titleEn: "Complete Checkup for Men",
+    price: "$89",
+    blurb:
+      "Chequeo completo para hombres que evalúa la salud urinaria, de próstata y los niveles de testosterona, con consulta médica incluida. Prevenir es vivir mejor.",
+    blurbEn:
+      "A complete men's checkup that evaluates urinary health, prostate health, and testosterone levels, with a medical consultation included. Prevention means living better.",
+    includes: [
+      "Examen de orina",
+      "Examen de próstata (prevención de cáncer)",
+      "Examen de testosterona",
+      "Consulta médica",
+    ],
+    includesEn: [
+      "Urine test",
+      "Prostate test (cancer prevention)",
+      "Testosterone test",
+      "Medical consultation",
+    ],
+    image: "/images/promotions/chequeo-completo-hombres.webp",
+    alt: "Promoción de chequeo completo para hombres por $89 con orina, próstata y testosterona en Clínica Hispana Familiar 529 Houston",
+    altEn: "Complete checkup for men promotion for $89 with urine, prostate and testosterone tests at Clínica Hispana Familiar 529 Houston",
+    highlighted: true,
+    order: 2,
+  },
+  {
+    slug: "examen-general-sangre-vitaminas",
+    title: "Examen General de Sangre + Vitaminas",
+    titleEn: "General Blood Test + Vitamins",
+    price: "$99",
+    blurb:
+      "Evaluación completa de tu salud con examen general de sangre para detectar a tiempo, 2 dosis de vitamina para la energía y consulta médica con revisión de resultados y plan personalizado.",
+    blurbEn:
+      "A complete health evaluation with a general blood test for early detection, 2 vitamin doses for energy, and a medical consultation with results review and a personalized plan.",
+    includes: [
+      "Examen general de sangre",
+      "2 dosis de vitamina para la energía",
+      "Consulta médica con revisión de resultados",
+      "Plan personalizado",
+    ],
+    includesEn: [
+      "General blood test",
+      "2 vitamin doses for energy",
+      "Medical consultation with results review",
+      "Personalized plan",
+    ],
+    image: "/images/promotions/examen-general-sangre-vitaminas.webp",
+    alt: "Promoción de examen general de sangre más vitaminas por $99 con consulta médica en Clínica Hispana Familiar 529 Houston",
+    altEn: "General blood test plus vitamins promotion for $99 with medical consultation at Clínica Hispana Familiar 529 Houston",
+    highlighted: true,
+    order: 3,
+  },
+];
 
 export const FAQ_ITEMS: FAQItem[] = [
   {
@@ -1279,8 +1357,8 @@ export const NAV_ITEMS = [
   { label: "nav.services", href: "/services" },
   // El enlace de promociones solo aparece cuando hay promos cargadas.
   ...(PROMOTIONS.length > 0 ? [{ label: "nav.promotions", href: "/promociones" }] : []),
-  { label: "nav.chronicCare", href: "/#chronic-care" },
+  // La sección de enfermedades crónicas sigue en la home; solo se quitó del menú.
   { label: "nav.blog", href: "/blog" },
-  { label: "nav.contact", href: "/#contact" },
+  { label: "nav.contact", href: "/#contacto" },
 ];
 
