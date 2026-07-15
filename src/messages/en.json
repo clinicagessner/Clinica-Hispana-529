@@ -36,7 +36,8 @@
       "2": "No appointment necessary",
       "3": "Uninsured patients welcome",
       "4": "Affordable and transparent prices"
-    }
+    },
+    "ctaWhatsapp": "WhatsApp"
   },
   "services": {
     "title": "Services at Our Hispanic Clinic in Houston",

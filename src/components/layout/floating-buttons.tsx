@@ -30,14 +30,13 @@ export function FloatingButtons({ phoneOverride }: FloatingButtonsProps = {}) {
   const whatsappHref = `https://wa.me/${CONTACT_INFO.phone.replace(/\D/g, "")}?text=${encodeURIComponent(t("whatsappMessage"))}`;
 
   return (
-    <div className="fixed bottom-6 right-6 z-40 flex flex-col gap-3">
-      {/* Maps + teléfono aparecen al hacer scroll para no tapar el hero */}
-      <div
-        className={cn(
-          "flex flex-col gap-3 transition-all duration-300",
-          isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10 pointer-events-none"
-        )}
-      >
+    // Todos los botones aparecen al hacer scroll para no tapar el hero
+    <div
+      className={cn(
+        "fixed bottom-6 right-6 z-40 flex flex-col gap-3 transition-all duration-300",
+        isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10 pointer-events-none"
+      )}
+    >
       {/* Location Button */}
       <Tooltip>
         <TooltipTrigger asChild>
@@ -72,9 +71,8 @@ export function FloatingButtons({ phoneOverride }: FloatingButtonsProps = {}) {
           <p>{t("callNow")}</p>
         </TooltipContent>
       </Tooltip>
-      </div>
 
-      {/* WhatsApp Button - siempre visible */}
+      {/* WhatsApp Button */}
       <Tooltip>
         <TooltipTrigger asChild>
           <a
