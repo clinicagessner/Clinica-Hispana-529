@@ -22,6 +22,9 @@ export async function Hero() {
         alt="Fachada de Clínica Hispana Familiar 529 en 15003 FM 529 B, Houston TX, con el cartel de la clínica"
         width={1920}
         height={1080}
+        // priority = preload intencional: es el LCP de la home. En cargas ancladas
+        // (/#seccion) el navegador avisa "preloaded but not used" porque el hero
+        // queda fuera de pantalla; es esperado y no afecta al usuario.
         priority
         fetchPriority="high"
         quality={50}

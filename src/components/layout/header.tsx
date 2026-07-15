@@ -132,7 +132,6 @@ export function Header({ phoneOverride }: HeaderProps = {}) {
                 fill
                 sizes="(max-width: 768px) 128px, (max-width: 1024px) 160px, 192px"
                 className="object-contain"
-                loading="eager"
               />
             </div>
           </Link>
