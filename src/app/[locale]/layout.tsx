@@ -134,6 +134,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   // IDs de analítica desde variables de entorno; si faltan, el tag no se renderiza.
   const googleAdsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
   const metaPixelId = process.env.NEXT_PUBLIC_META_PIXEL_ID;
+  const callRailSrc = process.env.NEXT_PUBLIC_CALLRAIL_SCRIPT_URL;
 
   return (
     <html lang={locale} data-scroll-behavior="smooth" className={`${montserrat.variable} ${sourceSans.variable}`} suppressHydrationWarning>
@@ -147,11 +148,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://lh3.googleusercontent.com" />
         <link rel="dns-prefetch" href="https://cdn.callrail.com" />
         {/* CallRail - Call Tracking */}
-        <script
-          type="text/javascript"
-          src="//cdn.callrail.com/companies/493169318/60a694136c76cf5fb5a8/12/swap.js"
-          async
-        />
+        {callRailSrc && <script type="text/javascript" src={callRailSrc} async />}
         {/* Meta Pixel noscript fallback */}
         {metaPixelId && (
           <noscript>
