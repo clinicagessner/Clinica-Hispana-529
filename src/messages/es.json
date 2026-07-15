@@ -172,7 +172,9 @@
     "bookAppointment": "Agendar Cita",
     "learnMore": "Más Información",
     "contactUs": "Contáctenos",
-    "viewServices": "Ver Servicios"
+    "viewServices": "Ver Servicios",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "whatsappMessage": "Hola, me gustaría más información sobre sus servicios."
   },
   "accessibility": {
     "skipToContent": "Saltar al contenido",

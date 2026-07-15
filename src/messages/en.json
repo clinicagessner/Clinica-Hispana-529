@@ -172,7 +172,9 @@
     "bookAppointment": "Book Appointment",
     "learnMore": "Learn More",
     "contactUs": "Contact Us",
-    "viewServices": "View Services"
+    "viewServices": "View Services",
+    "whatsapp": "Message us on WhatsApp",
+    "whatsappMessage": "Hello, I would like more information about your services."
   },
   "accessibility": {
     "skipToContent": "Skip to content",
