@@ -1300,6 +1300,33 @@ export const PROMOTIONS: Promotion[] = [
     highlighted: true,
     order: 3,
   },
+  {
+    slug: "chequeo-general-completo",
+    title: "Chequeo General Completo",
+    titleEn: "Complete General Checkup",
+    price: "$99",
+    blurb:
+      "Chequeo general completo con valor regular de $250, ahora por solo $99 y con consulta médica gratis. Incluye examen general de sangre, A1C y examen general de orina. Cuídate hoy, vive mejor mañana.",
+    blurbEn:
+      "A complete general checkup with a regular value of $250, now for only $99 with a free medical consultation. Includes a general blood test, A1C, and a general urine test. Take care today, live better tomorrow.",
+    includes: [
+      "Examen general de sangre",
+      "A1C (hemoglobina glicosilada)",
+      "Examen general de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "General blood test",
+      "A1C (glycated hemoglobin)",
+      "General urine test",
+      "Free medical consultation",
+    ],
+    image: "/images/promotions/chequeo-general-completo.webp",
+    alt: "Promoción de chequeo general completo por $99 con examen de sangre, A1C, orina y consulta médica gratis en Clínica Hispana Familiar 529 Houston",
+    altEn: "Complete general checkup promotion for $99 with blood test, A1C, urine test and free medical consultation at Clínica Hispana Familiar 529 Houston",
+    highlighted: true,
+    order: 4,
+  },
 ];
 
 export const FAQ_ITEMS: FAQItem[] = [
