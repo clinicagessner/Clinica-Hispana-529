@@ -102,18 +102,16 @@ export default async function BlogPostPage({ params }: Props) {
         {/* Hero Header with Background Image */}
         <header className="relative pt-32 pb-16 md:pt-40 md:pb-24 overflow-hidden">
           {/* Background Image */}
-          {post.image && (
-            <div className="absolute inset-0">
-              <Image
-                src={post.image}
-                alt={`${post.title} - Artículo de salud Clínica Hispana Familiar 529 Houston TX`}
-                fill
-                className="object-cover"
-                priority
-              />
-              <div className="absolute inset-0 bg-linear-to-t from-slate-900 via-slate-900/80 to-slate-900/40" />
-            </div>
-          )}
+          <div className="absolute inset-0">
+            <Image
+              src="/images/logo.webp"
+              alt="Logo de Clínica Hispana Familiar 529 Houston TX"
+              fill
+              className="object-cover"
+              priority
+            />
+            <div className="absolute inset-0 bg-linear-to-t from-slate-900 via-slate-900/80 to-slate-900/40" />
+          </div>
 
           <div className="container mx-auto px-4 relative z-10">
             {/* Back Button */}

@@ -5,7 +5,7 @@ description: "Conoce nuestra clínica médica hispana en Houston, TX. Atención 
 date: "2026-03-16"
 dateModified: "2026-03-21"
 author: "Clínica Hispana Familiar 529"
-image: "/images/blog/welcome.webp"
+image: "/images/logo.webp"
 featured: false
 category: "Anuncios"
 readTime: 4
