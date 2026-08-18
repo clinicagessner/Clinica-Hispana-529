@@ -102,12 +102,13 @@ export default async function BlogPostPage({ params }: Props) {
         {/* Hero Header with Background Image */}
         <header className="relative pt-32 pb-16 md:pt-40 md:pb-24 overflow-hidden">
           {/* Background Image */}
-          <div className="absolute inset-0">
+          <div className="absolute inset-0 bg-slate-900">
+            {/* En móvil el logo cubre el fondo como marca de agua; en desktop se muestra completo a la derecha para evitar un recorte excesivo del cuadrado 1024x1024 */}
             <Image
               src="/images/logo.webp"
               alt="Logo de Clínica Hispana Familiar 529 Houston TX"
               fill
-              className="object-cover"
+              className="object-cover md:object-contain md:object-right"
               priority
             />
             <div className="absolute inset-0 bg-linear-to-t from-slate-900 via-slate-900/80 to-slate-900/40" />
