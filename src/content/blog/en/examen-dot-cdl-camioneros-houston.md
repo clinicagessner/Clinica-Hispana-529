@@ -20,7 +20,7 @@ keywords:
 
 # DOT Physical Exam for Truck Drivers in Houston: Everything You Need to Know
 
-If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid **DOT physical exam** to obtain or renew your CDL license. At Clínica Hispana Familiar 529, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
+If you're a truck driver, bus operator, or commercial vehicle driver in Houston, you need a valid [**DOT physical exam**](/services/examen-dot) to obtain or renew your CDL license. At Clínica Hispana Familiar 529, we perform this exam with **100% Spanish-speaking staff**, no appointment needed, and same-day results.
 
 ## What Is a DOT Physical Exam?
 
@@ -109,7 +109,7 @@ To make your exam quick and hassle-free, bring the following:
 
 ## How Much Does the DOT Physical Cost?
 
-At Clínica Hispana Familiar 529, we offer the DOT physical at **affordable and competitive prices**. The cost includes:
+At Clínica Hispana Familiar 529, we offer the [DOT physical](/services/examen-dot) at **affordable and competitive prices**. The cost includes:
 
 - Complete physical examination
 - Urinalysis
@@ -160,7 +160,7 @@ We understand the specific needs of Houston's Hispanic trucking community. Many 
 ## Frequently Asked Questions About the DOT Physical
 
 ### Does the DOT physical include drug testing?
-**No.** The DOT physical exam and drug testing are two separate things. We perform the physical exam. Drug and alcohol testing is your employer's responsibility or done through a testing consortium.
+**No.** The DOT physical exam and drug testing are two separate things. We perform the physical exam and also offer [drug and alcohol testing](/services/examen-alcohol-drogas) if your employer requires it. DOT-program testing is your employer's responsibility or done through a testing consortium.
 
 ### Can I get a DOT physical if I have diabetes?
 **Yes**, if your diabetes is controlled with diet, exercise, or oral medications (no insulin). If you use insulin, you need a special FMCSA exemption.

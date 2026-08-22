@@ -20,7 +20,7 @@ keywords:
 
 # Examen DOT para Camioneros en Houston: Todo lo que Necesita Saber
 
-Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un **examen físico DOT** vigente para obtener o renovar su licencia CDL. En Clínica Hispana Familiar 529 realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
+Si usted es camionero, conductor de autobús o maneja un vehículo comercial en Houston, necesita un [**examen físico DOT**](/services/examen-dot) vigente para obtener o renovar su licencia CDL. En Clínica Hispana Familiar 529 realizamos este examen con atención **100% en español**, sin cita previa y con resultados el mismo día.
 
 ## ¿Qué es el Examen DOT?
 
@@ -109,7 +109,7 @@ Para que su examen sea rápido y sin complicaciones, traiga lo siguiente:
 
 ## ¿Cuánto Cuesta el Examen DOT?
 
-En Clínica Hispana Familiar 529 ofrecemos el examen DOT a **precios accesibles y competitivos**. El costo incluye:
+En Clínica Hispana Familiar 529 ofrecemos el [examen DOT](/services/examen-dot) a **precios accesibles y competitivos**. El costo incluye:
 
 - Examen físico completo
 - Análisis de orina
@@ -160,7 +160,7 @@ Entendemos las necesidades específicas de la comunidad de camioneros hispanos e
 ## Preguntas Frecuentes sobre el Examen DOT
 
 ### ¿El examen DOT incluye prueba de drogas?
-**No.** El examen DOT físico y la prueba de drogas son dos cosas separadas. Nosotros realizamos el examen físico. Las pruebas de drogas y alcohol son responsabilidad de su empleador o del consorcio de pruebas al que esté inscrito.
+**No.** El examen DOT físico y la prueba de drogas son dos cosas separadas. Nosotros realizamos el examen físico y también ofrecemos [pruebas de alcohol y drogas](/services/examen-alcohol-drogas) si su empleador las requiere. Las pruebas del programa DOT son responsabilidad de su empleador o del consorcio de pruebas al que esté inscrito.
 
 ### ¿Puedo hacer el examen DOT si tengo diabetes?
 **Sí**, si su diabetes está controlada con dieta, ejercicio o medicamentos orales (sin insulina). Si usa insulina, necesita una exención especial del FMCSA.
