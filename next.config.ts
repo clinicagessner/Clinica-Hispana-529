@@ -39,6 +39,9 @@ const nextConfig: NextConfig = {
       { source: "/category/:slug*", destination: "/blog", permanent: true },
       { source: "/:year(\\d{4})/:month(\\d{2})", destination: "/blog", permanent: true },
       { source: "/:year(\\d{4})", destination: "/blog", permanent: true },
+      // URLs basura reportadas como 404 en Search Console (ago 2026)
+      { source: "/services-9", destination: "/services", permanent: true },
+      { source: "/blank", destination: "/", permanent: true },
     ];
   },
   async headers() {
