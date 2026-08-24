@@ -220,6 +220,6 @@ Your health is important. Don't postpone your gynecological exams. We are the tr
 **Clínica Hispana Familiar 529**
 - Phone: (281) 694-7250
 - Address: 15003 FM 529 B, Houston, TX 77095
-- Hours: Monday-Friday 9AM-9PM
+- Hours: Monday-Saturday 9AM-9PM, Sunday 9AM-5PM
 
 *Caring for the health of Hispanic women in Houston.*

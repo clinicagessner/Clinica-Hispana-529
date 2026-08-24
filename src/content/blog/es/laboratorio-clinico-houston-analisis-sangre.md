@@ -233,6 +233,6 @@ Mantenga su salud bajo control con análisis regulares. Servimos a la comunidad 
 **Clínica Hispana Familiar 529**
 - Teléfono: (281) 694-7250
 - Dirección: 15003 FM 529 B, Houston, TX 77095
-- Horario: Lunes a Viernes 9AM-9PM
+- Horario: Lunes a Sábado 9AM-9PM, Domingo 9AM-5PM
 
 *Resultados rápidos, atención en español, precios justos.*

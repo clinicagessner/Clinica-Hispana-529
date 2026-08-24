@@ -233,6 +233,6 @@ Stay on top of your health with regular lab tests. We serve the Hispanic communi
 **Clínica Hispana Familiar 529**
 - Phone: (281) 694-7250
 - Address: 15003 FM 529 B, Houston, TX 77095
-- Hours: Monday-Friday 9AM-9PM
+- Hours: Monday-Saturday 9AM-9PM, Sunday 9AM-5PM
 
 *Fast results, Spanish-language care, fair prices.*

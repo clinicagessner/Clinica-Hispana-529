@@ -9,7 +9,8 @@ Clínica Hispana Familiar 529 is a Hispanic medical clinic located in Houston, T
 - Email: clinicafamiliar529@gmail.com
 
 ## Hours
-- Monday - Sunday: 9:00 AM - 9:00 PM
+- Monday - Saturday: 9:00 AM - 9:00 PM
+- Sunday: 9:00 AM - 5:00 PM
 
 ## Services
 We offer comprehensive medical services including:

@@ -123,7 +123,7 @@ We know many Hispanic men put off their checkup because of the language barrier,
 - No appointment needed: walk-ins welcome 7 days a week
 - [Laboratory](/services/examenes-sangre), [electrocardiogram](/services/electrocardiograma) and [ultrasound](/services/ultrasonido) all in one place
 - No health insurance required
-- Extended hours: Monday through Sunday, 9 AM to 9 PM
+- Extended hours: Monday through Saturday 9 AM to 9 PM, Sunday 9 AM to 5 PM
 - Convenient location in northwest Houston, near Copperfield, Bear Creek, Cypress, Jersey Village and Katy
 
 ## Schedule Your Checkup Today
@@ -132,7 +132,7 @@ Don't wait for a symptom to force you to see a doctor. A preventive checkup toda
 
 - **Phone:** (281) 694-7250
 - **Address:** 15003 FM 529 B, Houston, TX 77095
-- **Hours:** Monday to Sunday, 9:00 AM - 9:00 PM
+- **Hours:** Monday-Saturday 9:00 AM - 9:00 PM · Sunday 9:00 AM - 5:00 PM
 - **No appointment needed** — Walk-ins welcome
 
 *At Clínica Hispana Familiar 529 we take care of the health of Houston's men, in your language and within your reach.*

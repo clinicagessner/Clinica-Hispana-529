@@ -143,7 +143,7 @@ At Clínica Hispana Familiar 529, **we never turn you away without explaining wh
 The entire process — from check-in to receiving your certificate — is in Spanish. No translator needed.
 
 ### No Appointment Needed
-Come when it's convenient. We're open **Monday through Sunday, 9 AM to 9 PM**. This is especially helpful for truck drivers with irregular schedules.
+Come when it's convenient. We're open **Monday through Saturday 9 AM to 9 PM, and Sunday 9 AM to 5 PM**. This is especially helpful for truck drivers with irregular schedules.
 
 ### Same-Day Results
 Leave our clinic with your **DOT medical certificate and medical card** in hand. No waiting days or coming back for another visit.
@@ -169,7 +169,7 @@ We understand the specific needs of Houston's Hispanic trucking community. Many 
 If slightly elevated, the doctor may issue a 1-year certificate instead of 2. If very high, we'll recommend treatment and you can return when it's controlled.
 
 ### Do I need an appointment?
-**No.** We accept walk-ins Monday through Sunday, 9 AM to 9 PM.
+**No.** We accept walk-ins Monday through Saturday 9 AM to 9 PM, and Sunday 9 AM to 5 PM.
 
 ### How long does the exam take?
 Approximately **30-45 minutes**. You leave with your certificate the same day.
@@ -183,7 +183,7 @@ Ready for your DOT physical? Visit Clínica Hispana Familiar 529 today:
 
 - **Phone:** (281) 694-7250
 - **Address:** 15003 FM 529 B, Houston, TX 77095
-- **Hours:** Monday through Sunday, 9:00 AM - 9:00 PM
+- **Hours:** Monday-Saturday 9:00 AM - 9:00 PM · Sunday 9:00 AM - 5:00 PM
 - **No appointment needed** — Walk-ins welcome
 
 *Your health and your license are in good hands at Clínica Hispana Familiar 529.*

@@ -62,7 +62,7 @@ Houston es una de las ciudades con mayor población hispana en todo Estados Unid
 - **Desconfianza del sistema de salud**: Experiencias negativas previas o desconocimiento de los servicios disponibles generan miedo o rechazo a buscar atención.
 - **Horarios incompatibles**: Muchos trabajadores hispanos tienen horarios que no encajan con los horarios típicos de clínicas y consultorios.
 
-En Clínica Hispana Familiar 529 entendemos estas realidades de primera mano. Por eso diseñamos nuestros servicios para eliminar estas barreras: personal completamente bilingüe, horarios extendidos de lunes a viernes hasta las 9 PM y fines de semana, precios transparentes y atención sin necesidad de seguro médico.
+En Clínica Hispana Familiar 529 entendemos estas realidades de primera mano. Por eso diseñamos nuestros servicios para eliminar estas barreras: personal completamente bilingüe, horarios extendidos de lunes a sábado hasta las 9 PM y domingos hasta las 5 PM, precios transparentes y atención sin necesidad de seguro médico.
 
 ## Clínica Hispana Familiar 529 vs. la Sala de Emergencias
 
@@ -92,8 +92,8 @@ Cada día nos esforzamos por:
 Los invitamos a conocer nuestras instalaciones y a nuestro equipo de profesionales de la salud. Estamos aquí para servirle a usted y a su familia.
 
 **Horario de Atención:**
-- Lunes a Viernes: 9:00 AM - 9:00 PM
-- Sábado y Domingo: 9:00 AM - 9:00 PM
+- Lunes a Sábado: 9:00 AM - 9:00 PM
+- Domingo: 9:00 AM - 5:00 PM
 
 **Contáctenos:**
 - Teléfono: (281) 694-7250

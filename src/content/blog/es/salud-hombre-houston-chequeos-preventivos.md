@@ -123,7 +123,7 @@ Sabemos que muchos hombres hispanos posponen su chequeo por la barrera del idiom
 - Sin cita previa: walk-ins bienvenidos los 7 días de la semana
 - [Laboratorio](/services/examenes-sangre), [electrocardiograma](/services/electrocardiograma) y [ultrasonido](/services/ultrasonido) en el mismo lugar
 - No se requiere seguro médico
-- Horario extendido: lunes a domingo, de 9 AM a 9 PM
+- Horario extendido: lunes a sábado de 9 AM a 9 PM y domingo de 9 AM a 5 PM
 - Ubicación conveniente en el noroeste de Houston, cerca de Copperfield, Bear Creek, Cypress, Jersey Village y Katy
 
 ## Programe su Chequeo Hoy
@@ -132,7 +132,7 @@ No espere a que un síntoma lo obligue a ir al médico. Un chequeo preventivo ho
 
 - **Teléfono:** (281) 694-7250
 - **Dirección:** 15003 FM 529 B, Houston, TX 77095
-- **Horario:** Lunes a Domingo, 9:00 AM - 9:00 PM
+- **Horario:** Lunes a Sábado 9:00 AM - 9:00 PM · Domingo 9:00 AM - 5:00 PM
 - **Sin cita previa** — Walk-ins bienvenidos
 
 *En Clínica Hispana Familiar 529 cuidamos la salud de los hombres de Houston, en su idioma y a su alcance.*

@@ -155,6 +155,6 @@ Don't let the medical exam delay your immigration process. Contact us today to s
 **Clínica Hispana Familiar 529**
 - Phone: (281) 694-7250
 - Address: 15003 FM 529 B, Houston, TX 77095
-- Hours: Monday-Sunday 9AM-9PM
+- Hours: Monday-Saturday 9AM-9PM, Sunday 9AM-5PM
 
 *This article is for informational purposes only and does not constitute legal advice. Consult a licensed immigration attorney for questions about your specific case.*

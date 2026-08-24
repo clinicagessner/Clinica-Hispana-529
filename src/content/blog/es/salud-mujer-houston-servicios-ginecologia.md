@@ -220,6 +220,6 @@ Su salud es importante. No posponga sus exámenes ginecológicos. Somos la clín
 **Clínica Hispana Familiar 529**
 - Teléfono: (281) 694-7250
 - Dirección: 15003 FM 529 B, Houston, TX 77095
-- Horario: Lunes a Viernes 9AM-9PM
+- Horario: Lunes a Sábado 9AM-9PM, Domingo 9AM-5PM
 
 *Cuidamos la salud de la mujer hispana en Houston.*

@@ -27,7 +27,7 @@
     "ctaCall": "Call Now",
     "ctaLocation": "Get Directions",
     "ctaContact": "Prefer that we contact you? Write to us",
-    "hours": "Monday to Sunday: 9:00 AM - 9:00 PM",
+    "hours": "Mon-Sat 9:00 AM - 9:00 PM · Sun 9:00 AM - 5:00 PM",
     "googleReviews": "+ reviews on Google",
     "cardTitle": "Why choose us?",
     "cardSubtitle": "The best care for you and your family",
@@ -94,8 +94,8 @@
       "address": "Address",
       "phone": "Phone",
       "hours": "Hours",
-      "hoursWeekday": "Monday - Friday: 9:00 AM - 9:00 PM",
-      "hoursWeekend": "Saturday & Sunday: 9:00 AM - 9:00 PM",
+      "hoursWeekday": "Monday - Saturday: 9:00 AM - 9:00 PM",
+      "hoursWeekend": "Sunday: 9:00 AM - 5:00 PM",
       "email": "Email",
       "footerNote": "We are located in the heart of Houston, with easy access and free parking."
     }
@@ -110,7 +110,7 @@
     "q3": "Do you speak Spanish at the clinic?",
     "a3": "Yes, all our staff speaks Spanish. Our clinic was specifically created to serve Houston's Hispanic community, and we make sure you can communicate comfortably in your language.",
     "q4": "What are your business hours?",
-    "a4": "We're open Monday through Sunday. Our regular hours are 9:00 AM to 9:00 PM every day. Please call us to confirm hours on holidays.",
+    "a4": "We're open 7 days a week. Our regular hours are Monday through Saturday, 9:00 AM to 9:00 PM, and Sunday, 9:00 AM to 5:00 PM. Please call us to confirm hours on holidays.",
     "q5": "What payment methods do you accept?",
     "a5": "We accept cash and all major credit and debit cards (Visa, MasterCard, American Express, Discover). We offer affordable, transparent pricing, and we welcome patients without insurance.",
     "q6": "Do you offer payment plans?",
@@ -124,7 +124,7 @@
     "q10": "Is parking available?",
     "a10": "Yes, we have ample free parking in front of the clinic. Our facilities are also accessible for people with disabilities, including ramps and adapted restrooms.",
     "q11": "Where can I find a Hispanic clinic near me in Houston?",
-    "a11": "Clínica Hispana Familiar 529 is a Hispanic and Latino clinic at 15003 FM 529 B, Houston, TX 77095, on the northwest side of Houston. We are open every day from 9:00 AM to 9:00 PM, no appointment needed.",
+    "a11": "Clínica Hispana Familiar 529 is a Hispanic and Latino clinic at 15003 FM 529 B, Houston, TX 77095, on the northwest side of Houston. We are open Monday through Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 5:00 PM, no appointment needed.",
     "q12": "Can this clinic be my primary care doctor?",
     "a12": "Yes. Many families choose us as their primary care provider and medical center close to home: general medicine visits, chronic condition management and lab work in one place."
   },
@@ -140,7 +140,7 @@
       "bus": "Bus Access",
       "security": "Safe Area"
     },
-    "hours": "Monday to Sunday: 9:00 AM - 9:00 PM",
+    "hours": "Mon-Sat 9:00 AM - 9:00 PM · Sun 9:00 AM - 5:00 PM",
     "call": "Call"
   },
   "footer": {
@@ -154,8 +154,8 @@
     "terms": "Terms of Service",
     "hipaa": "HIPAA Notice",
     "stars": "{rating} with {reviews}+ reviews",
-    "hoursWeekday": "Monday - Friday: 9:00 AM - 9:00 PM",
-    "hoursWeekend": "Saturday & Sunday: 9:00 AM - 9:00 PM"
+    "hoursWeekday": "Monday - Saturday: 9:00 AM - 9:00 PM",
+    "hoursWeekend": "Sunday: 9:00 AM - 5:00 PM"
   },
   "common": {
     "loading": "Loading...",

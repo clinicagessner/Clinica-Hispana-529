@@ -47,14 +47,14 @@ const copy = {
       "Atención médica profesional el mismo día, sin cita previa, sin seguro requerido. 100% en español, precios accesibles.",
     ctaCallPrefix: "Llamar",
     ctaDirections: "Cómo Llegar",
-    heroFootnote: "Lunes a Domingo · 9:00 AM - 9:00 PM · Walk-ins bienvenidos",
+    heroFootnote: "Lun-Sáb 9:00 AM - 9:00 PM · Dom 9:00 AM - 5:00 PM · Walk-ins bienvenidos",
     diffSectionTitle: "¿Por qué los hispanos eligen Clínica Hispana Familiar 529?",
     diffSectionDesc:
       "Atención médica accesible para usted y su familia, sin las complicaciones de hospitales grandes.",
     differentiators: [
       { title: "Reseñas 5 estrellas", desc: "Cientos de pacientes hispanos satisfechos en Google." },
       { title: "Sin cita previa", desc: "Llegue y reciba atención el mismo día." },
-      { title: "Lunes a Domingo", desc: "Horario extendido de 9:00 AM a 9:00 PM." },
+      { title: "Abierto los 7 días", desc: "Lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM." },
       { title: "100% en español", desc: "Todo el personal habla su idioma." },
       { title: "Sin seguro requerido", desc: "Aceptamos pacientes con o sin cobertura." },
       { title: "Precios accesibles", desc: "Tarifas transparentes antes de atenderle." },
@@ -65,7 +65,7 @@ const copy = {
     offeringsDesc: "Todo lo que necesita en una sola visita, sin complicaciones.",
     offeringsRows: [
       { label: "Reseñas en Google" },
-      { label: "Horario", value: "7 días, hasta 9:00 PM" },
+      { label: "Horario", value: "Lun-Sáb hasta 9 PM · Dom hasta 5 PM" },
       { label: "Cita previa", value: "No se requiere" },
       { label: "Pago", value: "Sin necesidad de seguro" },
       { label: "Idioma", value: "100% Español" },
@@ -83,7 +83,7 @@ const copy = {
       "Ubicados en el norte de Houston con acceso fácil y estacionamiento gratuito.",
     addressLabel: "Dirección",
     hoursLabel: "Horario",
-    hoursValue: "Lunes a Domingo: 9:00 AM - 9:00 PM",
+    hoursValue: "Lun-Sáb 9:00 AM - 9:00 PM · Dom 9:00 AM - 5:00 PM",
     phoneLabel: "Teléfono",
     openInMaps: "Abrir en Google Maps",
     mapTitle: "Ubicación Clínica Hispana Familiar 529",
@@ -92,7 +92,7 @@ const copy = {
     faqItems: [
       {
         q: "¿Necesito hacer cita?",
-        a: "No. Atendemos walk-ins durante todo nuestro horario (Lunes a Domingo, 9:00 AM - 9:00 PM). Llegue cuando le acomode y le atendemos lo más pronto posible.",
+        a: "No. Atendemos walk-ins durante todo nuestro horario (lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM). Llegue cuando le acomode y le atendemos lo más pronto posible.",
       },
       {
         q: "¿Atienden a pacientes sin seguro médico?",
@@ -130,14 +130,14 @@ const copy = {
       "Same-day professional medical care, no appointment needed, no insurance required. 100% Spanish-speaking staff, affordable pricing.",
     ctaCallPrefix: "Call",
     ctaDirections: "Get Directions",
-    heroFootnote: "Monday to Sunday · 9:00 AM - 9:00 PM · Walk-ins welcome",
+    heroFootnote: "Mon-Sat 9:00 AM - 9:00 PM · Sun 9:00 AM - 5:00 PM · Walk-ins welcome",
     diffSectionTitle: "Why hispanic patients choose Clínica Hispana Familiar 529",
     diffSectionDesc:
       "Accessible medical care for you and your family, without the hassle of large hospitals.",
     differentiators: [
       { title: "5-star reviews", desc: "Hundreds of satisfied hispanic patients on Google." },
       { title: "No appointment needed", desc: "Walk in and receive same-day care." },
-      { title: "Open 7 days a week", desc: "Extended hours from 9:00 AM to 9:00 PM." },
+      { title: "Open 7 days a week", desc: "Monday through Saturday 9:00 AM - 9:00 PM, Sunday 9:00 AM - 5:00 PM." },
       { title: "100% Spanish-speaking", desc: "Our entire team speaks your language." },
       { title: "No insurance required", desc: "We see patients without insurance, with affordable self-pay pricing." },
       { title: "Affordable pricing", desc: "Transparent rates shared before any service." },
@@ -148,7 +148,7 @@ const copy = {
     offeringsDesc: "Everything you need in a single visit, without the hassle.",
     offeringsRows: [
       { label: "Google reviews" },
-      { label: "Hours", value: "7 days, until 9:00 PM" },
+      { label: "Hours", value: "Mon-Sat until 9 PM · Sun until 5 PM" },
       { label: "Appointment", value: "Not required" },
       { label: "Payment", value: "Self-pay, no insurance needed" },
       { label: "Language", value: "100% Spanish" },
@@ -166,7 +166,7 @@ const copy = {
       "Located in north Houston with easy access and free parking.",
     addressLabel: "Address",
     hoursLabel: "Hours",
-    hoursValue: "Monday to Sunday: 9:00 AM - 9:00 PM",
+    hoursValue: "Mon-Sat 9:00 AM - 9:00 PM · Sun 9:00 AM - 5:00 PM",
     phoneLabel: "Phone",
     openInMaps: "Open in Google Maps",
     mapTitle: "Clínica Hispana Familiar 529 location",
@@ -175,7 +175,7 @@ const copy = {
     faqItems: [
       {
         q: "Do I need an appointment?",
-        a: "No. We see walk-ins during all of our open hours (Monday to Sunday, 9:00 AM - 9:00 PM). Stop by whenever it works for you and we'll see you as soon as possible.",
+        a: "No. We see walk-ins during all of our open hours (Monday through Saturday 9:00 AM - 9:00 PM, Sunday 9:00 AM - 5:00 PM). Stop by whenever it works for you and we'll see you as soon as possible.",
       },
       {
         q: "Do you accept patients without health insurance?",

@@ -110,7 +110,7 @@ At your visit we define the right schedule for you based on your lab work — we
 
 ## What to Expect at Your Visit
 
-1. **Walk in without an appointment** any day of the week, 9:00 AM to 9:00 PM
+1. **Walk in without an appointment** any day of the week (Monday-Saturday 9:00 AM to 9:00 PM, Sunday 9:00 AM to 5:00 PM)
 2. **Consultation in your language:** we review your symptoms, medications, and history
 3. **Blood test** at our [in-house laboratory](/services/examenes-sangre), with fast results
 4. **A clear plan:** if you're deficient, we explain whether an injection, a vitamin IV drip, or an oral supplement fits best, and how often
@@ -122,7 +122,7 @@ At your visit we define the right schedule for you based on your lab work — we
 - **No appointment needed:** walk in any day, 7 days a week
 - **In-house laboratory** with fast results
 - **No insurance required:** affordable, transparent self-pay pricing
-- **Extended hours:** Monday through Sunday, 9:00 AM - 9:00 PM
+- **Extended hours:** Monday through Saturday 9:00 AM - 9:00 PM, Sunday 9:00 AM - 5:00 PM
 - Located in northwest Houston, near Copperfield, Bear Creek, Cypress, Jersey Village, and Katy
 
 ## Get Your Energy Back Today
@@ -131,7 +131,7 @@ Don't get used to being tired. A vitamin B12 test takes minutes, and the fix can
 
 - **Phone:** (281) 694-7250
 - **Address:** 15003 FM 529 B, Houston, TX 77095
-- **Hours:** Monday to Sunday, 9:00 AM - 9:00 PM
+- **Hours:** Monday-Saturday 9:00 AM - 9:00 PM · Sunday 9:00 AM - 5:00 PM
 - **No appointment needed** — Walk-ins welcome
 
 ## Frequently Asked Questions

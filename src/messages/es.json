@@ -27,7 +27,7 @@
     "ctaCall": "Llamar Ahora",
     "ctaLocation": "Cómo Llegar",
     "ctaContact": "¿Prefieres que te contactemos? Escríbenos",
-    "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
+    "hours": "Lun-Sáb 9:00 AM - 9:00 PM · Dom 9:00 AM - 5:00 PM",
     "googleReviews": "+ reseñas en Google",
     "cardTitle": "¿Por qué elegirnos?",
     "cardSubtitle": "La mejor atención para usted y su familia",
@@ -94,8 +94,8 @@
       "address": "Dirección",
       "phone": "Teléfono",
       "hours": "Horario",
-      "hoursWeekday": "Lunes a Viernes: 9:00 AM - 9:00 PM",
-      "hoursWeekend": "Sábado y Domingo: 9:00 AM - 9:00 PM",
+      "hoursWeekday": "Lunes a Sábado: 9:00 AM - 9:00 PM",
+      "hoursWeekend": "Domingo: 9:00 AM - 5:00 PM",
       "email": "Correo",
       "footerNote": "Estamos ubicados en el corazón de Houston, con fácil acceso y estacionamiento gratuito."
     }
@@ -110,7 +110,7 @@
     "q3": "¿Hablan español en la clínica?",
     "a3": "Sí, todo nuestro personal habla español. Nuestra clínica fue creada específicamente para servir a la comunidad hispana de Houston, y nos aseguramos de que pueda comunicarse cómodamente en su idioma.",
     "q4": "¿Cuáles son sus horarios de atención?",
-    "a4": "Atendemos de lunes a domingo. Nuestro horario regular es de 9:00 AM a 9:00 PM todos los días. Por favor llámenos para confirmar horarios en días festivos.",
+    "a4": "Atendemos los 7 días de la semana. Nuestro horario regular es de lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM. Por favor llámenos para confirmar horarios en días festivos.",
     "q5": "¿Qué formas de pago aceptan?",
     "a5": "Aceptamos efectivo y todas las tarjetas de crédito y débito principales (Visa, MasterCard, American Express, Discover). Manejamos precios accesibles y transparentes, y atendemos a pacientes sin seguro.",
     "q6": "¿Ofrecen planes de pago?",
@@ -124,7 +124,7 @@
     "q10": "¿Hay estacionamiento disponible?",
     "a10": "Sí, contamos con amplio estacionamiento gratuito frente a la clínica. Nuestras instalaciones también son accesibles para personas con discapacidad, incluyendo rampas y baños adaptados.",
     "q11": "¿Dónde encuentro una clínica hispana cerca de mí en Houston?",
-    "a11": "Clínica Hispana Familiar 529 es una clínica hispana y latina en 15003 FM 529 B, Houston, TX 77095, en el noroeste de Houston. Abrimos todos los días de 9:00 AM a 9:00 PM, sin cita previa.",
+    "a11": "Clínica Hispana Familiar 529 es una clínica hispana y latina en 15003 FM 529 B, Houston, TX 77095, en el noroeste de Houston. Abrimos de lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM, sin cita previa.",
     "q12": "¿Puedo tener aquí a mi médico primario?",
     "a12": "Sí. Muchas familias nos eligen como su médico primario y centro médico cerca de casa: consultas de medicina general, control de condiciones crónicas y laboratorio en un solo lugar."
   },
@@ -140,7 +140,7 @@
       "bus": "Acceso en Autobús",
       "security": "Área Segura"
     },
-    "hours": "Lunes a Domingo: 9:00 AM - 9:00 PM",
+    "hours": "Lun-Sáb 9:00 AM - 9:00 PM · Dom 9:00 AM - 5:00 PM",
     "call": "Llamar"
   },
   "footer": {
@@ -153,8 +153,8 @@
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "hipaa": "Aviso HIPAA",
-    "hoursWeekday": "Lunes a Viernes: 9:00 AM - 9:00 PM",
-    "hoursWeekend": "Sábado y Domingo: 9:00 AM - 9:00 PM",
+    "hoursWeekday": "Lunes a Sábado: 9:00 AM - 9:00 PM",
+    "hoursWeekend": "Domingo: 9:00 AM - 5:00 PM",
     "stars": "{rating} con {reviews}+ reseñas"
   },
   "common": {

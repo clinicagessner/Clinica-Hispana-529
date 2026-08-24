@@ -111,7 +111,7 @@ En su consulta definimos el esquema adecuado para usted con base en sus análisi
 
 ## Qué esperar en su visita
 
-1. **Llegue sin cita** cualquier día de la semana, de 9:00 AM a 9:00 PM
+1. **Llegue sin cita** cualquier día de la semana (lunes a sábado de 9:00 AM a 9:00 PM, domingo de 9:00 AM a 5:00 PM)
 2. **Consulta en español:** revisamos sus síntomas, medicamentos y antecedentes
 3. **Análisis de sangre** en nuestro [laboratorio propio](/services/examenes-sangre), con resultados rápidos
 4. **Plan claro:** si hay deficiencia, le explicamos si le conviene inyección, suero vitaminado o suplemento oral, y con qué frecuencia
@@ -123,7 +123,7 @@ En su consulta definimos el esquema adecuado para usted con base en sus análisi
 - **Sin cita previa:** venga cuando pueda, los 7 días de la semana
 - **Laboratorio propio** con resultados rápidos
 - **No necesita seguro médico:** precios accesibles y transparentes de pago directo
-- **Horario amplio:** lunes a domingo de 9:00 AM a 9:00 PM
+- **Horario amplio:** lunes a sábado de 9:00 AM a 9:00 PM y domingo de 9:00 AM a 5:00 PM
 - Ubicados en el noroeste de Houston, cerca de Copperfield, Bear Creek, Cypress, Jersey Village y Katy
 
 ## Recupere su energía hoy
@@ -132,7 +132,7 @@ No se acostumbre al cansancio. Una prueba de vitamina B12 toma minutos, y la sol
 
 - **Teléfono:** (281) 694-7250
 - **Dirección:** 15003 FM 529 B, Houston, TX 77095
-- **Horario:** Lunes a Domingo, 9:00 AM - 9:00 PM
+- **Horario:** Lunes a Sábado 9:00 AM - 9:00 PM · Domingo 9:00 AM - 5:00 PM
 - **Sin cita previa** — Walk-ins bienvenidos
 
 ## Preguntas frecuentes
