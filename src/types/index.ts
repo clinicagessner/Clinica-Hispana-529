@@ -3,6 +3,9 @@ export interface Service {
   slug: string;
   title: string;
   titleEn?: string;
+  /** Optional <title> override (absolute, no template). Falls back to title. */
+  metaTitle?: string;
+  metaTitleEn?: string;
   shortTitle: string;
   description: string;
   descriptionEn?: string;

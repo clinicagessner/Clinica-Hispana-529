@@ -94,7 +94,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: service.title,
+    // metaTitle already carries city + brand, so skip the layout title template
+    title: service.metaTitle ? { absolute: service.metaTitle } : service.title,
     description: service.description,
     keywords: service.keywords,
     alternates: {
