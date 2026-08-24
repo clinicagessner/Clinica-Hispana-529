@@ -42,6 +42,9 @@ const nextConfig: NextConfig = {
       // URLs basura reportadas como 404 en Search Console (ago 2026)
       { source: "/services-9", destination: "/services", permanent: true },
       { source: "/blank", destination: "/", permanent: true },
+      // URLs de la web antigua (WordPress) que Google aún tiene indexadas
+      { source: "/urologia", destination: "/services/salud-hombre", permanent: true },
+      { source: "/gallery", destination: "/", permanent: true },
     ];
   },
   async headers() {
