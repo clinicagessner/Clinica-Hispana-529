@@ -1261,6 +1261,32 @@ export const PROMOTIONS: Promotion[] = [
     order: 1,
   },
   {
+    slug: "chequeo-mujer-ultrasonido",
+    title: "Chequeo Completo de la Mujer",
+    titleEn: "Complete Women's Checkup",
+    price: "$179",
+    blurb:
+      "¿Hace cuánto no revisas tu salud femenina? Chequeo completo de la mujer con ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis. Precio regular $300, ahora por solo $179.",
+    blurbEn:
+      "How long since your last women's health check? Complete women's checkup with pelvic ultrasound, Pap smear, urine test and a free medical consultation. Regular price $300, now only $179.",
+    includes: [
+      "Ultrasonido pélvico",
+      "Papanicolaou",
+      "Examen de orina",
+      "Consulta médica gratis",
+    ],
+    includesEn: [
+      "Pelvic ultrasound",
+      "Pap smear",
+      "Urine test",
+      "Free medical consultation",
+    ],
+    image: "/images/promotions/chequeo-mujer-ultrasonido.webp",
+    alt: "Promoción de chequeo completo de la mujer por $179 con ultrasonido pélvico, Papanicolaou, examen de orina y consulta médica gratis en Clínica Hispana Familiar 529 Houston",
+    altEn: "Complete women's checkup promotion for $179 with pelvic ultrasound, Pap smear, urine test and free medical consultation at Clínica Hispana Familiar 529 Houston",
+    order: 2,
+  },
+  {
     slug: "chequeo-completo-hombres",
     title: "Chequeo Completo para Hombres",
     titleEn: "Complete Checkup for Men",
@@ -1285,7 +1311,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Promoción de chequeo completo para hombres por $89 con orina, próstata y testosterona en Clínica Hispana Familiar 529 Houston",
     altEn: "Complete checkup for men promotion for $89 with urine, prostate and testosterone tests at Clínica Hispana Familiar 529 Houston",
     highlighted: true,
-    order: 2,
+    order: 3,
   },
   {
     slug: "examen-general-sangre-vitaminas",
@@ -1312,7 +1338,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Promoción de examen general de sangre más vitaminas por $99 con consulta médica en Clínica Hispana Familiar 529 Houston",
     altEn: "General blood test plus vitamins promotion for $99 with medical consultation at Clínica Hispana Familiar 529 Houston",
     highlighted: true,
-    order: 3,
+    order: 4,
   },
   {
     slug: "chequeo-general-completo",
@@ -1339,7 +1365,7 @@ export const PROMOTIONS: Promotion[] = [
     alt: "Promoción de chequeo general completo por $99 con examen de sangre, A1C, orina y consulta médica gratis en Clínica Hispana Familiar 529 Houston",
     altEn: "Complete general checkup promotion for $99 with blood test, A1C, urine test and free medical consultation at Clínica Hispana Familiar 529 Houston",
     highlighted: true,
-    order: 4,
+    order: 5,
   },
 ];
 
