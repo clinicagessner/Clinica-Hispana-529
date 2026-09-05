@@ -7,7 +7,9 @@ type Props = {
 };
 
 export function JsonLdBlogPosting({ post, locale }: Props) {
-  const url = `${SITE_CONFIG.baseUrl}/${locale}/blog/${post.slug}`;
+  // Spanish is the default locale and has no URL prefix
+  const localePath = locale === "en" ? "/en" : "";
+  const url = `${SITE_CONFIG.baseUrl}${localePath}/blog/${post.slug}`;
 
   const blogPostingSchema = {
     "@context": "https://schema.org",
@@ -26,11 +28,13 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
     dateModified: post.dateModified || post.date,
     author: {
       "@type": "Organization",
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
       name: post.author,
       url: SITE_CONFIG.baseUrl,
     },
     publisher: {
       "@type": "MedicalClinic",
+      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
       name: SITE_CONFIG.name,
       logo: {
         "@type": "ImageObject",
@@ -72,7 +76,7 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: `${SITE_CONFIG.baseUrl}/${locale}/blog`,
+        item: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
       },
       {
         "@type": "ListItem",

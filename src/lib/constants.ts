@@ -34,6 +34,7 @@ export const CONTACT_INFO: ContactInfo = {
 export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/clinicafamiliar529",
   instagram: "https://www.instagram.com/clinicafamiliar529/",
+  google: "https://g.co/kgs/1RwVVhT",
 };
 
 // Google Reviews data - fallback si la Places API no responde.
