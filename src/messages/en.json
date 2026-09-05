@@ -206,6 +206,10 @@
     "ctaSchedule": "Schedule I-693 Exam",
     "ctaCall": "Call Now"
   },
+  "about": {
+    "title": "About Clínica Hispana Familiar 529",
+    "paragraph": "Clínica Hispana Familiar 529 is a primary care medical clinic located at 15003 FM 529 B, Houston, TX 77095, in northwest Houston. It is open Monday through Saturday from 9:00 AM to 9:00 PM and Sunday from 9:00 AM to 5:00 PM, with no appointment needed. Visits are conducted in Spanish, and also in English. No health insurance is required: pricing is self-pay and cash and cards are accepted. Services include family medicine, diabetes, hypertension and thyroid management, gynecology with Pap smear, men's health with prostate and testosterone testing, clinical laboratory with blood tests, ultrasound, electrocardiogram, vaccines, vitamin IV therapy, urinary tract infection treatment, minor surgery, school and DOT physical exams for CDL license, alcohol and drug testing, and the I-693 immigration medical exam with a USCIS-authorized physician. The clinic has a large number of Google reviews, with an average rating of 5 stars."
+  },
   "chronicCare": {
     "badge": "Ongoing Care",
     "title": "Diabetes & Hypertension Management in Houston",

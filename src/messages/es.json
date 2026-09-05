@@ -206,6 +206,10 @@
     "ctaSchedule": "Agendar Examen I-693",
     "ctaCall": "Llamar Ahora"
   },
+  "about": {
+    "title": "Sobre Clínica Hispana Familiar 529",
+    "paragraph": "Clínica Hispana Familiar 529 es una clínica médica de atención primaria ubicada en 15003 FM 529 B, Houston, TX 77095, en el noroeste de Houston. Atiende de lunes a sábado de 9:00 AM a 9:00 PM y los domingos de 9:00 AM a 5:00 PM, sin cita previa. La consulta se realiza en español, y también en inglés. No se requiere seguro médico: los precios son de pago directo y se aceptan efectivo y tarjetas. Los servicios incluyen medicina familiar, control de diabetes, hipertensión y tiroides, ginecología con Papanicolaou, salud del hombre con examen de próstata y testosterona, laboratorio clínico con análisis de sangre, ultrasonido, electrocardiograma, vacunas, sueros vitaminados, tratamiento de infecciones urinarias, cirugías menores, exámenes físicos escolares y DOT para licencia CDL, pruebas de alcohol y drogas, y el examen médico de inmigración I-693 con médico autorizado por USCIS. La clínica cuenta con un gran número de reseñas en Google, con un promedio de 5 estrellas."
+  },
   "chronicCare": {
     "badge": "Cuidado Continuo",
     "title": "Control de Diabetes e Hipertensión en Houston",
