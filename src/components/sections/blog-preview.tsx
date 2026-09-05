@@ -62,11 +62,11 @@ export async function BlogPreview() {
                 <div className="flex items-center gap-4 text-sm text-muted-foreground mb-4">
                   <div className="flex items-center gap-1.5">
                     <Calendar className="size-4" weight="fill" />
-                    <span>{new Date(featuredPost.date).toLocaleDateString(locale === "en" ? "en-US" : "es-MX", {
+                    <span><time dateTime={featuredPost.date}>{new Date(featuredPost.date).toLocaleDateString(locale === "en" ? "en-US" : "es-MX", {
                       year: "numeric",
                       month: "long",
                       day: "numeric"
-                    })}</span>
+                    })}</time></span>
                   </div>
                   {featuredPost.readTime && (
                     <div className="flex items-center gap-1.5">

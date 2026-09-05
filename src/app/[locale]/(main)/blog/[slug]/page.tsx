@@ -86,6 +86,14 @@ export default async function BlogPostPage({ params }: Props) {
     if (locale === "es") return href;
     return href.startsWith("/") ? `/${locale}${href}` : `/${locale}/${href}`;
   };
+  const formatDate = (iso: string) => {
+    const [y, m, d] = iso.split("-").map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString(locale === "en" ? "en-US" : "es-MX", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+  };
 
   const post = getBlogPost(slug, locale);
 
@@ -141,12 +149,13 @@ export default async function BlogPostPage({ params }: Props) {
               <div className="flex flex-wrap items-center gap-4 text-sm text-white/70">
                 <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                   <CalendarDots className="w-4 h-4" weight="fill" />
-                  {new Date(post.date).toLocaleDateString(locale, {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                  })}
+                  <time dateTime={post.date}>{formatDate(post.date)}</time>
                 </span>
+                {post.dateModified && post.dateModified !== post.date && (
+                  <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
+                    {t("updated")} <time dateTime={post.dateModified}>{formatDate(post.dateModified)}</time>
+                  </span>
+                )}
                 {post.readTime && (
                   <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
                     <Clock className="w-4 h-4" weight="fill" />
@@ -154,7 +163,10 @@ export default async function BlogPostPage({ params }: Props) {
                   </span>
                 )}
                 <span className="flex items-center gap-2 bg-white/10 backdrop-blur-sm px-3 py-1.5 rounded-full">
-                  {t("by")} <strong className="text-white">{post.author}</strong>
+                  {t("by")}{" "}
+                  <Link href={getLocalizedHref("/#sobre-nosotros")} className="font-bold text-white hover:underline">
+                    {post.author}
+                  </Link>
                 </span>
               </div>
             </div>

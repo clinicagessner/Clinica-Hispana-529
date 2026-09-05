@@ -108,11 +108,11 @@ export default async function BlogPage({ params }: Props) {
                     <div className="flex items-center gap-4 text-sm text-muted-foreground mb-6">
                       <span className="flex items-center gap-1">
                         <CalendarDots className="w-4 h-4" />
-                        {new Date(featuredPost.date).toLocaleDateString(locale, {
+                        <time dateTime={featuredPost.date}>{new Date(featuredPost.date).toLocaleDateString(locale, {
                           year: "numeric",
                           month: "long",
                           day: "numeric",
-                        })}
+                        })}</time>
                       </span>
                       {featuredPost.readTime && (
                         <span className="flex items-center gap-1">
@@ -163,11 +163,11 @@ export default async function BlogPage({ params }: Props) {
                     <div className="flex items-center justify-between text-sm text-muted-foreground">
                       <span className="flex items-center gap-1">
                         <CalendarDots className="w-4 h-4" />
-                        {new Date(post.date).toLocaleDateString(locale, {
+                        <time dateTime={post.date}>{new Date(post.date).toLocaleDateString(locale, {
                           year: "numeric",
                           month: "short",
                           day: "numeric",
-                        })}
+                        })}</time>
                       </span>
                       {post.readTime && (
                         <span className="flex items-center gap-1">
