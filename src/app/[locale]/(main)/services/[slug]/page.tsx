@@ -388,7 +388,8 @@ function ServiceContent({ content }: { content: string }) {
           const headingMatch = lines[0].match(/^\*\*(.*?)\*\*$/);
           const heading = headingMatch ? headingMatch[1] : lines[0].replace(/\*\*/g, "");
           const listItems = lines.slice(1).filter((l) => l.startsWith("- ")).map((l) => l.replace(/^- /, ""));
-          const paragraphs = lines.slice(1).filter((l) => !l.startsWith("- ") && l.trim());
+          const steps = lines.slice(1).filter((l) => /^\d+\. /.test(l)).map((l) => l.replace(/^\d+\. /, ""));
+          const paragraphs = lines.slice(1).filter((l) => !l.startsWith("- ") && !/^\d+\. /.test(l) && l.trim());
 
           return (
             <div key={i}>
@@ -405,6 +406,18 @@ function ServiceContent({ content }: { content: string }) {
                     </li>
                   ))}
                 </ul>
+              )}
+              {steps.length > 0 && (
+                <ol className="space-y-2 ml-4 list-none">
+                  {steps.map((step, j) => (
+                    <li key={j} className="flex items-start gap-3 text-slate-600">
+                      <span className="flex items-center justify-center size-6 shrink-0 rounded-full bg-red-bg text-red-primary text-xs font-bold mt-0.5">
+                        {j + 1}
+                      </span>
+                      <span className="text-sm md:text-base">{step}</span>
+                    </li>
+                  ))}
+                </ol>
               )}
               {paragraphs.map((p, j) => (
                 <p key={j} className="text-slate-600 leading-relaxed mt-2 ml-4 text-sm md:text-base">{p}</p>
