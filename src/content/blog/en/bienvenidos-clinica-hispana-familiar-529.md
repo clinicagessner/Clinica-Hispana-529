@@ -4,7 +4,7 @@ title: "Welcome to Clínica Hispana Familiar 529!"
 description: "Discover our Hispanic medical clinic in Houston, TX. Professional care in Spanish, affordable prices, and a team committed to your health."
 date: "2026-03-16"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/logo.webp"
 featured: false
 category: "Announcements"

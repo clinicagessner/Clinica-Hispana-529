@@ -4,7 +4,7 @@ title: "Complete Guide: I-693 Immigration Medical Exam in Houston TX"
 description: "Everything you need to know about the I-693 medical exam for a Green Card in Houston TX. Requirements, vaccines, costs, documents, and what to expect from USCIS-certified Civil Surgeons."
 date: "2026-03-18"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/examenes-inmigracion.webp"
 featured: false
 category: "Immigration"

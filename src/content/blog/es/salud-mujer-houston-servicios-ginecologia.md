@@ -4,7 +4,7 @@ title: "Salud de la Mujer en Houston: Servicios de Ginecología en Español"
 description: "Servicios de ginecología en Houston TX con atención en español. Papanicolaou, exámenes pélvicos, planificación familiar y más en Clínica Hispana Familiar 529."
 date: "2026-03-20"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/ginecologia.webp"
 featured: false
 category: "Salud de la Mujer"

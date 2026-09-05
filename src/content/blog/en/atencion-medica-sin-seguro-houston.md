@@ -4,7 +4,7 @@ title: "Healthcare Without Insurance in Houston: Affordable Options"
 description: "No health insurance in Houston? Discover affordable, quality medical care options at Clínica Hispana Familiar 529 — transparent pricing, no appointment needed."
 date: "2026-03-17"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
 category: "Information"

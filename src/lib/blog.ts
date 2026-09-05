@@ -19,7 +19,7 @@ function readBlogFile(slug: string, locale: string): BlogPost | null {
     description: data.description || "",
     date: data.date || "",
     dateModified: data.dateModified,
-    author: data.author || "Clínica Hispana Familiar 529",
+    author: data.author || "Equipo Médico de Clínica Hispana Familiar 529",
     image: data.image,
     featured: data.featured || false,
     category: data.category,

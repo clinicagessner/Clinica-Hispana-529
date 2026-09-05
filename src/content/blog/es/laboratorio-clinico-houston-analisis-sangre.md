@@ -4,7 +4,7 @@ title: "Laboratorio Clínico en Houston: Análisis de Sangre con Resultados Ráp
 description: "Laboratorio clínico en Houston TX con resultados el mismo día. Análisis de sangre, glucosa, colesterol, tiroides y más. Precios accesibles en español."
 date: "2026-03-21"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/examenes-sangre.webp"
 featured: false
 category: "Diagnóstico"

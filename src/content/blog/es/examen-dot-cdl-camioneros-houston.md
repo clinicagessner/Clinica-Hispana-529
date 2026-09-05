@@ -4,7 +4,7 @@ title: "Examen DOT para Camioneros en Houston: Todo lo que Necesita Saber"
 description: "Guía completa del examen físico DOT para licencia CDL en Houston TX. Requisitos, qué esperar, costo y dónde hacerlo en español. Sin cita previa."
 date: "2026-04-11"
 dateModified: "2026-04-11"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/examen-dot.webp"
 featured: false
 category: "Salud Ocupacional"

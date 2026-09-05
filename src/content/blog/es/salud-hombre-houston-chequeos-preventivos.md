@@ -3,7 +3,7 @@ slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Salud del Hombre en Houston: Chequeos Preventivos que Pueden Salvarle la Vida"
 description: "Chequeos médicos para hombres en Houston TX con atención en español. Examen de próstata (PSA), presión arterial, diabetes, testosterona y más en Clínica Hispana Familiar 529."
 date: "2026-07-20"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/salud-hombre.webp"
 featured: true
 category: "Salud del Hombre"

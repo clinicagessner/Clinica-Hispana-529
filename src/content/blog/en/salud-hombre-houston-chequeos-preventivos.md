@@ -3,7 +3,7 @@ slug: "salud-hombre-houston-chequeos-preventivos"
 title: "Men's Health in Houston: Preventive Checkups That Can Save Your Life"
 description: "Men's health checkups in Houston TX with Spanish-speaking staff. Prostate exam (PSA), blood pressure, diabetes, testosterone and more at Clínica Hispana Familiar 529."
 date: "2026-07-20"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/salud-hombre.webp"
 featured: true
 category: "Men's Health"

@@ -4,7 +4,7 @@ title: "Diabetes Management in Houston: A Guide for Hispanic Patients"
 description: "Learn how to manage your diabetes with our comprehensive guide. Glucose monitoring, diet, medications, and how Clínica Hispana Familiar 529 can help Houston patients."
 date: "2026-03-19"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
 category: "Health"

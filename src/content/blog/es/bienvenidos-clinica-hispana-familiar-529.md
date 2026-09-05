@@ -4,7 +4,7 @@ title: "¡Bienvenidos a Clínica Hispana Familiar 529!"
 description: "Conoce nuestra clínica médica hispana en Houston, TX. Atención profesional en español, precios accesibles y un equipo comprometido con tu salud."
 date: "2026-03-16"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/logo.webp"
 featured: false
 category: "Anuncios"

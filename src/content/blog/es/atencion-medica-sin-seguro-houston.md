@@ -4,7 +4,7 @@ title: "Atención Médica Sin Seguro en Houston: Opciones Accesibles"
 description: "¿No tiene seguro médico en Houston? Conozca sus opciones para recibir atención médica accesible y de calidad en Clínica Hispana Familiar 529."
 date: "2026-03-17"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
 category: "Información"

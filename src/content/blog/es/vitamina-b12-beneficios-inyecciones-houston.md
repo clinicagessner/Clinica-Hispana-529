@@ -4,7 +4,7 @@ title: "Vitamina B12: Beneficios, Síntomas de Deficiencia e Inyecciones"
 description: "Para qué sirve la vitamina B12, síntomas de deficiencia y cuándo conviene la inyección. Prueba de B12, inyecciones y sueros vitaminados en español en Houston TX."
 date: "2026-08-18"
 dateModified: "2026-08-18"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false
 category: "Salud"

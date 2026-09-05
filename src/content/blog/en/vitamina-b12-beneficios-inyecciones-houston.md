@@ -4,7 +4,7 @@ title: "Vitamin B12: Benefits, Deficiency Symptoms and Injections"
 description: "What vitamin B12 does, deficiency symptoms to watch for, and when a B12 shot beats pills. B12 testing, injections and vitamin IV drips in Houston TX — walk in, no insurance needed."
 date: "2026-08-18"
 dateModified: "2026-08-18"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/sueros-vitaminados.webp"
 featured: false
 category: "Health"

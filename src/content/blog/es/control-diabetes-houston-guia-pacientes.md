@@ -4,7 +4,7 @@ title: "Control de Diabetes en Houston: Guía para Pacientes Hispanos"
 description: "Aprenda a controlar su diabetes con nuestra guía completa. Monitoreo de glucosa, alimentación, medicamentos y cómo Clínica Hispana Familiar 529 puede ayudarle."
 date: "2026-03-19"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
 category: "Salud"

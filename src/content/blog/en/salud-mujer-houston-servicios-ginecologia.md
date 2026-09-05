@@ -4,7 +4,7 @@ title: "Women's Health in Houston: Gynecology Services in Spanish"
 description: "Gynecology services in Houston TX with Spanish-speaking staff. Pap smears, pelvic exams, family planning, and more at Clínica Hispana Familiar 529."
 date: "2026-03-20"
 dateModified: "2026-03-21"
-author: "Clínica Hispana Familiar 529"
+author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/ginecologia.webp"
 featured: false
 category: "Women's Health"
