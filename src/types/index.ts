@@ -22,6 +22,8 @@ export interface Service {
   faqsEn?: { question: string; answer: string }[];
   highlighted?: boolean;
   order: number;
+  /** ISO date (YYYY-MM-DD) of the last content change; feeds sitemap lastmod. */
+  updatedAt?: string;
 }
 
 export interface Promotion {

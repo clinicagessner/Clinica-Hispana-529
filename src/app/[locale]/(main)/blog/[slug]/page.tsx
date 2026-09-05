@@ -45,6 +45,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       languages: {
         es: `/blog/${slug}`,
         en: `/en/blog/${slug}`,
+        "x-default": `/blog/${slug}`,
       },
     },
     openGraph: {
@@ -164,7 +165,7 @@ export default async function BlogPostPage({ params }: Props) {
         <div className="container mx-auto px-4 py-12 md:py-16">
           <div className="max-w-3xl mx-auto">
             <div className="blog-content">
-              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content) }} />
+              <div dangerouslySetInnerHTML={{ __html: parseMarkdown(post.content, locale) }} />
             </div>
 
             {/* CTA Section */}
@@ -233,7 +234,14 @@ export default async function BlogPostPage({ params }: Props) {
 }
 
 // Simple markdown parser (for basic formatting)
-function parseMarkdown(markdown: string): string {
+function parseMarkdown(markdown: string, locale: string): string {
+  // Internal markdown links are written without locale prefix; on /en pages they
+  // must point to the English version of the service or post.
+  const localizeHref = (href: string) =>
+    locale !== "es" && href.startsWith("/") && !href.startsWith(`/${locale}/`)
+      ? `/${locale}${href}`
+      : href;
+
   let html = markdown
     // Headers
     .replace(/^### (.*$)/gim, '<h3>$1</h3>')
@@ -244,7 +252,7 @@ function parseMarkdown(markdown: string): string {
     // Italic
     .replace(/\*(.*?)\*/gim, '<em>$1</em>')
     // Links
-    .replace(/\[(.*?)\]\((.*?)\)/gim, '<a href="$2">$1</a>')
+    .replace(/\[(.*?)\]\((.*?)\)/gim, (_m, text, href) => `<a href="${localizeHref(href)}">${text}</a>`)
     // Unordered lists
     .replace(/^- (.*$)/gim, '<li>$1</li>')
     // Ordered lists

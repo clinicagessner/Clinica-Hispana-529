@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import {
@@ -35,6 +34,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+import { Link } from "@/i18n/routing";
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
@@ -103,6 +103,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       languages: {
         es: `/services/${slug}`,
         en: `/en/services/${slug}`,
+        "x-default": `/services/${slug}`,
       },
     },
     openGraph: {
@@ -137,10 +138,16 @@ export default async function ServicePage({ params }: Props) {
   const service = getLocalizedService(rawService, locale);
   const IconComponent = iconMap[service.icon] || Stethoscope;
 
-  // Get related services (same category, excluding current)
-  const relatedServices = SERVICES.filter(
-    (s) => s.category === rawService.category && s.id !== rawService.id
-  ).slice(0, 3).map((s) => getLocalizedService(s, locale));
+  // Related services: same category, rotating window that starts right after the
+  // current one. With a fixed slice(0, 3) the first three services of each
+  // category received every internal link and the rest received none.
+  const siblings = SERVICES.filter((s) => s.category === rawService.category);
+  const currentIndex = siblings.findIndex((s) => s.id === rawService.id);
+  const relatedServices = siblings
+    .filter((s) => s.id !== rawService.id)
+    .map((s, i, arr) => arr[(currentIndex + i) % arr.length])
+    .slice(0, 3)
+    .map((s) => getLocalizedService(s, locale));
 
   const localePath = locale === "en" ? "/en" : "";
   const breadcrumbs = [

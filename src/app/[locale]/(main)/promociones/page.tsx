@@ -23,13 +23,15 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: t("metaTitle"),
+    // metaTitle already carries city + brand, so skip the layout title template
+    title: { absolute: t("metaTitle") },
     description: t("metaDescription"),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,
       languages: {
         es: "/promociones",
         en: "/en/promociones",
+        "x-default": "/promociones",
       },
     },
     openGraph: {
