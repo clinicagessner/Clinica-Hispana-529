@@ -33,7 +33,7 @@ import {
 } from "@phosphor-icons/react/dist/ssr";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+import { FaqList } from "@/components/ui/faq-list";
 import { Link } from "@/i18n/routing";
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
@@ -299,27 +299,7 @@ export default async function ServicePage({ params }: Props) {
                 <h2 className="text-2xl md:text-3xl font-heading font-bold text-slate-dark mb-8 text-center">
                   {t("faqTitle")}
                 </h2>
-                <Accordion type="single" collapsible className="space-y-3">
-                  {getServiceFAQs(rawService.slug, locale).map((faq, index) => (
-                    <AccordionItem
-                      key={index}
-                      value={`faq-${index}`}
-                      className="group bg-white border border-slate-100 rounded-2xl px-6 shadow-sm hover:shadow-md hover:border-red-primary/20 transition-all duration-300 data-[state=open]:border-red-primary/30 data-[state=open]:shadow-md"
-                    >
-                      <AccordionTrigger className="text-left font-semibold text-slate-dark hover:text-red-primary hover:no-underline py-5 data-[state=open]:text-red-primary">
-                        <span className="flex items-center gap-4">
-                          <span className="flex items-center justify-center size-8 rounded-lg bg-red-bg text-red-primary text-sm font-bold group-data-[state=open]:bg-red-primary group-data-[state=open]:text-white transition-colors">
-                            {String(index + 1).padStart(2, "0")}
-                          </span>
-                          <span className="flex-1">{faq.question}</span>
-                        </span>
-                      </AccordionTrigger>
-                      <AccordionContent className="text-muted-foreground pb-5 pl-12 leading-relaxed">
-                        {faq.answer}
-                      </AccordionContent>
-                    </AccordionItem>
-                  ))}
-                </Accordion>
+                <FaqList items={getServiceFAQs(rawService.slug, locale)} name="faq-service" />
               </div>
             </div>
           </section>
