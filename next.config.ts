@@ -45,6 +45,8 @@ const nextConfig: NextConfig = {
       // URLs de la web antigua (WordPress) que Google aún tiene indexadas
       { source: "/urologia", destination: "/services/salud-hombre", permanent: true },
       { source: "/gallery", destination: "/", permanent: true },
+      // URL final de un anuncio de Google Ads que no existe en el sitio (2026-10-02)
+      { source: "/examenes-de-std", destination: "/services/enfermedades-transmision-sexual", permanent: true },
     ];
   },
   async headers() {
