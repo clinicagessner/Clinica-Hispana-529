@@ -11,6 +11,8 @@ import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
 import { getGooglePlaceData } from "@/lib/google-places";
 import "../globals.css";
+import { ConversionEvents } from "@/components/tracking/conversion-events";
+import { GoogleTags } from "@/components/tracking/google-tags";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -133,7 +135,6 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = await getMessages();
 
   // IDs de analítica desde variables de entorno; si faltan, el tag no se renderiza.
-  const googleAdsId = process.env.NEXT_PUBLIC_GOOGLE_ADS_ID;
   const metaPixelId = process.env.NEXT_PUBLIC_META_PIXEL_ID;
   const callRailSrc = process.env.NEXT_PUBLIC_CALLRAIL_SCRIPT_URL;
 
@@ -172,8 +173,8 @@ export default async function LocaleLayout({ children, params }: Props) {
             <ScrollAnimations />
           </TooltipProvider>
         </NextIntlClientProvider>
+        <ConversionEvents />
       </body>
-      {/* TODO(randy): añadir <GoogleAnalytics gaId="G-..." /> cuando exista la propiedad GA4 de esta clínica */}
       {metaPixelId && (
         <Script id="meta-pixel" strategy="afterInteractive">
           {`
@@ -190,21 +191,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           `}
         </Script>
       )}
-      {googleAdsId && (
-        <>
-          <Script
-            src={`https://www.googletagmanager.com/gtag/js?id=${googleAdsId}`}
-            strategy="afterInteractive"
-          />
-          <Script id="google-ads-tag" strategy="afterInteractive">
-            {`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('config', '${googleAdsId}');
-            `}
-          </Script>
-        </>
-      )}
+      <GoogleTags />
     </html>
   );
 }
