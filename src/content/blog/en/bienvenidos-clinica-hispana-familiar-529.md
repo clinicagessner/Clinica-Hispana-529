@@ -37,7 +37,7 @@ We know health emergencies don't wait. That's why we offer walk-in care so you c
 We believe health care should not be a luxury. We offer fair, transparent pricing and see patients without insurance.
 
 ### Convenient Location
-We are located at **15003 FM 529 B, Houston, TX 77095**, with easy access and ample parking.
+We are located at **15003 FM 529 B, Houston, TX 77095**, with easy access and ample free parking.
 
 ## Our Services
 

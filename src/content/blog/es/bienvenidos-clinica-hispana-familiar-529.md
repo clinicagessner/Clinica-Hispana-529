@@ -37,7 +37,7 @@ Sabemos que las emergencias de salud no esperan. Por eso ofrecemos atención sin
 Creemos que la salud no debe ser un lujo. Ofrecemos precios justos y transparentes, y atendemos a pacientes sin necesidad de seguro médico.
 
 ### Ubicación Conveniente
-Estamos ubicados en **15003 FM 529 B, Houston, TX 77095**, con fácil acceso y amplio estacionamiento.
+Estamos ubicados en **15003 FM 529 B, Houston, TX 77095**, con fácil acceso y amplio estacionamiento gratuito.
 
 ## Nuestros Servicios
 
