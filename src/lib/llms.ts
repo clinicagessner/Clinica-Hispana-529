@@ -49,10 +49,10 @@ function header(rating: { rating: number; total: number }) {
     "## Datos de contacto",
     `- Dirección: ${CONTACT_INFO.address}, ${CONTACT_INFO.city}, ${CONTACT_INFO.state} ${CONTACT_INFO.zip}`,
     `- Teléfono: ${CONTACT_INFO.phoneFormatted}`,
-    `- WhatsApp: https://wa.me/${CONTACT_INFO.phone.replace("+", "")}`,
+    `- WhatsApp: [wa.me/${CONTACT_INFO.phone.replace("+", "")}](https://wa.me/${CONTACT_INFO.phone.replace("+", "")})`,
     `- Email: ${CONTACT_INFO.email}`,
-    `- Sitio web: ${BASE} (español) · ${BASE}/en (English)`,
-    `- Mapa: ${CONTACT_INFO.googleMapsUrl}`,
+    `- Sitio web: [${SITE_CONFIG.name}](${BASE}) (español) · [English](${BASE}/en)`,
+    `- Mapa: [Google Maps](${CONTACT_INFO.googleMapsUrl})`,
     "",
     "## Horario",
     `- ${CONTACT_INFO.hoursWeekday}`,
@@ -70,7 +70,7 @@ function header(rating: { rating: number; total: number }) {
     "## Perfiles externos",
     ...Object.entries(SOCIAL_LINKS)
       .filter(([, url]) => Boolean(url))
-      .map(([name, url]) => `- ${name.charAt(0).toUpperCase() + name.slice(1)}: ${url}`),
+      .map(([name, url]) => `- [${name.charAt(0).toUpperCase() + name.slice(1)}](${url})`),
     "",
   ];
 }
@@ -90,12 +90,12 @@ export async function buildLlmsTxt(): Promise<string> {
   for (const [category, services] of servicesByCategory()) {
     lines.push("", `### ${CATEGORY_LABELS[category] ?? category}`);
     for (const s of services) {
-      lines.push(`- [${s.title}](${BASE}/services/${s.slug}): ${s.description} (English: ${BASE}/en/services/${s.slug})`);
+      lines.push(`- [${s.title}](${BASE}/services/${s.slug}): ${s.description} ([English](${BASE}/en/services/${s.slug}))`);
     }
   }
 
   if (PROMOTIONS.length > 0) {
-    lines.push("", "## Promociones y paquetes", `Página: ${BASE}/promociones`);
+    lines.push("", "## Promociones y paquetes", `Página: [Promociones](${BASE}/promociones)`);
     for (const p of [...PROMOTIONS].sort((a, b) => a.order - b.order)) {
       lines.push(`- ${p.title}${p.price ? ` (${p.price})` : ""}: incluye ${p.includes.join(", ")}.`);
     }
@@ -103,7 +103,7 @@ export async function buildLlmsTxt(): Promise<string> {
 
   const posts = getBlogPosts("es");
   if (posts.length > 0) {
-    lines.push("", "## Blog", `Página: ${BASE}/blog`);
+    lines.push("", "## Blog", `Página: [Blog](${BASE}/blog)`);
     for (const post of posts) {
       lines.push(`- [${post.title}](${BASE}/blog/${post.slug}) — ${post.date}: ${post.description}`);
     }
@@ -115,8 +115,8 @@ export async function buildLlmsTxt(): Promise<string> {
     ...FAQ_ITEMS.map((item) => `- ${msg(item.question)} ${msg(item.answer)}`),
     "",
     "## Recursos",
-    `- Contenido completo para modelos de lenguaje: ${BASE}/llms-full.txt`,
-    `- Sitemap: ${BASE}/sitemap.xml`,
+    `- [Contenido completo para modelos de lenguaje](${BASE}/llms-full.txt)`,
+    `- [Sitemap](${BASE}/sitemap.xml)`,
     ""
   );
 
@@ -133,7 +133,7 @@ export async function buildLlmsFullTxt(): Promise<string> {
       lines.push(
         "",
         `### ${s.title}`,
-        `URL: ${BASE}/services/${s.slug} · English: ${BASE}/en/services/${s.slug}`,
+        `URL: [${s.title}](${BASE}/services/${s.slug}) · [English](${BASE}/en/services/${s.slug})`,
         "",
         s.description,
         "",
@@ -150,7 +150,7 @@ export async function buildLlmsFullTxt(): Promise<string> {
   }
 
   if (PROMOTIONS.length > 0) {
-    lines.push("", "## Promociones y paquetes", `URL: ${BASE}/promociones`);
+    lines.push("", "## Promociones y paquetes", `URL: [Promociones](${BASE}/promociones)`);
     for (const p of [...PROMOTIONS].sort((a, b) => a.order - b.order)) {
       lines.push("", `### ${p.title}${p.price ? ` — ${p.price}` : ""}`, p.blurb, "", "Incluye:", ...p.includes.map((i) => `- ${i}`));
     }
@@ -165,7 +165,7 @@ export async function buildLlmsFullTxt(): Promise<string> {
       lines.push(
         "",
         `### ${post.title}`,
-        `URL: ${BASE}/blog/${post.slug}`,
+        `URL: [${post.title}](${BASE}/blog/${post.slug})`,
         `Publicado: ${post.date}${post.dateModified && post.dateModified !== post.date ? ` · Actualizado: ${post.dateModified}` : ""} · Autor: ${post.author}`,
         "",
         // Markdown links in posts are site-relative; make them absolute for readers outside the site
