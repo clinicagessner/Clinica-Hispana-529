@@ -4,6 +4,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
+import { seoTitle } from "@/lib/seo";
 import { getBlogPosts, getBlogPost, getRelatedPosts } from "@/lib/blog";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -39,8 +40,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const localePath = locale === "en" ? "/en" : "";
 
+  const pageTitle = seoTitle(post.title);
+
   return {
-    title: post.title,
+    title: { absolute: pageTitle },
     description: post.description,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/blog/${slug}`,
@@ -51,7 +54,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
     },
     openGraph: {
-      title: post.title,
+      title: pageTitle,
       description: post.description,
       type: "article",
       publishedTime: post.date,
@@ -60,7 +63,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: post.image
         ? [
             {
-              url: post.image,
+              url: `${SITE_CONFIG.baseUrl}${post.image}`,
               width: 1200,
               height: 630,
               alt: post.title,
@@ -70,9 +73,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     twitter: {
       card: "summary_large_image",
-      title: post.title,
+      title: pageTitle,
       description: post.description,
-      images: post.image ? [post.image] : undefined,
+      images: post.image ? [`${SITE_CONFIG.baseUrl}${post.image}`] : undefined,
     },
   };
 }

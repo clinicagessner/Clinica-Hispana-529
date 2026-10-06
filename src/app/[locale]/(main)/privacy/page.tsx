@@ -4,6 +4,7 @@ import { setRequestLocale } from "next-intl/server";
 import { Phone, MapPin, Envelope, ArrowLeft } from "@phosphor-icons/react/dist/ssr";
 import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { OG_IMAGE, seoTitle } from "@/lib/seo";
 
 type MetadataProps = {
   params: Promise<{ locale: string }>;
@@ -14,8 +15,10 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: "Política de Privacidad HIPAA",
-    description: `Política de privacidad y aviso de prácticas de privacidad HIPAA de ${SITE_CONFIG.name}. Conozca cómo protegemos su información de salud.`,
+    title: { absolute: seoTitle(locale === "en" ? "HIPAA Privacy Policy" : "Política de Privacidad HIPAA") },
+    description: locale === "en"
+      ? `HIPAA privacy policy and notice of privacy practices of ${SITE_CONFIG.name}: how we protect your health information.`
+      : `Política de privacidad y aviso de prácticas de privacidad HIPAA de ${SITE_CONFIG.name}: cómo protegemos su información de salud.`,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
       languages: {
@@ -25,8 +28,11 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       },
     },
     openGraph: {
-      title: `Política de Privacidad HIPAA | ${SITE_CONFIG.name}`,
-      description: `Política de privacidad y aviso de prácticas de privacidad HIPAA. Conozca cómo protegemos su información de salud en ${SITE_CONFIG.name}.`,
+      title: seoTitle(locale === "en" ? "HIPAA Privacy Policy" : "Política de Privacidad HIPAA"),
+      description: locale === "en"
+        ? `How ${SITE_CONFIG.name} protects your health information under HIPAA.`
+        : `Cómo protege ${SITE_CONFIG.name} su información de salud según HIPAA.`,
+      images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: SITE_CONFIG.name }],
       url: `${SITE_CONFIG.baseUrl}${localePath}/privacy`,
       type: "website",
     },

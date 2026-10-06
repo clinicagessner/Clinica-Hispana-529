@@ -3,6 +3,7 @@ import { getLocale, getTranslations, setRequestLocale } from "next-intl/server";
 import { ArrowLeft, Star } from "@phosphor-icons/react/dist/ssr";
 import { Link } from "@/i18n/routing";
 import { LazyContactForm } from "@/components/forms/lazy-contact-form";
+import { seoTitle } from "@/lib/seo";
 import { PromotionsGrid } from "@/components/promotions/promotions-grid";
 import {
   JsonLdBreadcrumb,
@@ -24,8 +25,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    // metaTitle already carries city + brand, so skip the layout title template
-    title: { absolute: t("metaTitle") },
+    title: { absolute: seoTitle(t("metaTitle")) },
     description: t("metaDescription"),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,
@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       },
     },
     openGraph: {
-      title: t("metaTitle"),
+      title: seoTitle(t("metaTitle")),
       description: t("metaDescription"),
       url: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,
       images: [

@@ -1,8 +1,9 @@
 ---
 slug: "salud-hombre-houston-chequeos-preventivos"
-title: "Salud del Hombre en Houston: Chequeos Preventivos que Pueden Salvarle la Vida"
-description: "Chequeos médicos para hombres en Houston TX con atención en español. Examen de próstata (PSA), presión arterial, diabetes, testosterona y más en Clínica Hispana Familiar 529."
+title: "Salud del Hombre en Houston: Chequeos por Edad"
+description: "Chequeos del hombre por edad en Houston, en español: presión arterial, glucosa, colesterol y examen de próstata (PSA) en Clínica Hispana Familiar 529."
 date: "2026-07-20"
+dateModified: "2026-10-06"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/salud-hombre.webp"
 featured: true
@@ -13,7 +14,6 @@ keywords:
   - "chequeo preventivo hombres Houston"
   - "prueba PSA Houston"
   - "examen de próstata en español Houston"
-  - "testosterona baja Houston"
   - "clínica hispana para hombres Houston TX"
 ---
 
@@ -84,7 +84,7 @@ Si se siente cansado todo el tiempo, sin ánimo o ha notado cambios en su vida s
 | 40-49 años | Lo anterior + PSA (si hay antecedentes familiares) y electrocardiograma |
 | 50+ años | Lo anterior + PSA anual y evaluación de salud de colon |
 
-*Estas son guías generales. En su visita, el médico le indicará qué exámenes necesita según su historia personal y familiar.*
+*Estas son guías generales. En su visita, el equipo médico le indicará qué exámenes necesita según su historia personal y familiar.*
 
 ## Señales de Alarma: No las Ignore
 

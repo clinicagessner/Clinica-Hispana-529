@@ -4,6 +4,7 @@ import { ServicesFilter } from "@/components/services/services-filter";
 import { SERVICES, SITE_CONFIG } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { JsonLdCollectionPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { seoTitle } from "@/lib/seo";
 
 const categoryInfo: Record<string, { label: string; labelEn: string; iconName: string }> = {
   "medicina-general": { label: "Medicina general", labelEn: "General medicine", iconName: "Stethoscope" },
@@ -24,11 +25,14 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
   const t = await getTranslations({ locale, namespace: "services" });
   const localePath = locale === "en" ? "/en" : "";
 
+  const pageTitle = seoTitle(locale === "en" ? "Medical Services in NW Houston" : "Servicios Médicos en el Noroeste de Houston");
+  const description = locale === "en"
+    ? "29 walk-in services on FM 529, Houston: family medicine, I-693 exams, lab work, gynecology, ultrasound, DOT physicals. Spanish-speaking staff."
+    : "29 servicios sin cita en la FM 529, Houston: medicina familiar, examen I-693, laboratorio, ginecología, ultrasonido y examen DOT. En español.";
+
   return {
-    title: t("title"),
-    description: locale === "en"
-      ? "Medical services in Houston TX: family medicine, I-693 immigration exams, lab tests, gynecology, ultrasound, DOT physicals and more. Walk-ins welcome, Spanish-speaking staff."
-      : "Servicios médicos en Houston TX: medicina familiar, exámenes I-693, laboratorio, ginecología, ultrasonido, examen DOT y más. Sin cita previa, atención en español.",
+    title: { absolute: pageTitle },
+    description,
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/services`,
       languages: {
@@ -38,8 +42,8 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       },
     },
     openGraph: {
-      title: t("title"),
-      description: t("subtitle"),
+      title: pageTitle,
+      description,
       url: `${SITE_CONFIG.baseUrl}${localePath}/services`,
       images: [
         {

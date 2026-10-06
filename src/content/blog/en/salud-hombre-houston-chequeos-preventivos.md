@@ -1,8 +1,9 @@
 ---
 slug: "salud-hombre-houston-chequeos-preventivos"
-title: "Men's Health in Houston: Preventive Checkups That Can Save Your Life"
-description: "Men's health checkups in Houston TX with Spanish-speaking staff. Prostate exam (PSA), blood pressure, diabetes, testosterone and more at Clínica Hispana Familiar 529."
+title: "Men's Health in Houston: Checkups by Age"
+description: "Men's checkups by age in Houston, in Spanish: blood pressure, glucose, cholesterol and prostate screening (PSA) at Clínica Hispana Familiar 529."
 date: "2026-07-20"
+dateModified: "2026-10-06"
 author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/salud-hombre.webp"
 featured: true
@@ -13,7 +14,6 @@ keywords:
   - "men's preventive checkup Houston"
   - "PSA test Houston"
   - "prostate exam Houston TX"
-  - "low testosterone Houston"
   - "hispanic clinic for men Houston"
 ---
 
@@ -84,7 +84,7 @@ If you feel tired all the time, unmotivated, or have noticed changes in your sex
 | 40-49 | All of the above + PSA (with family history) and electrocardiogram |
 | 50+ | All of the above + annual PSA and colon health evaluation |
 
-*These are general guidelines. During your visit, the doctor will tell you which exams you need based on your personal and family history.*
+*These are general guidelines. During your visit, the medical team will tell you which exams you need based on your personal and family history.*
 
 ## Warning Signs: Don't Ignore Them
 

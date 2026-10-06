@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { CalendarDots, Clock, ArrowRight } from "@phosphor-icons/react/dist/ssr";
 import { JsonLdCollectionPage, JsonLdMedicalClinicRef } from "@/components/seo/json-ld";
+import { OG_IMAGE, seoTitle } from "@/lib/seo";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -20,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const localePath = locale === "en" ? "/en" : "";
 
   return {
-    title: t("metaTitle"),
+    title: { absolute: seoTitle(t("metaTitle")) },
     description: t("metaDescription"),
     alternates: {
       canonical: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
@@ -31,10 +32,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
     },
     openGraph: {
-      title: t("metaTitle"),
+      title: seoTitle(t("metaTitle")),
       description: t("metaDescription"),
       type: "website",
       url: `${SITE_CONFIG.baseUrl}${localePath}/blog`,
+      images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: SITE_CONFIG.name }],
     },
   };
 }
