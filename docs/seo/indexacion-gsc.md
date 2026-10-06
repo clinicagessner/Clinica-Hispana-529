@@ -12,18 +12,18 @@ Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com*
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 1 — 📨 ENVIADA 05/10/2026
+## Tanda 1  ✅ PEDIDA 05/10/2026
 
-- [ ] https://www.clinica529.com  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 10272 impr.
-- [ ] https://www.clinica529.com/services/examen-dot  — cambiada 2026-09-05 · rastreada 2026-08-30 · indexada · 554 impr.
-- [ ] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-09-05 · rastreada 2026-08-22 · indexada · 462 impr.
-- [ ] https://www.clinica529.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-05 · rastreada 2026-09-05 · indexada · 342 impr.
-- [ ] https://www.clinica529.com/services/examen-fisico-escolar  — cambiada 2026-09-05 · rastreada 2026-07-19 · indexada · 113 impr.
-- [ ] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-05 · rastreada 2026-07-20 · indexada · 101 impr.
-- [ ] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-04 · rastreada 2026-08-22 · indexada · 101 impr.
-- [ ] https://www.clinica529.com/services/ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-16 · indexada · 97 impr.
-- [ ] https://www.clinica529.com/services/electrocardiograma  — cambiada 2026-09-05 · rastreada 2026-07-19 · indexada · 65 impr.
-- [ ] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-20 · rastreada sin indexar · 50 impr.
+- [x] https://www.clinica529.com  — cambiada 2026-10-04 · rastreada 2026-10-02 · indexada · 10272 impr.
+- [x] https://www.clinica529.com/services/examen-dot  — cambiada 2026-09-05 · rastreada 2026-08-30 · indexada · 554 impr.
+- [x] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-09-05 · rastreada 2026-08-22 · indexada · 462 impr.
+- [x] https://www.clinica529.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-09-05 · rastreada 2026-09-05 · indexada · 342 impr.
+- [x] https://www.clinica529.com/services/examen-fisico-escolar  — cambiada 2026-09-05 · rastreada 2026-07-19 · indexada · 113 impr.
+- [x] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-09-05 · rastreada 2026-07-20 · indexada · 101 impr.
+- [x] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-04 · rastreada 2026-08-22 · indexada · 101 impr.
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-16 · indexada · 97 impr.
+- [x] https://www.clinica529.com/services/electrocardiograma  — cambiada 2026-09-05 · rastreada 2026-07-19 · indexada · 65 impr.
+- [x] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-09-05 · rastreada 2026-07-20 · rastreada sin indexar · 50 impr.
 
 ## Tanda 2
 
