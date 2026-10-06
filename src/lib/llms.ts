@@ -29,7 +29,8 @@ const CATEGORY_LABELS: Record<string, string> = {
 type Messages = Record<string, unknown>;
 function msg(key: string): string {
   const value = key.split(".").reduce<unknown>((acc, part) => (acc as Messages)?.[part], es as Messages);
-  return typeof value === "string" ? value : key;
+  // Los textos con enlaces (t.rich) llevan etiquetas <gyn>…</gyn>: fuera en texto plano.
+  return typeof value === "string" ? value.replace(/<\/?[a-z]+>/g, "") : key;
 }
 
 async function getRating() {
