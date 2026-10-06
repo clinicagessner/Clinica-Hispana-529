@@ -35,12 +35,13 @@ export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/clinicafamiliar529",
   instagram: "https://www.instagram.com/clinicafamiliar529/",
   google: "https://g.co/kgs/1RwVVhT",
+  tiktok: "https://www.tiktok.com/@clinica529",
 };
 
-// Google Reviews data - fallback si la Places API no responde.
-// Valores reales del listado de Google (Places API, jul 2026).
+// Respaldo con los valores reales de Places comprobados el 2026-10-06
+// (en vivo se actualizan solos).
 export const GOOGLE_REVIEWS_DATA = {
-  totalReviews: 565,
+  totalReviews: 609,
   averageRating: 5.0,
   placeId: "ChIJoTKGTSzRQIYRBpXCnC2Jno4",
 };
