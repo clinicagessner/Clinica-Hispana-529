@@ -1377,9 +1377,9 @@ export const PROMOTIONS: Promotion[] = [
     titleEn: "Complete General Checkup",
     price: "$99",
     blurb:
-      "Chequeo general completo con valor regular de $250, ahora por solo $99 y con consulta médica gratis. Incluye examen general de sangre, A1C y examen general de orina. Cuídate hoy, vive mejor mañana.",
+      "Por $99, en lugar del valor regular de $250, en una sola visita a la FM 529 te hacen el examen general de sangre, la A1C (hemoglobina glicosilada) y el examen general de orina, y la consulta médica va incluida sin costo.",
     blurbEn:
-      "A complete general checkup with a regular value of $250, now for only $99 with a free medical consultation. Includes a general blood test, A1C, and a general urine test. Take care today, live better tomorrow.",
+      "For $99 instead of the regular $250, one visit on FM 529 covers a general blood test, an A1C (glycated hemoglobin) and a general urine test, with the medical consultation included at no cost.",
     includes: [
       "Examen general de sangre",
       "A1C (hemoglobina glicosilada)",
