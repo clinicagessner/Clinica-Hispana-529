@@ -38,6 +38,7 @@ import { Link } from "@/i18n/routing";
 import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
+import { ADS_LANDING_SLUGS, seoTitle } from "@/lib/seo";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef, JsonLdMedicalWebPage } from "@/components/seo/json-ld";
 import { MedicalReview } from "@/components/seo/medical-review";
 
@@ -94,9 +95,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const service = getLocalizedService(rawService, locale);
   const localePath = locale === "en" ? "/en" : "";
 
+  // Landings de Ads: título intacto (regla 5). El resto, ≤60 con seoTitle.
+  const isAds = ADS_LANDING_SLUGS.has(slug);
+  const pageTitle = isAds
+    ? service.metaTitle ?? service.title
+    : seoTitle(service.metaTitle ? service.metaTitle.split(" | ")[0] : service.title);
+
   return {
-    // metaTitle already carries city + brand, so skip the layout title template
-    title: service.metaTitle ? { absolute: service.metaTitle } : service.title,
+    // Ads sin metaTitle: la plantilla del layout, como antes.
+    title: isAds && !service.metaTitle ? service.title : { absolute: pageTitle },
     description: service.description,
     keywords: service.keywords,
     alternates: {
@@ -108,7 +115,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       },
     },
     openGraph: {
-      title: `${service.title} | ${SITE_CONFIG.name}`,
+      title: isAds ? `${service.title} | ${SITE_CONFIG.name}` : pageTitle,
       description: service.description,
       url: `${SITE_CONFIG.baseUrl}${localePath}/services/${slug}`,
       images: [
@@ -200,7 +207,7 @@ export default async function ServicePage({ params }: Props) {
                 {service.title}
               </h1>
 
-              <p className="text-base sm:text-lg text-white/90 mb-6">
+              <p className="text-base sm:text-lg text-white mb-6">
                 {service.description}
               </p>
 
@@ -272,7 +279,7 @@ export default async function ServicePage({ params }: Props) {
                 <h3 className="text-xl md:text-2xl font-heading font-bold text-white mb-1">
                   {t("readyToSchedule")}
                 </h3>
-                <p className="text-white/90">
+                <p className="text-white">
                   {t("callOrVisit")}
                 </p>
               </div>
@@ -422,10 +429,10 @@ function ServiceContent({ content }: { content: string }) {
 
           return (
             <div key={i}>
-              <h3 className="text-lg md:text-xl font-heading font-bold text-slate-dark mb-3 flex items-center gap-2">
+              <h2 className="text-lg md:text-xl font-heading font-bold text-slate-dark mb-3 flex items-center gap-2">
                 <span className="size-1.5 rounded-full bg-red-primary shrink-0" />
                 {heading}
-              </h3>
+              </h2>
               {listItems.length > 0 && (
                 <ul className="grid sm:grid-cols-2 gap-x-6 gap-y-2 ml-4">
                   {listItems.map((item, j) => (
@@ -440,7 +447,7 @@ function ServiceContent({ content }: { content: string }) {
                 <ol className="space-y-2 ml-4 list-none">
                   {steps.map((step, j) => (
                     <li key={j} className="flex items-start gap-3 text-slate-600">
-                      <span className="flex items-center justify-center size-6 shrink-0 rounded-full bg-red-bg text-red-primary text-xs font-bold mt-0.5">
+                      <span className="flex items-center justify-center size-6 shrink-0 rounded-full bg-red-bg text-red-dark text-xs font-bold mt-0.5">
                         {j + 1}
                       </span>
                       <span className="text-sm md:text-base">{step}</span>

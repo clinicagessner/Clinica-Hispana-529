@@ -20,7 +20,7 @@ export function FaqList({ items, name = "faq" }: FaqListProps) {
         >
           <summary className="flex items-center justify-between gap-4 py-5 cursor-pointer list-none font-semibold text-slate-dark hover:text-red-primary group-open:text-red-primary [&::-webkit-details-marker]:hidden">
             <span className="flex items-center gap-4 text-left">
-              <span className="flex items-center justify-center size-8 shrink-0 rounded-lg bg-red-bg text-red-primary text-sm font-bold group-open:bg-red-primary group-open:text-white transition-colors">
+              <span className="flex items-center justify-center size-8 shrink-0 rounded-lg bg-red-bg text-red-dark text-sm font-bold group-open:bg-red-primary group-open:text-white transition-colors">
                 {String(index + 1).padStart(2, "0")}
               </span>
               <span className="flex-1">{item.question}</span>
