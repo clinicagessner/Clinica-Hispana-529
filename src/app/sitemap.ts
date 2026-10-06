@@ -16,8 +16,8 @@ type SitemapEntry = {
 // ignores <lastmod> when it always reads "today". Bump these when the content
 // of the page actually changes (per-service dates go in Service.updatedAt).
 const CONTENT_UPDATED_AT = {
-  home: "2026-10-04",
-  services: "2026-09-04",
+  home: "2026-10-06",
+  services: "2026-10-06",
   promotions: "2026-09-04",
   privacy: "2026-07-14",
 } as const;

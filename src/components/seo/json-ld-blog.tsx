@@ -1,4 +1,4 @@
-import { SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
+import { SITE_CONFIG } from "@/lib/constants";
 import type { BlogPost } from "@/types";
 
 type Props = {
@@ -32,23 +32,10 @@ export function JsonLdBlogPosting({ post, locale }: Props) {
       name: post.author,
       url: SITE_CONFIG.baseUrl,
     },
-    publisher: {
-      "@type": "MedicalClinic",
-      "@id": `${SITE_CONFIG.baseUrl}/#clinic`,
-      name: SITE_CONFIG.name,
-      logo: {
-        "@type": "ImageObject",
-        url: `${SITE_CONFIG.baseUrl}${SITE_CONFIG.logoUrl}`,
-      },
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: CONTACT_INFO.address,
-        addressLocality: CONTACT_INFO.city,
-        addressRegion: CONTACT_INFO.state,
-        postalCode: CONTACT_INFO.zip,
-        addressCountry: "US",
-      },
-    },
+    publisher: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+    // Revisado por el equipo médico de la clínica (§12 B2; sin médico nombrado, §9).
+    reviewedBy: { "@id": `${SITE_CONFIG.baseUrl}/#clinic` },
+    lastReviewed: post.dateModified || post.date,
     inLanguage: locale === "es" ? "es-MX" : "en-US",
     wordCount: post.content.split(/\s+/).length,
     articleSection: post.category || "Salud",

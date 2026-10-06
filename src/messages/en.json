@@ -279,5 +279,11 @@
     "formSubtitle": "Leave us your details and we'll contact you to schedule your appointment.",
     "metaTitle": "Medical Promotions in Houston: Women's Checkup with Pap Smear $79 | Clínica Hispana Familiar 529",
     "metaDescription": "Women's checkup with Pap smear from $79, checkup with ultrasound, prostate and testosterone exam for men, blood work with vitamins and general checkup. Medical packages at Clínica Hispana Familiar 529, Houston TX. Spanish-speaking care, walk-ins welcome."
+  },
+  "medicalReview": {
+    "heading": "Medical review",
+    "reviewedBy": "Content reviewed by the medical team at {name}.",
+    "published": "Published",
+    "lastReviewed": "Last reviewed:"
   }
 }

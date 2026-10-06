@@ -93,7 +93,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": true,
     "order": 1,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "tiroides",
@@ -134,7 +134,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 2,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "alergias",
@@ -175,7 +175,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 3,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "enfermedades-respiratorias",
@@ -216,7 +216,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 4,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "examen-fisico-escolar",
@@ -259,7 +259,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 5,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "ginecologia",
@@ -304,7 +304,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": true,
     "order": 6,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "prueba-embarazo",
@@ -345,7 +345,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 7,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "anticonceptivos",
@@ -386,7 +386,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 8,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "extraccion-implantes",
@@ -427,7 +427,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 9,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "salud-hombre",
@@ -470,7 +470,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": true,
     "order": 10,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "examenes-sangre",
@@ -513,7 +513,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 11,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "infecciones-urinarias",
@@ -556,7 +556,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 12,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "examen-heces",
@@ -597,7 +597,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 13,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "prueba-strep",
@@ -638,7 +638,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 14,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "prueba-tuberculosis",
@@ -679,7 +679,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 15,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "enfermedades-transmision-sexual",
@@ -720,7 +720,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 16,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "examen-alcohol-drogas",
@@ -761,7 +761,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 17,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "electrocardiograma",
@@ -802,7 +802,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 18,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "ultrasonido",
@@ -843,7 +843,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 19,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "examen-dot",
@@ -886,7 +886,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": true,
     "order": 20,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "examenes-inmigracion",
@@ -929,7 +929,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 21,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "vacunas",
@@ -970,7 +970,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 22,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "sueros-vitaminados",
@@ -1011,7 +1011,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 23,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "suturas-heridas",
@@ -1052,7 +1052,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 24,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "curacion-heridas",
@@ -1093,7 +1093,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 25,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "cirugias-menores",
@@ -1134,7 +1134,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 26,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "drenaje-abscesos",
@@ -1175,7 +1175,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 27,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "unas-encarnadas",
@@ -1216,7 +1216,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 28,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   },
   {
     "id": "farmacia",
@@ -1257,7 +1257,7 @@ export const SERVICES: Service[] = [
     ],
     "highlighted": false,
     "order": 29,
-    "updatedAt": "2026-09-05"
+    "updatedAt": "2026-10-06"
   }
 ];
 
