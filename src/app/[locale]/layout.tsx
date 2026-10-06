@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import { Montserrat, Source_Sans_3 } from "next/font/google";
-import { NextIntlClientProvider } from "next-intl";
+import { NextIntlClientProvider, hasLocale } from "next-intl";
+import { notFound } from "next/navigation";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ScrollToTop } from "@/components/layout/scroll-to-top";
-import { JsonLdMedicalClinic } from "@/components/seo/json-ld";
 import { ScrollAnimations } from "@/components/animations/scroll-animations";
 import Script from "next/script";
 import { SITE_CONFIG, GOOGLE_REVIEWS_DATA } from "@/lib/constants";
@@ -39,6 +39,8 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
+  // /ads.txt, /index.html… llegaban aquí como "locale" y servían la home con 200 (soft 404).
+  if (!hasLocale(routing.locales, locale)) notFound();
   const [t, googleData] = await Promise.all([
     getTranslations({ locale, namespace: "metadata" }),
     getGooglePlaceData(),
@@ -128,6 +130,7 @@ export function generateStaticParams() {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
 
   // Enable static rendering
   setRequestLocale(locale);
@@ -143,14 +146,6 @@ export default async function LocaleLayout({ children, params }: Props) {
       <head>
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#E01808" />
-        {/* Preconnect to external domains for faster loading */}
-        <link rel="preconnect" href="https://connect.facebook.net" />
-        <link rel="preconnect" href="https://cdn.callrail.com" />
-        <link rel="preconnect" href="https://maps.googleapis.com" />
-        <link rel="preconnect" href="https://lh3.googleusercontent.com" />
-        <link rel="dns-prefetch" href="https://cdn.callrail.com" />
-        {/* CallRail - Call Tracking */}
-        {callRailSrc && <script type="text/javascript" src={callRailSrc} async />}
         {/* Meta Pixel noscript fallback */}
         {metaPixelId && (
           <noscript>
@@ -169,29 +164,15 @@ export default async function LocaleLayout({ children, params }: Props) {
           <TooltipProvider>
             {children}
             <ScrollToTop />
-            <JsonLdMedicalClinic />
             <ScrollAnimations />
           </TooltipProvider>
         </NextIntlClientProvider>
         <ConversionEvents />
       </body>
-      {metaPixelId && (
-        <Script id="meta-pixel" strategy="afterInteractive">
-          {`
-            !function(f,b,e,v,n,t,s)
-            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '${metaPixelId}');
-            fbq('track', 'PageView');
-          `}
-        </Script>
-      )}
+      {/* GA4, Ads y Meta Pixel: con la primera interacción (google-tags.tsx) */}
       <GoogleTags />
+      {/* CallRail (cambio de número) tras la carga: no compite con el LCP (§7 B0.12) */}
+      {callRailSrc && <Script id="callrail-swap" src={callRailSrc} strategy="lazyOnload" />}
     </html>
   );
 }
