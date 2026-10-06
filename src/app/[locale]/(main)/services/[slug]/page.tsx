@@ -39,6 +39,7 @@ import { SERVICES, SITE_CONFIG, CONTACT_INFO } from "@/lib/constants";
 import { getLocalizedService } from "@/lib/utils";
 import { getServiceFAQs } from "@/lib/service-faqs";
 import { ADS_LANDING_SLUGS, seoTitle } from "@/lib/seo";
+import { getPostsForService } from "@/lib/blog";
 import { JsonLdBreadcrumb, JsonLdMedicalProcedure, JsonLdFAQ, JsonLdMedicalClinicRef, JsonLdMedicalWebPage } from "@/components/seo/json-ld";
 import { MedicalReview } from "@/components/seo/medical-review";
 
@@ -158,6 +159,7 @@ export default async function ServicePage({ params }: Props) {
     .map((s) => getLocalizedService(s, locale));
 
   const localePath = locale === "en" ? "/en" : "";
+  const servicePosts = getPostsForService(rawService.slug, locale);
   const breadcrumbs = [
     { name: locale === "en" ? "Home" : "Inicio", url: `${SITE_CONFIG.baseUrl}${localePath}` },
     { name: locale === "en" ? "Services" : "Servicios", url: `${SITE_CONFIG.baseUrl}${localePath}/services` },
@@ -308,6 +310,31 @@ export default async function ServicePage({ params }: Props) {
                   {t("faqTitle")}
                 </h2>
                 <FaqList items={getServiceFAQs(rawService.slug, locale)} name="faq-service" />
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* Artículos del blog sobre este servicio (§12 B1, enlazado interno) */}
+        {servicePosts.length > 0 && (
+          <section className="pb-8">
+            <div className="container mx-auto px-4">
+              <div className="max-w-4xl mx-auto">
+                <h2 className="text-xl md:text-2xl font-heading font-bold text-slate-dark mb-4">
+                  {locale === "en" ? "Articles about this service" : "Artículos sobre este servicio"}
+                </h2>
+                <ul className="space-y-2">
+                  {servicePosts.map((post) => (
+                    <li key={post.slug}>
+                      <a
+                        href={`${localePath}/blog/${post.slug}`}
+                        className="text-red-dark font-medium hover:underline underline-offset-4"
+                      >
+                        {post.title}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
               </div>
             </div>
           </section>

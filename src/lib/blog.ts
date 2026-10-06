@@ -62,3 +62,22 @@ export function getRelatedPosts(slug: string, locale: string = "es", limit: numb
   const posts = getBlogPosts(locale);
   return posts.filter((p) => p.slug !== slug).slice(0, limit);
 }
+
+// Servicios de cada post (§12 B1): cada servicio enlaza a sus artículos y así
+// ningún post queda con menos de 3 enlaces de contenido entrantes.
+export const POST_SERVICES: Record<string, string[]> = {
+  "control-diabetes-houston-guia-pacientes": ["condiciones-cronicas", "examenes-sangre", "farmacia"],
+  "laboratorio-clinico-houston-analisis-sangre": ["examenes-sangre", "tiroides", "examen-heces"],
+  "vitamina-b12-beneficios-inyecciones-houston": ["examenes-sangre", "sueros-vitaminados"],
+  "salud-mujer-houston-servicios-ginecologia": ["ginecologia", "prueba-embarazo", "anticonceptivos", "ultrasonido"],
+  "guia-examen-medico-inmigracion-i693-houston": ["examenes-inmigracion", "vacunas", "prueba-tuberculosis"],
+  "examen-dot-cdl-camioneros-houston": ["examen-dot", "examen-alcohol-drogas", "electrocardiograma"],
+  "atencion-medica-sin-seguro-houston": ["condiciones-cronicas", "enfermedades-respiratorias", "examen-fisico-escolar"],
+  "bienvenidos-clinica-hispana-familiar-529": ["suturas-heridas", "unas-encarnadas", "alergias"],
+  "salud-hombre-houston-chequeos-preventivos": ["salud-hombre", "infecciones-urinarias", "electrocardiograma"],
+  "gripe-o-covid-prueba-rapida-dia-sintomas": ["enfermedades-respiratorias", "prueba-strep", "vacunas"],
+};
+
+export function getPostsForService(serviceSlug: string, locale: string = "es"): BlogPost[] {
+  return getBlogPosts(locale).filter((post) => POST_SERVICES[post.slug]?.includes(serviceSlug));
+}
