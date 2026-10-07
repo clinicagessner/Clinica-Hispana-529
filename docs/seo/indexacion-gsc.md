@@ -12,18 +12,18 @@ Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com*
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 2  📨 ENVIADA 06/10/2026
+## Tanda 2  ✅ PEDIDA 06/10/2026
 
-- [ ] https://www.clinica529.com  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 2315 impr.
-- [ ] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 687 impr.
-- [ ] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 329 impr.
-- [ ] https://www.clinica529.com/promociones  — cambiada 2026-10-06 · rastreada 2026-09-29 · indexada · 322 impr.
-- [ ] https://www.clinica529.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 242 impr.
-- [ ] https://www.clinica529.com/services/examen-dot  — cambiada 2026-10-06 · rastreada 2026-08-30 · indexada · pedida 2026-10-05 · 231 impr.
-- [ ] https://www.clinica529.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-09-06 · indexada · 177 impr.
-- [ ] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-06 · rastreada 2026-09-18 · indexada · 147 impr.
-- [ ] https://www.clinica529.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-10-02 · indexada · 42 impr.
-- [ ] https://www.clinica529.com/services/electrocardiograma  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · pedida 2026-10-05 · 37 impr.
+- [x] https://www.clinica529.com  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 2315 impr.
+- [x] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 687 impr.
+- [x] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 329 impr.
+- [x] https://www.clinica529.com/promociones  — cambiada 2026-10-06 · rastreada 2026-09-29 · indexada · 322 impr.
+- [x] https://www.clinica529.com/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 242 impr.
+- [x] https://www.clinica529.com/services/examen-dot  — cambiada 2026-10-06 · rastreada 2026-08-30 · indexada · pedida 2026-10-05 · 231 impr.
+- [x] https://www.clinica529.com/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-09-06 · indexada · 177 impr.
+- [x] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-06 · rastreada 2026-09-18 · indexada · 147 impr.
+- [x] https://www.clinica529.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-10-02 · indexada · 42 impr.
+- [x] https://www.clinica529.com/services/electrocardiograma  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · pedida 2026-10-05 · 37 impr.
 
 ## Tanda 11 — cambios del 2026-10-06 (procede 529: home y landings de Ads con título/meta nuevos)
 
