@@ -6,22 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-10; URL Inspection API, datos ANTIGUOS del 2026-10-06: antiguos (2026-10-06): --sin-fetch):** 69 de 86 URLs del sitemap indexadas · 17 sin indexar (16 descubierta sin indexar · 1 desconocida).
+**Estado (actualizado 2026-10-11; URL Inspection API, datos ANTIGUOS del 2026-10-06: antiguos (2026-10-06): --sin-fetch):** 69 de 86 URLs del sitemap indexadas · 17 sin indexar (16 descubierta sin indexar · 1 desconocida).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 69 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 11 — cambios del 2026-10-06 (procede 529: home y landings de Ads con título/meta nuevos)  ✅ PEDIDA 11/10/2026
-
-- [x] https://www.clinica529.com/en  — cambiada 2026-10-06
-- [x] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-06
-- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-06
-- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-06
-- [x] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
-- [x] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
-
-## Tanda 12
+## Tanda 12  📨 ENVIADA 11/10/2026
 
 - [ ] https://www.clinica529.com/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 37 impr.
 - [ ] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 30 impr.
@@ -138,3 +130,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-06 · rastreada 2026-09-18 · indexada · 147 impr.
 - [x] https://www.clinica529.com/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-10-02 · indexada · 42 impr.
 - [x] https://www.clinica529.com/services/electrocardiograma  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · pedida 2026-10-05 · 37 impr.
+
+## Tanda 11 — cambios del 2026-10-06 (procede 529: home y landings de Ads con título/meta nuevos)  ✅ PEDIDA 11/10/2026
+
+- [x] https://www.clinica529.com/en  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
