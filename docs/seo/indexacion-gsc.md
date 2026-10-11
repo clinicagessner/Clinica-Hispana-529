@@ -12,14 +12,14 @@ Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com*
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 <!-- /tandas:auto -->
 
-## Tanda 11 — cambios del 2026-10-06 (procede 529: home y landings de Ads con título/meta nuevos)  📨 ENVIADA 10/10/2026
+## Tanda 11 — cambios del 2026-10-06 (procede 529: home y landings de Ads con título/meta nuevos)  ✅ PEDIDA 11/10/2026
 
-- [ ] https://www.clinica529.com/en  — cambiada 2026-10-06
-- [ ] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-06
-- [ ] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-06
-- [ ] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-06
-- [ ] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
-- [ ] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
+- [x] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-06
 
 ## Tanda 12
 
