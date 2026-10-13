@@ -13,6 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
+## Tanda 19 — cambios del 2026-10-13 (consulta inicial gratis en la home)
+
+- [ ] https://www.clinica529.com/  — cambiada 2026-10-13
+- [ ] https://www.clinica529.com/en  — cambiada 2026-10-13
+
 ## Tanda 12  ✅ PEDIDA 13/10/2026
 
 - [x] https://www.clinica529.com/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 37 impr.
