@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 12  📨 ENVIADA 13/10/2026
+## Tanda 12  ✅ PEDIDA 13/10/2026
 
-- [ ] https://www.clinica529.com/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 37 impr.
-- [ ] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 30 impr.
-- [ ] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 29 impr.
-- [ ] https://www.clinica529.com/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · pedida 2026-10-05 · 28 impr.
-- [ ] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 26 impr.
-- [ ] https://www.clinica529.com/services/examen-alcohol-drogas  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 20 impr.
-- [ ] https://www.clinica529.com/services/ultrasonido  — cambiada 2026-10-06 · rastreada 2026-07-15 · indexada · 14 impr.
-- [ ] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 12 impr.
-- [ ] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 12 impr.
-- [ ] https://www.clinica529.com/services/drenaje-abscesos  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 11 impr.
+- [x] https://www.clinica529.com/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 37 impr.
+- [x] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 30 impr.
+- [x] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 29 impr.
+- [x] https://www.clinica529.com/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · pedida 2026-10-05 · 28 impr.
+- [x] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 26 impr.
+- [x] https://www.clinica529.com/services/examen-alcohol-drogas  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 20 impr.
+- [x] https://www.clinica529.com/services/ultrasonido  — cambiada 2026-10-06 · rastreada 2026-07-15 · indexada · 14 impr.
+- [x] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 12 impr.
+- [x] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-06 · rastreada 2026-10-05 · indexada · pedida 2026-10-05 · 12 impr.
+- [x] https://www.clinica529.com/services/drenaje-abscesos  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 11 impr.
 
 ## Tanda 13
 
