@@ -13,7 +13,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 19 — cambios del 2026-10-14 (home con consulta inicial gratis del 13-oct; títulos y metas de sueros, DOT y B12)
+## Tanda 19 — cambios del 2026-10-14 (home con consulta inicial gratis del 13-oct; títulos y metas de sueros, DOT y B12)  📨 ENVIADA 14/10/2026
 
 - [ ] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
 - [ ] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
@@ -23,11 +23,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/services/examenes-sangre  — desconocida para Google (URL Inspection 2026-10-14)
 - [ ] https://www.clinica529.com/  — cambiada 2026-10-13
 - [ ] https://www.clinica529.com/en  — cambiada 2026-10-13
+- [ ] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 38 impr.
+- [ ] https://www.clinica529.com/services/alergias  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 17 impr.
 
 ## Tanda 20
 
-- [ ] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 38 impr.
-- [ ] https://www.clinica529.com/services/alergias  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 17 impr.
 - [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 13 impr.
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 13 impr.
 - [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 11 impr.
