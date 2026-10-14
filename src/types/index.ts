@@ -88,6 +88,7 @@ export interface BlogPost {
   category?: string;
   categoryEn?: string;
   readTime?: number;
+  metaTitle?: string;
   keywords?: string[];
   keywordsEn?: string[];
 }

@@ -24,6 +24,7 @@ function readBlogFile(slug: string, locale: string): BlogPost | null {
     featured: data.featured || false,
     category: data.category,
     readTime: data.readTime,
+    metaTitle: data.metaTitle,
     keywords: data.keywords || [],
     content: content.trim(),
   };

@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const localePath = locale === "en" ? "/en" : "";
 
-  const pageTitle = seoTitle(post.title);
+  const pageTitle = seoTitle(post.metaTitle ?? post.title);
 
   return {
     title: { absolute: pageTitle },

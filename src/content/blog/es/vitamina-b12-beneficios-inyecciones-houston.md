@@ -1,7 +1,8 @@
 ---
 slug: "vitamina-b12-beneficios-inyecciones-houston"
 title: "Vitamina B12 baja en Houston: riesgos y cómo se confirma"
-description: "Metformina, antiácidos, dieta vegetariana o más de 50 años: por qué aumentan el riesgo de B12 baja y por qué conviene un análisis antes de suplementar."
+metaTitle: "¿Inyección de B12? Primero, saber si la tiene baja"
+description: "¿Piensa en una inyección de vitamina B12? Un análisis de sangre confirma si la tiene baja: metformina, antiácidos, dieta vegetariana o más de 50 años."
 date: "2026-08-18"
 dateModified: "2026-10-06"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
