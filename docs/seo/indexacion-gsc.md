@@ -23,22 +23,31 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/  — cambiada 2026-10-13
 - [ ] https://www.clinica529.com/en  — cambiada 2026-10-13
 
+## Tanda 26 — cambios del 2026-10-15 (receta electrónica (sin farmacia))
+
+- [ ] https://www.clinica529.com/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/services/prueba-strep  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/en/services/prueba-strep  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [ ] https://www.clinica529.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
+
 ## Tanda 20
 
 - [ ] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 38 impr.
 - [ ] https://www.clinica529.com/services/alergias  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 17 impr.
-- [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 13 impr.
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 13 impr.
 - [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 11 impr.
-- [ ] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 11 impr.
 - [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 10 impr.
 - [ ] https://www.clinica529.com/services/examen-heces  — cambiada 2026-10-06 · rastreada 2026-07-18 · indexada · 6 impr.
 - [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 5 impr.
-- [ ] https://www.clinica529.com/services/farmacia  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 5 impr.
 
 ## Tanda 21
 
-- [ ] https://www.clinica529.com/services/prueba-strep  — cambiada 2026-10-06 · rastreada 2026-09-29 · indexada · 5 impr.
 - [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 5 impr.
 - [ ] https://www.clinica529.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 4 impr.
 - [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 4 impr.
@@ -78,7 +87,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 24
 
 - [ ] https://www.clinica529.com/en/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 1 impr.
-- [ ] https://www.clinica529.com/en/services/prueba-strep  — cambiada 2026-10-06 · rastreada 2026-07-19 · rastreada sin indexar · 1 impr.
 - [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-12 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinica529.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/en/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
@@ -91,9 +99,6 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 25
 
 - [ ] https://www.clinica529.com/en/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 0 impr.
-- [ ] https://www.clinica529.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 0 impr.
-- [ ] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-06 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinica529.com/en/services/prueba-embarazo  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 0 impr.
 
 ## Historial (tandas pedidas)
