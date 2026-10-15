@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "Sin seguro médico en el noroeste de Houston: qué hacer"
 description: "Guía para familias sin seguro en Copperfield, Cypress y Bear Creek: qué preguntar antes de ir, cuándo es urgencia de verdad y programas de Texas."
 date: "2026-03-17"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
@@ -37,7 +37,7 @@ Llamar o escribir antes ahorra sorpresas. Preguntas útiles:
 1. **¿Atienden sin cita y en qué horario?**
 2. **¿Cuánto cuesta la consulta y qué incluye?** Por ejemplo, si la prueba rápida o el examen de orina va aparte.
 3. **¿Los análisis de laboratorio se hacen ahí mismo?**
-4. **¿Me entregan ahí los medicamentos indicados en la consulta?**
+4. **¿A qué farmacia envían la receta electrónica?**
 5. **¿Qué formas de pago aceptan?**
 6. **¿Hay alguna promoción vigente** para el servicio que necesito?
 
@@ -89,7 +89,7 @@ Los requisitos cambian; revíselos directamente en esas páginas o con un consej
 
 ## ¿Cómo es una visita a la clínica sin seguro?
 
-Llega, se registra en recepción en español o en inglés y espera su turno; no se pide cita ni tarjeta de seguro. Al terminar, si la consulta lo indica, sale con los medicamentos indicados en la consulta, que se entregan en la [farmacia](/services/farmacia) de la clínica junto con productos de venta libre.
+Llega, se registra en recepción en español o en inglés y espera su turno; no se pide cita ni tarjeta de seguro. Al terminar, si la consulta lo indica, la clínica envía la [receta electrónica](/services/farmacia) a la farmacia que usted elija y la recoge allí cuando le quede mejor.
 
 ## Dirección y horario
 

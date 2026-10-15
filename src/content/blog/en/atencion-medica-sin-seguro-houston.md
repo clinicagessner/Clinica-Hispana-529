@@ -3,7 +3,7 @@ slug: "atencion-medica-sin-seguro-houston"
 title: "No Health Insurance in NW Houston: How to Plan Family Care"
 description: "A guide for uninsured families in Copperfield, Cypress and Bear Creek: what to ask before a visit, when it's a real emergency, and Texas programs."
 date: "2026-03-17"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
@@ -37,7 +37,7 @@ A quick call or message beforehand prevents surprises. Useful questions:
 1. **Do you take walk-ins, and what are your hours?**
 2. **What does a visit cost, and what does it include?** For example, whether a rapid test or urinalysis is extra.
 3. **Are lab tests done on site?**
-4. **Will I get the medications prescribed during the visit right there?**
+4. **Which pharmacy will the e-prescription be sent to?**
 5. **Which payment methods do you accept?**
 6. **Is there a current promotion** for the service I need?
 
@@ -89,7 +89,7 @@ Requirements change, so check them directly on those sites or with an enrollment
 
 ## What is a visit like without insurance?
 
-You arrive, check in at the front desk in English or Spanish, and wait your turn; no appointment or insurance card is required. At the end, if the visit calls for it, you leave with the medications indicated during your consultation, handed out at the clinic's [pharmacy](/en/services/farmacia), which also carries over-the-counter products.
+You arrive, check in at the front desk in English or Spanish, and wait your turn; no appointment or insurance card is required. At the end, if the visit calls for it, the clinic sends an [e-prescription](/en/services/farmacia) to the pharmacy you choose, and you pick it up there when it suits you.
 
 ## Address and hours
 

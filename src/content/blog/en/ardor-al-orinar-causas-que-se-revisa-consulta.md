@@ -3,7 +3,7 @@ slug: "ardor-al-orinar-causas-que-se-revisa-consulta"
 title: "Burning When You Pee: UTI or Something Else?"
 description: "Burning when you urinate isn't always a UTI: irritation, stones or too little water can cause it. What gets checked at Clínica 529 in Copperfield, TX."
 date: "2026-10-12"
-dateModified: "2026-10-12"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -85,7 +85,7 @@ The result is read alongside your story. Nitrites and leukocytes in a woman with
 
 ## If the test shows an infection
 
-At Clínica Hispana Familiar 529 you get the urine test right at the clinic and, if there is an infection, you leave with your treatment the same day, along with a plain explanation in Spanish or English of how many days to take it, what to expect in the first couple of days and when to come back if the burning hangs on. Whatever the team prescribes for the burning is handed to you at the [clinic pharmacy](/en/services/farmacia) before you leave the building, so the first dose can go down with a glass of water as soon as you're home.
+At Clínica Hispana Familiar 529 you get the urine test right at the clinic and, if there is an infection, treatment is prescribed the same day, along with a plain explanation in Spanish or English of how many days to take it, what to expect in the first couple of days and when to come back if the burning hangs on. Whatever the team prescribes for the burning is sent as an [e-prescription](/en/services/farmacia) to the pharmacy you choose, so you can pick it up on your way home.
 
 A few things help while it starts working:
 

@@ -3,7 +3,7 @@ slug: "ardor-al-orinar-causas-que-se-revisa-consulta"
 title: "Ardor al orinar: ¿infección urinaria u otra causa?"
 description: "El ardor al orinar no siempre es infección: irritación, cálculos o poca agua también lo causan. Qué se revisa en la consulta en Clínica 529, Copperfield."
 date: "2026-10-12"
-dateModified: "2026-10-12"
+dateModified: "2026-10-15"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -85,7 +85,7 @@ El resultado se interpreta junto con lo que usted cuenta. Un examen con nitritos
 
 ## Si el examen confirma infección
 
-Cuando los leucocitos, los nitritos y lo que usted contó apuntan en la misma dirección, en Clínica Hispana Familiar 529 el camino es corto: examen de orina en la clínica y, si hay infección, sale con su tratamiento el mismo día, junto con la explicación en su idioma de cuántos días dura la toma, qué mejoría debería notar al pasar las primeras jornadas y cuándo volver si la quemazón sigue igual. Lo que se indique para el ardor se lo entregan en la [farmacia de la clínica](/services/farmacia) antes de salir, y la primera toma puede ser en casa.
+Cuando los leucocitos, los nitritos y lo que usted contó apuntan en la misma dirección, en Clínica Hispana Familiar 529 el camino es corto: examen de orina en la clínica y, si hay infección, el tratamiento se indica el mismo día, junto con la explicación en su idioma de cuántos días dura la toma, qué mejoría debería notar al pasar las primeras jornadas y cuándo volver si la quemazón sigue igual. La receta de lo que se indique para el ardor se envía de forma electrónica a la [farmacia que usted elija](/services/farmacia), para recogerla de camino a casa.
 
 Algunas indicaciones ayudan mientras hace efecto:
 

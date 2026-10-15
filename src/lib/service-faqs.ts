@@ -522,8 +522,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Entregas una muestra de orina y el urianálisis se procesa en la clínica para buscar leucocitos, nitritos o sangre; conviene no orinar durante la hora previa. Después el equipo médico revisa tus síntomas y confirma el diagnóstico."
       },
       {
-        "question": "¿Salgo de la clínica con tratamiento?",
-        "answer": "Sí. El examen de orina se hace en la clínica y, si confirma una infección, sales de la consulta con el antibiótico indicado. Si las infecciones se repiten, además se puede enviar un urocultivo al laboratorio."
+        "question": "¿Me indican el tratamiento ese mismo día?",
+        "answer": "Sí. El examen de orina se hace en la clínica y, si confirma una infección, el antibiótico indicado se envía ese mismo día a la farmacia que elijas. Si las infecciones se repiten, además se puede enviar un urocultivo al laboratorio."
       },
       {
         "question": "¿Qué síntomas indican que la infección subió a los riñones?",
@@ -544,8 +544,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "You give a urine sample and the urinalysis is run at the clinic to look for white cells, nitrites or blood; try not to urinate for the hour before. The medical team then reviews your symptoms and confirms the diagnosis."
       },
       {
-        "question": "Do I leave the clinic with treatment?",
-        "answer": "Yes. The urine test is done at the clinic and, if it confirms an infection, you leave the visit with the prescribed antibiotic. If infections keep coming back, a urine culture can also be sent to the lab."
+        "question": "Is treatment prescribed that same day?",
+        "answer": "Yes. The urine test is done at the clinic and, if it confirms an infection, the antibiotic is e-prescribed that same day to the pharmacy you choose. If infections keep coming back, a urine culture can also be sent to the lab."
       },
       {
         "question": "Which symptoms mean the infection has reached the kidneys?",
@@ -581,7 +581,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué pasa cuando sale el resultado?",
-        "answer": "El equipo médico te lo explica en español e indica el antiparasitario o el antibiótico que haga falta. El medicamento indicado en tu consulta se entrega en la farmacia de la clínica."
+        "answer": "El equipo médico te lo explica en español e indica el antiparasitario o el antibiótico que haga falta. La receta se envía de forma electrónica a la farmacia que prefieras."
       }
     ],
     "faqsEn": [
@@ -603,7 +603,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What happens once the result is in?",
-        "answer": "The medical team explains it to you in Spanish and sets out the antiparasitic or antibiotic you need. Whatever medicine is prescribed at your visit, you pick up at the pharmacy inside the clinic."
+        "answer": "The medical team explains it to you in Spanish and sets out the antiparasitic or antibiotic you need. The prescription is sent electronically to the pharmacy you prefer."
       }
     ]
   },
@@ -619,7 +619,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué pasa si sale positiva o negativa?",
-        "answer": "Si es positiva, sales de la consulta con el antibiótico indicado y con tratamiento para el dolor y la fiebre. Si sale negativa y aun así todo apunta a estreptococo, sobre todo en niños, se manda un cultivo de garganta al laboratorio como confirmación."
+        "answer": "Si es positiva, se indica el antibiótico y algo para el dolor y la fiebre, y la receta se envía a tu farmacia. Si sale negativa y aun así todo apunta a estreptococo, sobre todo en niños, se manda un cultivo de garganta al laboratorio como confirmación."
       },
       {
         "question": "¿Cuántos días falta a clases un niño con estreptococo?",
@@ -641,7 +641,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What happens if it comes back positive or negative?",
-        "answer": "If it is positive, you leave the visit with the prescribed antibiotic plus something for pain and fever. If it is negative but symptoms strongly suggest strep, especially in children, a throat culture may be sent to confirm."
+        "answer": "If it is positive, an antibiotic plus something for pain and fever is prescribed and sent to your pharmacy. If it is negative but symptoms strongly suggest strep, especially in children, a throat culture may be sent to confirm."
       },
       {
         "question": "How long does a child with strep stay home from school?",
@@ -715,7 +715,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué tratamiento hay si sale positiva?",
-        "answer": "Para clamidia, gonorrea, sífilis y tricomonas hay cura con antibióticos, y el medicamento indicado se te entrega en la clínica. Evita relaciones hasta una semana después de terminar y hasta que tu pareja también esté tratada. Para VIH se hace la referencia a atención especializada."
+        "answer": "Para clamidia, gonorrea, sífilis y tricomonas hay cura con antibióticos, y la receta se envía de forma electrónica a la farmacia que prefieras. Evita relaciones hasta una semana después de terminar y hasta que tu pareja también esté tratada. Para VIH se hace la referencia a atención especializada."
       },
       {
         "question": "¿Me hago la prueba aunque no tenga síntomas?",
@@ -737,7 +737,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What treatment is there if it is positive?",
-        "answer": "Chlamydia, gonorrhea, syphilis and trichomonas are cured with antibiotics, handed to you at the clinic. Avoid sex until a week after finishing and until your partner is treated too. For HIV, you are referred to specialized care."
+        "answer": "Chlamydia, gonorrhea, syphilis and trichomonas are cured with antibiotics, e-prescribed to the pharmacy you prefer. Avoid sex until a week after finishing and until your partner is treated too. For HIV, you are referred to specialized care."
       },
       {
         "question": "Should I get tested even without symptoms?",
@@ -1300,46 +1300,46 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
   "farmacia": {
     "faqs": [
       {
-        "question": "¿Qué medicamentos entrega la farmacia de la clínica?",
-        "answer": "Los medicamentos indicados en tu consulta en la clínica, genéricos o de marca, y productos de venta libre para gripe, tos, dolor, alergias, estómago y vitaminas."
+        "question": "¿La clínica tiene farmacia?",
+        "answer": "No. Al terminar tu consulta enviamos la receta de forma electrónica a la farmacia que prefieras, cerca de tu casa o de tu trabajo, y la recoges allí cuando te quede mejor."
+      },
+      {
+        "question": "¿Puedo escoger cualquier farmacia?",
+        "answer": "Sí. Dinos durante la consulta el nombre de la farmacia y la calle o la zona donde está, y la receta se envía ahí. Si no recuerdas el dato exacto, lo buscamos contigo antes de enviarla."
       },
       {
         "question": "¿Me explican cómo tomar el medicamento?",
         "answer": "Sí. Antes de irte se te explica en español la dosis, el horario, cuántos días tomarlo y qué evitar, y puedes aclarar cualquier duda sobre lo que te indicaron en la consulta."
       },
       {
-        "question": "¿Venden productos para la gripe o el dolor aunque no pase a consulta?",
-        "answer": "Sí, los productos de venta libre para gripe, tos, dolor, alergias o estómago están disponibles en el horario de la clínica. Si los síntomas son fuertes, conviene pasar a consulta para las pruebas rápidas de flu o COVID."
+        "question": "¿Y si después quiero otra farmacia?",
+        "answer": "Lo mejor es decidirlo antes de salir de la consulta, para que la receta llegue al lugar correcto. Si ya se envió, llama o escribe por WhatsApp a la clínica en su horario y te orientamos."
       },
       {
-        "question": "¿Qué horario tiene la farmacia y cómo pago?",
-        "answer": "Funciona junto con la clínica: abre a las 9 AM todos los días y cierra a las 9 PM entre lunes y sábado, o a las 5 PM el domingo. Pagas ahí mismo en efectivo, con tarjeta o desde el celular."
-      },
-      {
-        "question": "¿Por qué conviene recoger el tratamiento en la clínica?",
-        "answer": "Resuelves todo en una sola visita: te atiende el equipo médico, te indica el tratamiento y sales con él en la mano, sin ir a otra farmacia. El personal conoce tu consulta y aclara dudas en el momento."
+        "question": "¿Necesito seguro médico para la receta electrónica?",
+        "answer": "No para la consulta: atendemos sin seguro y la receta se envía igual. El costo del medicamento lo cobra la farmacia que elijas, así que puedes preguntar allí antes de recogerlo."
       }
     ],
     "faqsEn": [
       {
-        "question": "Which medications does the clinic pharmacy hand out?",
-        "answer": "The medications prescribed during your visit at the clinic, generic or brand name, plus over-the-counter products for colds, cough, pain, allergies, stomach trouble and vitamins."
+        "question": "Does the clinic have a pharmacy?",
+        "answer": "No. After your visit, we send your prescription electronically to the pharmacy you prefer, near your home or your job, and you pick it up there whenever it suits you."
+      },
+      {
+        "question": "Can I choose any pharmacy?",
+        "answer": "Yes. During the visit, tell us the pharmacy's name and the street or area where it is, and the prescription goes there. If you don't remember the exact details, we look them up with you before sending it."
       },
       {
         "question": "Does anyone go over the dosing with me before I leave?",
         "answer": "Yes. Before you leave, the dose, timing, how many days to take it and what to avoid are explained in Spanish, and you can clear up any question about what you were prescribed in the visit."
       },
       {
-        "question": "Can I buy something over the counter without a visit?",
-        "answer": "Yes, over-the-counter products for colds, cough, pain, allergies or stomach trouble are available during clinic hours. If your symptoms are strong, it is worth seeing the medical team for a rapid flu or COVID test."
+        "question": "What if I want a different pharmacy later?",
+        "answer": "It is best to decide before the visit ends so the prescription reaches the right place. If it has already been sent, call or message the clinic on WhatsApp during open hours and we will guide you."
       },
       {
-        "question": "What are the pharmacy hours and how do I pay?",
-        "answer": "It runs alongside the clinic: doors open at 9 AM every day and close at 9 PM Monday to Saturday, or 5 PM on Sunday. You pay right there with cash, a card or your phone."
-      },
-      {
-        "question": "Why pick up my treatment at the clinic?",
-        "answer": "Everything gets done in one trip: the medical team sees you, prescribes the treatment and you leave with it in hand, with no stop at another pharmacy. Staff know about your visit and can answer questions on the spot."
+        "question": "Do I need insurance for the e-prescription?",
+        "answer": "Not for the visit: we see patients without insurance and the prescription is sent all the same. The pharmacy you choose charges for the medication, so you can ask there before picking it up."
       }
     ]
   }

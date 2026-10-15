@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-familiar-529"
 title: "Clínica Hispana Familiar 529: Who We Are on FM 529, Houston"
 description: "Where Clínica Hispana Familiar 529 is on FM 529, what a first walk-in visit looks like, which services it offers, languages and payment options."
 date: "2026-03-16"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/logo.webp"
 featured: false
@@ -31,7 +31,7 @@ There's no need to call ahead to hold a spot. A first visit usually goes like th
 3. **Vital signs**: blood pressure, temperature, weight and, when needed, oxygen level.
 4. **Consultation with the clinic's medical team**, who ask what's going on, examine you and explain which tests make sense.
 5. **On-site testing** when it applies: blood work, urinalysis, rapid tests or an electrocardiogram.
-6. **Treatment plan and checkout**: any medication indicated is handed to you there, and if a result calls for it, the referral to a specialist is arranged.
+6. **Treatment plan and checkout**: any medication prescribed is sent electronically to the pharmacy you prefer, and if a result calls for it, the referral to a specialist is arranged.
 
 One tip for your first visit: bring a list of your medications or a photo of the boxes on your phone. It saves questions and prevents mistakes.
 
@@ -65,7 +65,7 @@ Stitches, wound care, abscess drainage, ingrown toenails and minor surgery, done
 
 ### Vaccines and more
 
-During flu season you can get the influenza shot, and the tetanus shot if you've been cut or are due for a booster. There are vitamin IV drips and an in-house [pharmacy](/en/services/farmacia) that hands out what was indicated in your visit and sells over-the-counter products.
+During flu season you can get the influenza shot, and the tetanus shot if you've been cut or are due for a booster. There are vitamin IV drips too, and if you need treatment, an [e-prescription](/en/services/farmacia) goes to the pharmacy you pick so you can collect it whenever it works for you.
 
 ## Which cases aren't for the clinic?
 

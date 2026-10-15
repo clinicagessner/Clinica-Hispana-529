@@ -3,7 +3,7 @@ slug: "control-diabetes-houston-guia-pacientes"
 title: "Newly Diagnosed Diabetes in Cypress: What to Track"
 description: "Just diagnosed with diabetes? What gets checked at each visit, how to read your A1c and glucose meter, and where to walk in near Copperfield and Cypress."
 date: "2026-03-19"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
@@ -76,7 +76,7 @@ Plenty of people remember what they meant to ask only after they leave. Bring a 
 
 ## Where do I get my medications and test strips?
 
-When your visit ends, our [pharmacy](/en/services/farmacia) can hand you the medications prescribed during that visit, along with over-the-counter products. If you already take treatment from somewhere else, bring the boxes or a photo of the labels so the medical team knows exactly what you're on.
+When your visit ends, the medical team sends an [e-prescription](/en/services/farmacia) to the pharmacy you choose, near your home or work, so you can pick it up when it suits you. If you already take treatment from somewhere else, bring the boxes or a photo of the labels so the medical team knows exactly what you're on.
 
 ## What if I don't have health insurance?
 

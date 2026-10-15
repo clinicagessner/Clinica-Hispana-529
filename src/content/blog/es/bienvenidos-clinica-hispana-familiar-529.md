@@ -3,7 +3,7 @@ slug: "bienvenidos-clinica-hispana-familiar-529"
 title: "Clínica Hispana Familiar 529: quiénes somos en FM 529"
 description: "Dónde está Clínica Hispana Familiar 529 en FM 529, cómo es una primera visita sin cita, qué servicios ofrece, idiomas y formas de pago."
 date: "2026-03-16"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/logo.webp"
 featured: false
@@ -31,7 +31,7 @@ No hay que llamar antes para apartar lugar. Así suele ser la primera vez:
 3. **Toma de signos vitales**: presión, temperatura, peso y, si hace falta, oxigenación.
 4. **Consulta con el equipo médico de la clínica**, que le pregunta qué le pasa, lo revisa y le explica qué pruebas conviene hacer.
 5. **Pruebas en el mismo local**, cuando aplican: análisis de sangre, de orina, pruebas rápidas o electrocardiograma.
-6. **Plan de tratamiento y salida**: si se indica algún medicamento, se le entrega ahí; si un resultado lo requiere, se hace la referencia al especialista.
+6. **Plan de tratamiento y salida**: si se indica algún medicamento, la receta se envía de forma electrónica a la farmacia que usted prefiera; si un resultado lo requiere, se hace la referencia al especialista.
 
 Una sugerencia para la primera visita: traiga una lista de sus medicamentos o una foto de las cajas en el celular. Ahorra preguntas y evita errores.
 
@@ -65,7 +65,7 @@ Suturas, curación de heridas, drenaje de abscesos, uñas encarnadas y cirugías
 
 ### Vacunas y otros
 
-En temporada de gripe puede ponerse la vacuna de la influenza, y la del tétanos si se cortó o le toca refuerzo. Hay sueros vitaminados y una [farmacia](/services/farmacia) dentro del local: ahí le dan lo indicado en su consulta, y también se venden productos de venta libre.
+En temporada de gripe puede ponerse la vacuna de la influenza, y la del tétanos si se cortó o le toca refuerzo. Hay sueros vitaminados y, si sale con tratamiento, la [receta electrónica](/services/farmacia) llega a la farmacia que usted escoja para que la recoja a la hora que le acomode.
 
 ## ¿Qué casos no son para la clínica?
 

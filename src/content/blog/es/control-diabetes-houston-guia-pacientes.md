@@ -3,7 +3,7 @@ slug: "control-diabetes-houston-guia-pacientes"
 title: "Diabetes recién diagnosticada en Cypress: qué revisar"
 description: "¿Le acaban de diagnosticar diabetes? Qué se revisa en cada control, cómo leer su A1c y su glucómetro, y dónde hacerlo sin cita en Copperfield y Cypress."
 date: "2026-03-19"
-dateModified: "2026-10-06"
+dateModified: "2026-10-15"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/condiciones-cronicas.webp"
 featured: false
@@ -76,7 +76,7 @@ Muchas personas salen de la consulta y recuerdan después lo que querían pregun
 
 ## ¿Dónde consigo los medicamentos y las tiras?
 
-Al terminar la consulta en la clínica puede recibir en nuestra [farmacia](/services/farmacia) los medicamentos indicados en esa visita, además de productos de venta libre. Si ya tiene un tratamiento de otro lugar, traiga las cajas o una foto de las etiquetas para que el equipo médico sepa exactamente qué está tomando.
+Al terminar la consulta, el equipo médico envía la [receta electrónica](/services/farmacia) a la farmacia que usted elija, cerca de su casa o de su trabajo, para que la recoja cuando le convenga. Si ya tiene un tratamiento de otro lugar, traiga las cajas o una foto de las etiquetas para que el equipo médico sepa exactamente qué está tomando.
 
 ## ¿Y si no tengo seguro médico?
 
