@@ -6,9 +6,9 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-15; URL Inspection API, datos ANTIGUOS del 2026-10-14: antiguos (2026-10-14): --sin-fetch):** 71 de 88 URLs del sitemap indexadas · 17 sin indexar (9 descubierta sin indexar · 7 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-16; URL Inspection API, datos ANTIGUOS del 2026-10-14: antiguos (2026-10-14): --sin-fetch):** 71 de 88 URLs del sitemap indexadas · 17 sin indexar (9 descubierta sin indexar · 7 desconocida · 1 rastreada sin indexar).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 55 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 51 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
@@ -23,7 +23,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/  — cambiada 2026-10-13
 - [ ] https://www.clinica529.com/en  — cambiada 2026-10-13
 
-## Tanda 26 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 15/10/2026
+## Tanda 26 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 16/10/2026
 
 - [ ] https://www.clinica529.com/services/farmacia  — cambiada 2026-10-15
 - [ ] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-15
@@ -36,32 +36,35 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
 - [ ] https://www.clinica529.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
 
-## Tanda 20
+## Tanda 27
 
+- [ ] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 77 impr.
+- [ ] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 43 impr.
 - [ ] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 38 impr.
-- [ ] https://www.clinica529.com/services/alergias  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 17 impr.
+- [ ] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-07-20 · indexada · pedida 2026-10-13 · 37 impr.
+- [ ] https://www.clinica529.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 17 impr.
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 13 impr.
 - [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 11 impr.
 - [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 10 impr.
-- [ ] https://www.clinica529.com/services/examen-heces  — cambiada 2026-10-06 · rastreada 2026-07-18 · indexada · 6 impr.
+- [ ] https://www.clinica529.com/services/examen-heces  — cambiada 2026-10-15 · rastreada 2026-07-18 · indexada · 6 impr.
 - [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 5 impr.
 
-## Tanda 21
+## Tanda 28
 
 - [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 5 impr.
 - [ ] https://www.clinica529.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 4 impr.
 - [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 4 impr.
 - [ ] https://www.clinica529.com/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 2 impr.
-- [ ] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-12 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 0 impr.
+- [ ] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-07-20 · indexada · 0 impr.
 - [ ] https://www.clinica529.com/services  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinica529.com/services/examenes-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/services/extraccion-implantes  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 0 impr.
-
-## Tanda 22
-
 - [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/services/alergias  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 237 impr.
+
+## Tanda 29
+
+- [ ] https://www.clinica529.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 237 impr.
 - [ ] https://www.clinica529.com/en/services  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 96 impr.
 - [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 38 impr.
 - [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 13 impr.
@@ -69,11 +72,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-09-05 · indexada · 11 impr.
 - [ ] https://www.clinica529.com/en/promociones  — cambiada 2026-10-06 · rastreada 2026-07-31 · indexada · 10 impr.
 - [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 10 impr.
-- [ ] https://www.clinica529.com/en/services/examen-heces  — cambiada 2026-10-06 · rastreada 2026-07-18 · indexada · 8 impr.
-
-## Tanda 23
-
+- [ ] https://www.clinica529.com/en/services/examen-heces  — cambiada 2026-10-15 · rastreada 2026-07-18 · indexada · 8 impr.
 - [ ] https://www.clinica529.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 7 impr.
+
+## Tanda 30
+
 - [ ] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-06 · rastreada 2026-08-30 · indexada · 6 impr.
 - [ ] https://www.clinica529.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-06 · rastreada 2026-08-22 · indexada · 4 impr.
 - [ ] https://www.clinica529.com/en/services/examenes-sangre  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 4 impr.
@@ -83,22 +86,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 3 impr.
 - [ ] https://www.clinica529.com/en/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 2 impr.
 - [ ] https://www.clinica529.com/en/blog  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 1 impr.
-
-## Tanda 24
-
 - [ ] https://www.clinica529.com/en/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 1 impr.
-- [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-12 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-06 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
+
+## Tanda 31
+
+- [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinica529.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/en/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinica529.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-10-06 · indexada · 0 impr.
 - [ ] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-10-05 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-15 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinica529.com/en/services/condiciones-cronicas  — cambiada 2026-10-06 · desconocida · 0 impr.
-
-## Tanda 25
-
 - [ ] https://www.clinica529.com/en/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 0 impr.
+
+## Tanda 32
+
 - [ ] https://www.clinica529.com/en/services/prueba-embarazo  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 0 impr.
 
 ## Historial (tandas pedidas)
