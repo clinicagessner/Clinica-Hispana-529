@@ -23,18 +23,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/  — cambiada 2026-10-13
 - [ ] https://www.clinica529.com/en  — cambiada 2026-10-13
 
-## Tanda 26 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  📨 ENVIADA 16/10/2026
+## Tanda 26 — cambios del 2026-10-15 (receta electrónica (sin farmacia))  ✅ PEDIDA 16/10/2026
 
-- [ ] https://www.clinica529.com/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/services/prueba-strep  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/en/services/prueba-strep  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
-- [ ] https://www.clinica529.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/services/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/en/services/prueba-strep  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/en/services/enfermedades-transmision-sexual  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-15
+- [x] https://www.clinica529.com/en/services/enfermedades-respiratorias  — cambiada 2026-10-15
 
 ## Tanda 27
 
