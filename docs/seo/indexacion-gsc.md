@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 33 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
+## Tanda 33 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 18/10/2026
 
-- [ ] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
-- [ ] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
-- [ ] https://www.clinica529.com/services/examen-dot  — cambiada 2026-10-14 (título y meta)
-- [ ] https://www.clinica529.com/en/services/examen-dot  — cambiada 2026-10-14 (título y meta)
-- [ ] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-14 (título y meta)
-- [ ] https://www.clinica529.com/  — cambiada 2026-10-13
-- [ ] https://www.clinica529.com/en  — cambiada 2026-10-13
-- [ ] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 77 impr.
-- [ ] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 43 impr.
-- [ ] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-07-20 · indexada · pedida 2026-10-13 · 37 impr.
+- [x] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
+- [x] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
+- [x] https://www.clinica529.com/services/examen-dot  — cambiada 2026-10-14 (título y meta)
+- [x] https://www.clinica529.com/en/services/examen-dot  — cambiada 2026-10-14 (título y meta)
+- [x] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-14 (título y meta)
+- [x] https://www.clinica529.com/  — cambiada 2026-10-13
+- [x] https://www.clinica529.com/en  — cambiada 2026-10-13
+- [x] https://www.clinica529.com/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 77 impr.
+- [x] https://www.clinica529.com/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · rastreada 2026-10-13 · indexada · pedida 2026-10-13 · 43 impr.
+- [x] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-15 · rastreada 2026-07-20 · indexada · pedida 2026-10-13 · 37 impr.
 
 ## Tanda 34
 
