@@ -6,14 +6,14 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-17; URL Inspection API, datos ANTIGUOS del 2026-10-14: antiguos (2026-10-14): --sin-fetch):** 71 de 88 URLs del sitemap indexadas · 17 sin indexar (9 descubierta sin indexar · 7 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-10-18; URL Inspection API, datos ANTIGUOS del 2026-10-14: antiguos (2026-10-14): --sin-fetch):** 71 de 88 URLs del sitemap indexadas · 17 sin indexar (9 descubierta sin indexar · 7 desconocida · 1 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 48 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 33 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 17/10/2026
+## Tanda 33 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 18/10/2026
 
 - [ ] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
 - [ ] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-10-14 (título y meta)
