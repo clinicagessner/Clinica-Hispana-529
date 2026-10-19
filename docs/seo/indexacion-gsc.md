@@ -13,17 +13,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 39 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  📨 ENVIADA 19/10/2026
-- [ ] https://www.clinica529.com/blog/que-ultrasonido-necesito-guia-segun-sintoma  — post nuevo 2026-10-19 (blog semanal)
-- [ ] https://www.clinica529.com/en/blog/que-ultrasonido-necesito-guia-segun-sintoma  — post nuevo 2026-10-19 (blog semanal)
-- [ ] https://www.clinica529.com/services/examen-heces  — cambiada 2026-10-15 · rastreada 2026-07-18 · indexada · 30 impr.
-- [ ] https://www.clinica529.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-07-20 · rastreada sin indexar · 2 impr.
-- [ ] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-15 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 238 impr.
-- [ ] https://www.clinica529.com/en/services/examen-heces  — cambiada 2026-10-15 · rastreada 2026-07-18 · indexada · 24 impr.
-- [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-15 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · desconocida · 0 impr.
+## Tanda 39 — cambios del 2026-10-15 (páginas cambiadas sin pedir)  ✅ PEDIDA 19/10/2026
+- [x] https://www.clinica529.com/blog/que-ultrasonido-necesito-guia-segun-sintoma  — post nuevo 2026-10-19 (blog semanal)
+- [x] https://www.clinica529.com/en/blog/que-ultrasonido-necesito-guia-segun-sintoma  — post nuevo 2026-10-19 (blog semanal)
+- [x] https://www.clinica529.com/services/examen-heces  — cambiada 2026-10-15 · rastreada 2026-07-18 · indexada · 30 impr.
+- [x] https://www.clinica529.com/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-07-20 · rastreada sin indexar · 2 impr.
+- [x] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.clinica529.com/en/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 238 impr.
+- [x] https://www.clinica529.com/en/services/examen-heces  — cambiada 2026-10-15 · rastreada 2026-07-18 · indexada · 24 impr.
+- [x] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.clinica529.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.clinica529.com/en/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · desconocida · 0 impr.
 
 ## Tanda 40 — cambios del 2026-10-19 (devueltas de la tanda enviada el 19/10 para dejar sitio al post nuevo)
 
