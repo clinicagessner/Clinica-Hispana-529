@@ -13,11 +13,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 12 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-25).
 <!-- /tandas:auto -->
 
-## Tanda 40 — cambios del 2026-10-19 (devueltas de la tanda enviada el 19/10 para dejar sitio al post nuevo)  📨 ENVIADA 20/10/2026
+## Tanda 40 — cambios del 2026-10-19 (devueltas de la tanda enviada el 19/10 para dejar sitio al post nuevo)  ✅ PEDIDA 20/10/2026
 
-- [ ] https://www.clinica529.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 22 impr.
-- [ ] https://www.clinica529.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-10-06 · indexada · 2 impr.
-- [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
+- [x] https://www.clinica529.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 22 impr.
+- [x] https://www.clinica529.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-10-06 · indexada · 2 impr.
+- [x] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
 
 ## Tanda 41
 
