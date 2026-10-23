@@ -243,7 +243,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Qué se atiende en la consulta ginecológica?",
-        "answer": "Papanicolaou, cultivo vaginal para hongos, bacterias o tricomonas, tratamiento de infecciones vaginales y evaluación de flujo anormal, comezón, ardor, mal olor o dolor pélvico. También se da la orden de mamografía y la referencia al especialista cuando un resultado lo requiere."
+        "answer": "Papanicolaou, cultivo vaginal para hongos, bacterias o tricomonas, tratamiento de infecciones vaginales y evaluación de flujo anormal, comezón, ardor, mal olor o dolor pélvico. También se da la orden de mamografía cuando un resultado lo requiere."
       },
       {
         "question": "¿Cómo me preparo para el Papanicolaou?",
@@ -265,7 +265,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "What is covered in the gynecology visit?",
-        "answer": "Pap smear, vaginal culture for yeast, bacteria or trichomonas, treatment of vaginal infections and evaluation of abnormal discharge, itching, burning, odor or pelvic pain. A mammogram order and a specialist referral are given when a result calls for it."
+        "answer": "Pap smear, vaginal culture for yeast, bacteria or trichomonas, treatment of vaginal infections and evaluation of abnormal discharge, itching, burning, odor or pelvic pain. A mammogram order is given when a result calls for it."
       },
       {
         "question": "How do I prepare for a Pap smear?",
@@ -297,7 +297,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Qué sigue si el resultado es positivo?",
-        "answer": "El equipo médico confirma el resultado, calcula las semanas y la fecha probable de parto, y te orienta sobre ácido fólico o vitamina prenatal, la primera consulta prenatal y las referencias. La clínica también tiene ultrasonido para confirmar y fechar el embarazo."
+        "answer": "El equipo médico confirma el resultado, calcula las semanas y la fecha probable de parto, y te orienta sobre ácido fólico o vitamina prenatal y la primera consulta prenatal. La clínica también tiene ultrasonido para confirmar y fechar el embarazo."
       },
       {
         "question": "¿Qué síntomas con prueba positiva necesitan atención urgente?",
@@ -319,7 +319,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What comes next if the result is positive?",
-        "answer": "The medical team confirms the result, works out the weeks and due date, and guides you on folic acid or a prenatal vitamin, your first prenatal visit and referrals. The clinic also has ultrasound to confirm and date the pregnancy."
+        "answer": "The medical team confirms the result, works out the weeks and due date, and guides you on folic acid or a prenatal vitamin and your first prenatal visit. The clinic also has ultrasound to confirm and date the pregnancy."
       },
       {
         "question": "Which symptoms with a positive test need urgent care?",
@@ -335,7 +335,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Qué métodos anticonceptivos ofrecen en la clínica?",
-        "answer": "Pastillas combinadas o solo de progestina, la inyección anticonceptiva trimestral y el retiro del implante subdérmico si quieres cambiar de método. Para implante, DIU o métodos permanentes se da orientación y referencia."
+        "answer": "Pastillas combinadas o solo de progestina, la inyección anticonceptiva trimestral y el retiro del implante subdérmico si quieres cambiar de método. Sobre implante, DIU o métodos permanentes también te damos orientación."
       },
       {
         "question": "¿Cómo empiezo el método que elija?",
@@ -357,7 +357,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "Which birth control methods does the clinic offer?",
-        "answer": "Combined or progestin-only pills, the quarterly contraceptive injection, and removal of the arm implant if you want to switch methods. For an implant, IUD or permanent methods you get guidance and a referral."
+        "answer": "Combined or progestin-only pills, the quarterly contraceptive injection, and removal of the arm implant if you want to switch methods. For an implant, IUD or permanent methods you also get guidance."
       },
       {
         "question": "How do I start the method I choose?",
@@ -397,7 +397,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Y si al palpar el brazo no encuentran el implante?",
-        "answer": "No se intenta sacar a ciegas. Se indica un estudio de imagen para ubicarlo y se refiere a un especialista para hacer el retiro guiado."
+        "answer": "No se intenta sacar a ciegas. Primero se indica un estudio de imagen para ubicarlo."
       }
     ],
     "faqsEn": [
@@ -419,7 +419,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "What if the implant cannot be felt?",
-        "answer": "It is never removed blindly. An imaging study is ordered to locate it and you are referred to a specialist for a guided removal."
+        "answer": "It is never removed blindly. An imaging study is ordered first to locate it."
       }
     ]
   },
@@ -427,7 +427,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqs": [
       {
         "question": "¿Qué incluye el chequeo de salud del hombre?",
-        "answer": "Examen de próstata en sangre (PSA), análisis hormonal, presión arterial, peso y signos vitales, examen de orina y una conversación sobre síntomas urinarios, de energía o de ánimo. Si un resultado lo requiere, se hace la referencia al especialista."
+        "answer": "Examen de próstata en sangre (PSA), análisis hormonal, presión arterial, peso y signos vitales, examen de orina y una conversación sobre síntomas urinarios, de energía o de ánimo."
       },
       {
         "question": "¿Cómo me preparo para el PSA?",
@@ -439,7 +439,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Un PSA alto quiere decir cáncer?",
-        "answer": "No necesariamente. Puede deberse a una próstata agrandada, a inflamación o a una infección. El equipo médico valora el resultado según tu edad y tus síntomas, puede repetir la prueba y, si hace falta, te refiere al especialista."
+        "answer": "No necesariamente. Puede deberse a una próstata agrandada, a inflamación o a una infección. El equipo médico valora el resultado según tu edad y tus síntomas y puede repetir la prueba."
       },
       {
         "question": "¿A qué edad empiezo a revisarme la próstata?",
@@ -449,7 +449,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
     "faqsEn": [
       {
         "question": "What does the men's health checkup include?",
-        "answer": "A prostate blood test (PSA), a hormone panel, blood pressure, weight and vital signs, a urine test and a talk about urinary, energy or mood symptoms. If a result calls for it, you are referred to a specialist."
+        "answer": "A prostate blood test (PSA), a hormone panel, blood pressure, weight and vital signs, a urine test and a talk about urinary, energy or mood symptoms."
       },
       {
         "question": "How do I prepare for the PSA test?",
@@ -461,7 +461,7 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Does a high PSA mean cancer?",
-        "answer": "Not necessarily. It can come from an enlarged prostate, inflammation or an infection. The medical team weighs the result against your age and symptoms, may repeat the test and, if needed, refers you to a specialist."
+        "answer": "Not necessarily. It can come from an enlarged prostate, inflammation or an infection. The medical team weighs the result against your age and symptoms and may repeat the test."
       },
       {
         "question": "At what age should I start prostate checks?",

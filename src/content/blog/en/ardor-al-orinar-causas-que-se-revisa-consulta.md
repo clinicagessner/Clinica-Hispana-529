@@ -3,7 +3,7 @@ slug: "ardor-al-orinar-causas-que-se-revisa-consulta"
 title: "Burning When You Pee: UTI or Something Else?"
 description: "Burning when you urinate isn't always a UTI: irritation, stones or too little water can cause it. What gets checked at Clínica 529 in Copperfield, TX."
 date: "2026-10-12"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Clínica Hispana Familiar 529 Medical Team"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -106,7 +106,7 @@ A urine culture is not the quick test. The sample goes to the lab, where the bac
 - the infection may have reached the kidney;
 - the quick test and the symptoms don't match.
 
-Treatment can start while you wait; if the culture shows a resistant germ, the clinic calls you to adjust it. When a result calls for it, such as blood in the urine that won't go away or stones that keep returning, a referral to a urologist is arranged as part of the same follow-up.
+Treatment can start while you wait; if the culture shows a resistant germ, the clinic calls you to adjust it. If blood in the urine won't go away or stones keep returning, a urology evaluation is a good idea.
 
 ## Warning signs: don't wait
 

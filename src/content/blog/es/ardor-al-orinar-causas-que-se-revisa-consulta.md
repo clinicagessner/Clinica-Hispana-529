@@ -3,7 +3,7 @@ slug: "ardor-al-orinar-causas-que-se-revisa-consulta"
 title: "Ardor al orinar: ¿infección urinaria u otra causa?"
 description: "El ardor al orinar no siempre es infección: irritación, cálculos o poca agua también lo causan. Qué se revisa en la consulta en Clínica 529, Copperfield."
 date: "2026-10-12"
-dateModified: "2026-10-15"
+dateModified: "2026-10-23"
 author: "Equipo Médico de Clínica Hispana Familiar 529"
 image: "/images/services/infecciones-urinarias.webp"
 featured: false
@@ -106,7 +106,7 @@ El urocultivo es distinto del examen rápido: la muestra se envía al laboratori
 - hay sospecha de que la infección subió al riñón;
 - el examen rápido y los síntomas no coinciden.
 
-Mientras llega, puede empezar tratamiento y ajustarlo si la bacteria resulta resistente. Si un resultado lo requiere, como sangre en la orina que persiste o cálculos que se repiten, se orienta la referencia a un urólogo como parte del mismo seguimiento.
+Mientras llega, puede empezar tratamiento y ajustarlo si la bacteria resulta resistente. Si la sangre en la orina persiste o los cálculos se repiten, conviene una valoración de urología.
 
 ## Señales de alarma: no espere
 
