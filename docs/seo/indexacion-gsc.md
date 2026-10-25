@@ -13,18 +13,18 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 45 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) 📨 ENVIADA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 45 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
 
-- [ ] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/services/extraccion-implantes  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-23
-- [ ] https://www.clinica529.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/extraccion-implantes  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/en/services/prueba-embarazo  — cambiada 2026-10-23
 
 ## Tanda 46
 
