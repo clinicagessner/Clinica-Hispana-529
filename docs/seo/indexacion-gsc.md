@@ -15,6 +15,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 50 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
 
+- [ ] https://www.clinica529.com/blog/presion-alta-sin-sintomas-asesina-silenciosa  — post nuevo 2026-10-26 (blog semanal)
+- [ ] https://www.clinica529.com/en/blog/presion-alta-sin-sintomas-asesina-silenciosa  — post nuevo 2026-10-26 (blog semanal)
 - [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 70 impr.
 - [ ] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-08-30 · indexada · 15 impr.
 - [ ] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · 0 impr.
