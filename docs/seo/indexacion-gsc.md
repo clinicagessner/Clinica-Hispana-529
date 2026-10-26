@@ -6,72 +6,62 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-25; URL Inspection API, datos ANTIGUOS del 2026-10-19: antiguos (2026-10-19): --sin-fetch):** 70 de 90 URLs del sitemap indexadas · 20 sin indexar (12 desconocida · 3 descubierta sin indexar · 3 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-10-26; URL Inspection API, datos de hoy 2026-10-26):** 77 de 90 URLs del sitemap indexadas · 13 sin indexar (7 desconocida · 4 descubierta sin indexar · 2 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 35 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 0 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-8 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
+5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 45 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
+## Tanda 50 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
 
-- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/services/extraccion-implantes  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-23
-- [x] https://www.clinica529.com/en/services/prueba-embarazo  — cambiada 2026-10-23
+- [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 70 impr.
+- [ ] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-08-30 · indexada · 15 impr.
+- [ ] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-20 · 0 impr.
 
 ## Tanda 46
 
-- [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 58 impr.
-- [ ] https://www.clinica529.com/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 32 impr.
-- [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 20 impr.
+- [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 56 impr.
+- [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 32 impr.
+- [ ] https://www.clinica529.com/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 25 impr.
 - [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 18 impr.
 - [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 17 impr.
-- [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 17 impr.
+- [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 11 impr.
 - [ ] https://www.clinica529.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 8 impr.
-- [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 6 impr.
-- [ ] https://www.clinica529.com/services  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
+- [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 8 impr.
+- [ ] https://www.clinica529.com/services  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/services/examenes-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
 
 ## Tanda 47
 
 - [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 167 impr.
-- [ ] https://www.clinica529.com/en/services  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 102 impr.
-- [ ] https://www.clinica529.com/en/promociones  — cambiada 2026-10-06 · rastreada 2026-07-31 · indexada · 68 impr.
-- [ ] https://www.clinica529.com/en/services/drenaje-abscesos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 53 impr.
-- [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-09-05 · indexada · 51 impr.
-- [ ] https://www.clinica529.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 38 impr.
-- [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 35 impr.
+- [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 169 impr.
+- [ ] https://www.clinica529.com/en/services  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 111 impr.
+- [ ] https://www.clinica529.com/en/promociones  — cambiada 2026-10-06 · rastreada 2026-07-31 · indexada · 71 impr.
+- [ ] https://www.clinica529.com/en/services/drenaje-abscesos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 56 impr.
+- [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 38 impr.
+- [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-09-05 · indexada · 33 impr.
 - [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 31 impr.
-- [ ] https://www.clinica529.com/en/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 20 impr.
+- [ ] https://www.clinica529.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 28 impr.
 
 ## Tanda 48
 
-- [ ] https://www.clinica529.com/en/services/ultrasonido  — cambiada 2026-10-06 · rastreada 2026-07-19 · rastreada sin indexar · 16 impr.
-- [ ] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-08-30 · indexada · 15 impr.
-- [ ] https://www.clinica529.com/en/services/examenes-sangre  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 14 impr.
+- [ ] https://www.clinica529.com/en/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 21 impr.
+- [ ] https://www.clinica529.com/en/services/ultrasonido  — cambiada 2026-10-06 · rastreada 2026-07-19 · rastreada sin indexar · 15 impr.
+- [ ] https://www.clinica529.com/en/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 13 impr.
 - [ ] https://www.clinica529.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-10-06 · rastreada 2026-08-22 · indexada · 11 impr.
 - [ ] https://www.clinica529.com/en/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 9 impr.
+- [ ] https://www.clinica529.com/en/services/examenes-sangre  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 8 impr.
 - [ ] https://www.clinica529.com/en/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 8 impr.
-- [ ] https://www.clinica529.com/en/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 6 impr.
 - [ ] https://www.clinica529.com/en/blog  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 5 impr.
 - [ ] https://www.clinica529.com/en/services/suturas-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 5 impr.
-- [ ] https://www.clinica529.com/en/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 3 impr.
 
 ## Tanda 49
 
-- [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23 · desconocida · pedida 2026-10-19 · 0 impr.
+- [ ] https://www.clinica529.com/en/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 3 impr.
 - [ ] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-10-05 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-20 · 0 impr.
 
 ## Historial (tandas pedidas)
 
@@ -167,3 +157,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinica529.com/services/alergias  — cambiada 2026-10-15 · rastreada 2026-09-24 · indexada · 22 impr.
 - [x] https://www.clinica529.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · rastreada 2026-10-06 · indexada · 2 impr.
 - [x] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-15 · desconocida · 0 impr.
+
+## Tanda 45 — cambios del 2026-10-23 (regla Ads = referencia (urología/ginecología)) ✅ PEDIDA 25/10/2026 (aplazada del 24/10 por el usuario)
+
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/services/extraccion-implantes  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/en/services/salud-hombre  — cambiada 2026-10-23
+- [x] https://www.clinica529.com/en/services/prueba-embarazo  — cambiada 2026-10-23
