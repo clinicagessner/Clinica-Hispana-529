@@ -13,14 +13,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-10-30).
 <!-- /tandas:auto -->
 
-## Tanda 50 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) 📨 ENVIADA 26/10/2026
+## Tanda 50 — cambios del 2026-10-23 (tanda del día: páginas cambiadas y aún no pedidas) ✅ PEDIDA 26/10/2026
 
-- [ ] https://www.clinica529.com/blog/presion-alta-sin-sintomas-asesina-silenciosa  — post nuevo 2026-10-26 (blog semanal)
-- [ ] https://www.clinica529.com/en/blog/presion-alta-sin-sintomas-asesina-silenciosa  — post nuevo 2026-10-26 (blog semanal)
-- [ ] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 70 impr.
-- [ ] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-08-30 · indexada · 15 impr.
-- [ ] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-20 · 0 impr.
+- [x] https://www.clinica529.com/blog/presion-alta-sin-sintomas-asesina-silenciosa  — post nuevo 2026-10-26 (blog semanal)
+- [x] https://www.clinica529.com/en/blog/presion-alta-sin-sintomas-asesina-silenciosa  — post nuevo 2026-10-26 (blog semanal)
+- [x] https://www.clinica529.com/en/blog/ardor-al-orinar-causas-que-se-revisa-consulta  — cambiada 2026-10-23 · rastreada 2026-10-19 · indexada · pedida 2026-10-19 · 70 impr.
+- [x] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-08-30 · indexada · 15 impr.
+- [x] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · 0 impr.
+- [x] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-20 · 0 impr.
 
 ## Tanda 46
 
