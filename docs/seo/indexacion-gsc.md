@@ -13,14 +13,14 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 55 — cambios del 2026-10-31 (análisis diario: landings de Ads alineadas con sus anuncios)  📨 ENVIADA 31/10/2026
+## Tanda 55 — cambios del 2026-10-31 (análisis diario: landings de Ads alineadas con sus anuncios)  ✅ PEDIDA 31/10/2026
 
-- [ ] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-31
-- [ ] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-31
-- [ ] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-31
-- [ ] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-31
-- [ ] https://www.clinica529.com  — cambiada 2026-10-31 · rastreada 2026-10-30 · indexada · pedida 2026-10-18 · 4025 impr.
-- [ ] https://www.clinica529.com/en  — cambiada 2026-10-31 · rastreada 2026-10-24 · indexada · pedida 2026-10-18 · 1610 impr.
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-31
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-31
+- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-31
+- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-31
+- [x] https://www.clinica529.com  — cambiada 2026-10-31 · rastreada 2026-10-30 · indexada · pedida 2026-10-18 · 4025 impr.
+- [x] https://www.clinica529.com/en  — cambiada 2026-10-31 · rastreada 2026-10-24 · indexada · pedida 2026-10-18 · 1610 impr.
 
 ## Tanda 56
 
