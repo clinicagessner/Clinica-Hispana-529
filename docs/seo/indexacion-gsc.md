@@ -8,7 +8,7 @@ Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com*
 <!-- tandas:auto -->
 **Estado (actualizado 2026-10-31; URL Inspection API, datos de hoy 2026-10-31):** 79 de 92 URLs del sitemap indexadas · 13 sin indexar (6 descubierta sin indexar · 4 desconocida · 2 rastreada sin indexar · 1 otra).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 31 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 29 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
@@ -19,10 +19,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-31
 - [ ] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-31
 - [ ] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-31
+- [ ] https://www.clinica529.com  — cambiada 2026-10-31 · rastreada 2026-10-30 · indexada · pedida 2026-10-18 · 4025 impr.
+- [ ] https://www.clinica529.com/en  — cambiada 2026-10-31 · rastreada 2026-10-24 · indexada · pedida 2026-10-18 · 1610 impr.
 
 ## Tanda 56
 
-- [ ] https://www.clinica529.com  — cambiada 2026-10-31 · rastreada 2026-10-30 · indexada · pedida 2026-10-18 · 4025 impr.
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 38 impr.
 - [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 11 impr.
 - [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 7 impr.
@@ -32,11 +33,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 1 impr.
 - [ ] https://www.clinica529.com/services  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
 - [ ] https://www.clinica529.com/services/examenes-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
 
 ## Tanda 57
 
-- [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en  — cambiada 2026-10-31 · rastreada 2026-10-24 · indexada · pedida 2026-10-18 · 1610 impr.
 - [ ] https://www.clinica529.com/en/services  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 38 impr.
 - [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 25 impr.
 - [ ] https://www.clinica529.com/en/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 16 impr.
@@ -45,11 +45,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-10-06 · rastreada 2026-09-05 · indexada · 12 impr.
 - [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 9 impr.
 - [ ] https://www.clinica529.com/en/blog/salud-hombre-houston-chequeos-preventivos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 8 impr.
+- [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 7 impr.
+- [ ] https://www.clinica529.com/en/services/examenes-sangre  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 6 impr.
 
 ## Tanda 58
 
-- [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 7 impr.
-- [ ] https://www.clinica529.com/en/services/examenes-sangre  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 6 impr.
 - [ ] https://www.clinica529.com/en/services/suturas-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 4 impr.
 - [ ] https://www.clinica529.com/en/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 4 impr.
 - [ ] https://www.clinica529.com/en/services/ultrasonido  — cambiada 2026-10-06 · rastreada 2026-07-19 · rastreada sin indexar · 3 impr.
@@ -58,11 +58,11 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 2 impr.
 - [ ] https://www.clinica529.com/en/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 2 impr.
 - [ ] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-10-05 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · ? · pedida 2026-10-16 · 39 impr.
 
 ## Tanda 59
 
-- [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
-- [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-10-15 · ? · pedida 2026-10-16 · 39 impr.
 - [ ] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
 - [ ] https://www.clinica529.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-07-19 · rastreada sin indexar · pedida 2026-10-16 · 0 impr.
 
