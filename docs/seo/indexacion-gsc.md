@@ -6,21 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-10-31; URL Inspection API, datos de hoy 2026-10-31):** 79 de 92 URLs del sitemap indexadas · 13 sin indexar (6 descubierta sin indexar · 4 desconocida · 2 rastreada sin indexar · 1 otra).
+**Estado (actualizado 2026-11-01; URL Inspection API, datos ANTIGUOS del 2026-10-31: antiguos (2026-10-31): --sin-fetch):** 79 de 92 URLs del sitemap indexadas · 13 sin indexar (6 descubierta sin indexar · 4 desconocida · 2 rastreada sin indexar · 1 otra).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 29 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
-
-## Tanda 55 — cambios del 2026-10-31 (análisis diario: landings de Ads alineadas con sus anuncios)  ✅ PEDIDA 31/10/2026
-
-- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-31
-- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-31
-- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-31
-- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-31
-- [x] https://www.clinica529.com  — cambiada 2026-10-31 · rastreada 2026-10-30 · indexada · pedida 2026-10-18 · 4025 impr.
-- [x] https://www.clinica529.com/en  — cambiada 2026-10-31 · rastreada 2026-10-24 · indexada · pedida 2026-10-18 · 1610 impr.
 
 ## Tanda 56
 
@@ -182,3 +173,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [x] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · rastreada 2026-08-30 · indexada · 15 impr.
 - [x] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · 0 impr.
 - [x] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-23 · desconocida · pedida 2026-10-20 · 0 impr.
+
+## Tanda 55 — cambios del 2026-10-31 (análisis diario: landings de Ads alineadas con sus anuncios)  ✅ PEDIDA 31/10/2026
+
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-10-31
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-10-31
+- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-10-31
+- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-10-31
+- [x] https://www.clinica529.com  — cambiada 2026-10-31 · rastreada 2026-10-30 · indexada · pedida 2026-10-18 · 4025 impr.
+- [x] https://www.clinica529.com/en  — cambiada 2026-10-31 · rastreada 2026-10-24 · indexada · pedida 2026-10-18 · 1610 impr.
