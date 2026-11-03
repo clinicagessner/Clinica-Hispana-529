@@ -260,6 +260,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "¿Tienen un paquete de chequeo para la mujer?",
         "answer": "Sí. El chequeo completo de la mujer reúne Papanicolaou, examen de orina, orden de mamografía y consulta ginecológica; el detalle está en la página de promociones."
+      },
+      {
+        "question": "¿La consulta ginecológica es privada?",
+        "answer": "Sí. La atención ginecológica se da en un espacio cómodo, seguro y confidencial, y la consulta, el Papanicolaou y el ultrasonido se hacen en un mismo lugar, en español."
       }
     ],
     "faqsEn": [
@@ -282,6 +286,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "Do you have a women's checkup package?",
         "answer": "Yes. The complete women's checkup combines a Pap smear, urine test, mammogram order and gynecology visit; the details are on the promotions page."
+      },
+      {
+        "question": "Is the gynecology visit private?",
+        "answer": "Yes. Gynecological care is given in a comfortable, safe and confidential space, and the visit, the Pap smear and the ultrasound are all done in one place, in Spanish."
       }
     ]
   },
@@ -536,6 +544,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "¿Cómo evito que vuelva la infección?",
         "answer": "Ayuda beber agua a lo largo del día, ir al baño en cuanto sientas ganas, orinar al terminar las relaciones, limpiarte de adelante hacia atrás y dejar las duchas vaginales y los productos que irritan."
+      },
+      {
+        "question": "¿Necesito seguro para la consulta de urología?",
+        "answer": "No. Sin seguro, sin problema: la consulta de urología es en español, con servicios médicos accesibles de pago directo, en un espacio cómodo, seguro y confidencial. Puedes agendar tu cita o llegar sin cita."
       }
     ],
     "faqsEn": [
@@ -558,6 +570,10 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       {
         "question": "How do I keep the infection from coming back?",
         "answer": "Drink enough water through the day, do not hold your urine, urinate after sex, wipe front to back and avoid douching or irritating products."
+      },
+      {
+        "question": "Do I need insurance for the urology visit?",
+        "answer": "No. No insurance, no problem: the urology visit is in Spanish, with affordable direct-pay medical services, in a comfortable, safe and confidential space. You can book an appointment or walk in."
       }
     ]
   },
