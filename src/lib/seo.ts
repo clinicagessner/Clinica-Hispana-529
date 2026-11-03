@@ -15,4 +15,4 @@ export function seoTitle(title: string): string {
   return title;
 }
 
-export const OG_IMAGE = `${SITE_CONFIG.baseUrl}/images/clinic-interior.webp`;
+export const OG_IMAGE = `${SITE_CONFIG.baseUrl}/images/og-image.jpg`;

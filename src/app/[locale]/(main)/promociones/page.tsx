@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       url: `${SITE_CONFIG.baseUrl}${localePath}/promociones`,
       images: [
         {
-          url: `${SITE_CONFIG.baseUrl}/images/clinic-interior.webp`,
+          url: `${SITE_CONFIG.baseUrl}/images/og-image.jpg`,
           width: 1200,
           height: 630,
           alt: t("pageTitle"),

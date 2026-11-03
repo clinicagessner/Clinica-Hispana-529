@@ -42,7 +42,7 @@ export async function JsonLdMedicalClinic() {
         url: SITE_CONFIG.baseUrl,
         telephone: CONTACT_INFO.phone,
         email: CONTACT_INFO.email,
-        image: `${SITE_CONFIG.baseUrl}/images/clinic-interior.webp`,
+        image: `${SITE_CONFIG.baseUrl}/images/hero-bg.webp`,
         logo: `${SITE_CONFIG.baseUrl}/images/logo.webp`,
         priceRange: "$$",
         currenciesAccepted: "USD",

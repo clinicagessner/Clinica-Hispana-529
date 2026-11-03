@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: MetadataProps): Promise<Metad
       url: `${SITE_CONFIG.baseUrl}${localePath}/services`,
       images: [
         {
-          url: `${SITE_CONFIG.baseUrl}/images/clinic-interior.webp`,
+          url: `${SITE_CONFIG.baseUrl}/images/og-image.jpg`,
           width: 1200,
           height: 630,
           alt: t("title"),
@@ -89,7 +89,6 @@ export default async function ServicesPage({ params }: Props) {
         {/* Hero Header */}
         <section className="relative pt-28 pb-12 md:pt-32 md:pb-16 overflow-hidden">
           <div className="absolute inset-0 bg-linear-to-br from-red-primary via-red-dark to-slate-900" />
-          <div className="absolute inset-0 bg-[url('/images/clinic-interior.webp')] bg-cover bg-center opacity-10" />
 
           <div className="container relative z-10 mx-auto px-4">
             <div className="text-center max-w-3xl mx-auto">
