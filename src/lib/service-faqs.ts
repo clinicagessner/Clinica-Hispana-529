@@ -1057,7 +1057,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "¿Puedo revisar antes si me falta alguna vitamina?",
-        "answer": "Sí. El examen general de sangre con vitaminas, publicado en la página de promociones, sirve para saber si tienes una deficiencia antes de decidir cómo tratarla."
+        "answer": "Sí. La promoción Examen General de Sangre + Vitaminas cuesta $99 e incluye el examen general de sangre, 2 dosis de vitamina para la energía y la consulta médica. Está en la página de promociones y sirve para saber si tienes una deficiencia antes de decidir cómo tratarla."
+      },
+      {
+        "question": "¿Hay descuento en los sueros vitaminados?",
+        "answer": "Sí. La clínica tiene una promoción de sueros vitaminados con 50% de descuento. Pregunte por la promoción por teléfono, por WhatsApp o en la recepción para conocer los detalles."
       }
     ],
     "faqsEn": [
@@ -1079,7 +1083,11 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
       },
       {
         "question": "Can I check first whether I am low on any vitamin?",
-        "answer": "Yes. The general blood test with vitamins, listed on the promotions page, shows whether you have a deficiency before deciding how to treat it."
+        "answer": "Yes. The General Blood Test + Vitamins promotion costs $99 and includes the general blood test, 2 vitamin doses for energy and the medical consultation. It is on the promotions page and shows whether you have a deficiency before deciding how to treat it."
+      },
+      {
+        "question": "Is there a discount on vitamin IV drips?",
+        "answer": "Yes. The clinic has a 50% off promotion on vitamin IV drips. Ask about the promotion by phone, on WhatsApp or at the front desk for the details."
       }
     ]
   },
