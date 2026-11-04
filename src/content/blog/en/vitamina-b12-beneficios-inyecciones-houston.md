@@ -74,9 +74,9 @@ Three practical reasons. First, if you start supplementing before the test, the 
 
 The medical team walks you through the result and, based on the level and the likely cause, decides how to replace it: diet changes, an oral supplement, or a different route when absorption is the issue. They also look at whether a medication needs adjusting or an underlying cause needs to be investigated, and refer you to a specialist when needed. A repeat test later confirms whether your level is recovering.
 
-## What about the vitamin B12 IV drip?
+## What about vitamin IV drips?
 
-The clinic also offers vitamin B12 as an [IV drip](/en/services/sueros-vitaminados), given through a vein, as a separate service. It isn't a substitute for diagnosis: if you suspect a B12 deficiency, the first step is still the blood test and the visit.
+The clinic offers [vitamin IV drips](/en/services/sueros-vitaminados) as a separate service. They aren't a substitute for diagnosis: if you suspect a B12 deficiency, the first step is still the blood test and the visit.
 
 ## How much does it cost to get checked?
 

@@ -75,9 +75,9 @@ Por tres razones prácticas. Primero, si empieza a suplementar antes del anális
 
 El equipo médico le explica el resultado y, según el nivel y la causa probable, decide la forma de reponerla: cambios en la alimentación, suplemento oral o una vía distinta cuando la absorción está afectada. También se revisa si hay que ajustar algún medicamento o buscar la causa de fondo, y se hace la referencia al especialista si hace falta. Un nuevo análisis más adelante confirma si el nivel se está recuperando.
 
-## ¿Y el suero de vitamina B12?
+## ¿Y los sueros vitaminados?
 
-La clínica también ofrece la vitamina B12 en [suero vitaminado](/services/sueros-vitaminados), por vía intravenosa, como servicio aparte. No es un sustituto del diagnóstico: si sospecha una deficiencia de B12, el primer paso sigue siendo el análisis de sangre y la consulta.
+La clínica ofrece [sueros vitaminados](/services/sueros-vitaminados) como servicio aparte. No son un sustituto del diagnóstico: si sospecha una deficiencia de B12, el primer paso sigue siendo el análisis de sangre y la consulta.
 
 ## ¿Cuánto cuesta revisarme?
 
