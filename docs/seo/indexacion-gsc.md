@@ -6,39 +6,23 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-03; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 80 de 94 URLs del sitemap indexadas · 14 sin indexar (8 desconocida · 2 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-04; URL Inspection API, datos ANTIGUOS del 2026-11-02: antiguos (2026-11-02): --sin-fetch):** 80 de 94 URLs del sitemap indexadas · 14 sin indexar (8 desconocida · 2 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 26 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 2 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
+6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-08).
 <!-- /tandas:auto -->
 
-## Tanda 60 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  ✅ PEDIDA 03/11/2026
-
-- [x] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/en  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-11-02
-- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
-
-## Tanda 64 — cambios del 2026-11-02 (anuncios = referencia)
+## Tanda 64 — cambios del 2026-11-02 (anuncios = referencia)  📨 ENVIADA 04/11/2026
 
 - [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-11-02
 - [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-11-02
-
-## Tanda 68 — cambios del 2026-11-04 (sueros (anuncios y promociones) y post de B12)
-
 - [ ] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-11-04
 - [ ] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
 - [ ] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-04
 - [ ] https://www.clinica529.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-04
 
-## Tanda 65
+## Tanda 69
 
 - [ ] https://www.clinica529.com/promociones  — cambiada 2026-11-03 · rastreada 2026-10-25 · indexada · pedida 2026-10-06 · 856 impr.
 - [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 54 impr.
@@ -51,7 +35,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/services/examenes-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · desconocida · 0 impr.
 
-## Tanda 66
+## Tanda 70
 
 - [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 172 impr.
 - [ ] https://www.clinica529.com/en/services  — cambiada 2026-11-03 · rastreada 2026-09-19 · indexada · 123 impr.
@@ -64,7 +48,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/ultrasonido  — cambiada 2026-10-06 · rastreada 2026-07-19 · rastreada sin indexar · 12 impr.
 - [ ] https://www.clinica529.com/en/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 10 impr.
 
-## Tanda 67
+## Tanda 71
 
 - [ ] https://www.clinica529.com/en/services/examenes-sangre  — cambiada 2026-10-06 · rastreada 2026-07-16 · indexada · 9 impr.
 - [ ] https://www.clinica529.com/en/blog  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 5 impr.
@@ -205,3 +189,16 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinica529.com/blog/clinica-para-ninos-cerca-de-mi-consulta-o-urgencias  — cambiada 2026-11-02
 - [x] https://www.clinica529.com/en/blog/clinica-para-ninos-cerca-de-mi-consulta-o-urgencias  — cambiada 2026-11-02
+
+## Tanda 60 — cambios del 2026-11-02 (sueros solo B12 (orden de red))  ✅ PEDIDA 03/11/2026
+
+- [x] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/en  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-11-02
+- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-11-02
