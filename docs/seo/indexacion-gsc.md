@@ -31,6 +31,13 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-11-02
 - [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-11-02
 
+## Tanda 68 — cambios del 2026-11-04 (sueros (anuncios y promociones) y post de B12)
+
+- [ ] https://www.clinica529.com/services/sueros-vitaminados  — cambiada 2026-11-04
+- [ ] https://www.clinica529.com/en/services/sueros-vitaminados  — cambiada 2026-11-04
+- [ ] https://www.clinica529.com/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-04
+- [ ] https://www.clinica529.com/en/blog/vitamina-b12-beneficios-inyecciones-houston  — cambiada 2026-11-04
+
 ## Tanda 65
 
 - [ ] https://www.clinica529.com/promociones  — cambiada 2026-11-03 · rastreada 2026-10-25 · indexada · pedida 2026-10-06 · 856 impr.
