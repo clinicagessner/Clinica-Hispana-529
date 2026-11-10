@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 72 — cambios del 2026-11-09 (post del blog semanal)  📨 ENVIADA 09/11/2026
+## Tanda 72 — cambios del 2026-11-09 (post del blog semanal)  📨 ENVIADA 09/11/2026  ✅ PEDIDA 10/11/2026
 
-- [ ] https://www.clinica529.com/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
-- [ ] https://www.clinica529.com/en/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
+- [x] https://www.clinica529.com/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
+- [x] https://www.clinica529.com/en/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
 
 ## Tanda 73 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)
 
