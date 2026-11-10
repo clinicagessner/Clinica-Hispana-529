@@ -6,7 +6,7 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-09; URL Inspection API, datos de hoy 2026-11-09):** 82 de 94 URLs del sitemap indexadas · 12 sin indexar (6 desconocida · 4 descubierta sin indexar · 2 rastreada sin indexar).
+**Estado (actualizado 2026-11-10; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 82 de 96 URLs del sitemap indexadas · 14 sin indexar (6 desconocida · 4 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 21 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
@@ -18,7 +18,12 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
 - [ ] https://www.clinica529.com/en/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
 
-## Tanda 69
+## Tanda 73 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)
+
+- [ ] https://www.clinica529.com  — cambiada 2026-11-10
+- [ ] https://www.clinica529.com/en  — cambiada 2026-11-10
+
+## Tanda 74
 
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 46 impr.
 - [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 43 impr.
@@ -31,7 +36,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-10-06 · rastreada 2026-09-17 · indexada · 175 impr.
 - [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 34 impr.
 
-## Tanda 70
+## Tanda 75
 
 - [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 32 impr.
 - [ ] https://www.clinica529.com/en/services/unas-encarnadas  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 25 impr.
@@ -44,7 +49,7 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 - [ ] https://www.clinica529.com/en/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 5 impr.
 - [ ] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-10-05 · desconocida · 0 impr.
 
-## Tanda 71
+## Tanda 76
 
 - [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
 - [ ] https://www.clinica529.com/en/services/prueba-strep  — cambiada 2026-10-15 · rastreada 2026-07-19 · rastreada sin indexar · pedida 2026-10-16 · 5 impr.
