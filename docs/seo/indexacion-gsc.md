@@ -6,17 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-11; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 82 de 96 URLs del sitemap indexadas · 14 sin indexar (6 desconocida · 4 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-12; URL Inspection API, datos ANTIGUOS del 2026-11-09: antiguos (2026-11-09): --sin-fetch):** 82 de 96 URLs del sitemap indexadas · 14 sin indexar (6 desconocida · 4 descubierta sin indexar · 2 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 21 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
-
-## Tanda 73 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
-
-- [x] https://www.clinica529.com  — cambiada 2026-11-10
-- [x] https://www.clinica529.com/en  — cambiada 2026-11-10
 
 ## Tanda 74
 
@@ -216,3 +211,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinica529.com/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
 - [x] https://www.clinica529.com/en/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09
+
+## Tanda 73 — cambios del 2026-11-10 (quitar superlativos aprobados 2026-11-09)  📨 ENVIADA 11/11/2026  ✅ PEDIDA 12/11/2026
+
+- [x] https://www.clinica529.com  — cambiada 2026-11-10
+- [x] https://www.clinica529.com/en  — cambiada 2026-11-10
