@@ -13,6 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 5 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
+## Tanda 77 — cambios del 2026-11-14 (YouTube en el footer de toda la web)
+
+- [ ] https://www.clinica529.com/es  — cambiada 2026-11-14
+
 ## Tanda 74
 
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 46 impr.
