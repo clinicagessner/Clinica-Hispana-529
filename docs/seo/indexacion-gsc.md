@@ -13,10 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 3 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-17).
 <!-- /tandas:auto -->
 
-## Tanda 81 — cambios del 2026-11-16 (post del blog semanal)  📨 ENVIADA 16/11/2026
+## Tanda 81 — cambios del 2026-11-16 (post del blog semanal)  📨 ENVIADA 16/11/2026  ✅ PEDIDA 16/11/2026
 
-- [ ] https://www.clinica529.com/blog/chequeo-ginecologico-anual-que-incluye-como-prepararse  — cambiada 2026-11-16
-- [ ] https://www.clinica529.com/en/blog/chequeo-ginecologico-anual-que-incluye-como-prepararse  — cambiada 2026-11-16
+- [x] https://www.clinica529.com/blog/chequeo-ginecologico-anual-que-incluye-como-prepararse  — cambiada 2026-11-16
+- [x] https://www.clinica529.com/en/blog/chequeo-ginecologico-anual-que-incluye-como-prepararse  — cambiada 2026-11-16
 
 ## Tanda 78
 
