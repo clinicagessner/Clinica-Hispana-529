@@ -1,6 +1,7 @@
 ---
 slug: "gripe-o-covid-prueba-rapida-dia-sintomas"
 title: "Gripe o COVID: qué prueba rápida hacerse y en qué día"
+metaTitle: "Prueba de influenza o COVID: cuándo hacerla, día a día"
 description: "¿Fiebre y tos y no sabe si es gripe o COVID? Qué prueba rápida pedir según el día de síntomas y qué hacer con el resultado. Clínica 529, Copperfield 77095."
 date: "2026-10-05"
 dateModified: "2026-10-05"

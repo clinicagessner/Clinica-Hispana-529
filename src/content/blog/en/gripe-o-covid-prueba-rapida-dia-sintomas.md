@@ -1,6 +1,7 @@
 ---
 slug: "gripe-o-covid-prueba-rapida-dia-sintomas"
 title: "Flu or COVID? Which Rapid Test to Get and When"
+metaTitle: "Flu or COVID Test: When to Get It, Day by Day"
 description: "Fever and cough but not sure if it's flu or COVID? Which rapid test to get by day of symptoms and what your result means. Clínica 529, Copperfield 77095."
 date: "2026-10-05"
 dateModified: "2026-10-05"
