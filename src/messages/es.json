@@ -224,7 +224,13 @@
     },
     "ctaSchedule": "Agendar Consulta",
     "ctaCall": "Llamar Ahora",
-    "learnMore": "Más información sobre este servicio"
+    "learnMore": "Más información sobre este servicio",
+    "features": [
+      "Laboratorio con resultados rápidos",
+      "Seguimiento médico continuo",
+      "Atención 100% en español",
+      "Sin cita previa necesaria"
+    ]
   },
   "blog": {
     "title": "Blog de Salud",

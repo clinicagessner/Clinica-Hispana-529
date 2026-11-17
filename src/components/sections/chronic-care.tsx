@@ -24,12 +24,7 @@ const conditions = [
   { icon: Heart, titleKey: "thyroid" },
 ];
 
-const features = [
-  { icon: CheckCircle, text: "Laboratorio con resultados el mismo día" },
-  { icon: CalendarCheck, text: "Seguimiento médico continuo" },
-  { icon: CheckCircle, text: "Atención 100% en español" },
-  { icon: Phone, text: "Sin cita previa necesaria" },
-];
+const featureIcons = [CheckCircle, CalendarCheck, CheckCircle, Phone];
 
 export function ChronicCare() {
   const t = useTranslations("chronicCare");
@@ -89,15 +84,15 @@ export function ChronicCare() {
           </div>
 
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4 max-w-5xl mx-auto mb-12 animate-on-scroll fade-up stagger-2">
-            {features.map((feature, idx) => (
+            {featureIcons.map((FeatureIcon, idx) => (
               <div
                 key={idx}
                 className="flex items-center gap-3 p-3 md:p-4 rounded-xl bg-white/10 backdrop-blur-sm border border-white/10"
               >
                 <div className="size-9 md:size-10 rounded-full bg-red-primary/30 flex items-center justify-center shrink-0">
-                  <feature.icon className="size-4 md:size-5 text-red-light" weight="fill" />
+                  <FeatureIcon className="size-4 md:size-5 text-red-light" weight="fill" />
                 </div>
-                <span className="text-xs md:text-sm text-white/90">{feature.text}</span>
+                <span className="text-xs md:text-sm text-white/90">{t(`features.${idx}`)}</span>
               </div>
             ))}
           </div>

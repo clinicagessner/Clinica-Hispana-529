@@ -224,7 +224,13 @@
     },
     "ctaSchedule": "Schedule Appointment",
     "ctaCall": "Call Now",
-    "learnMore": "Learn more about this service"
+    "learnMore": "Learn more about this service",
+    "features": [
+      "Lab with fast results",
+      "Ongoing medical follow-up",
+      "Care 100% in Spanish",
+      "No appointment needed"
+    ]
   },
   "blog": {
     "title": "Health Blog",
