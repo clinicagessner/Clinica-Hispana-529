@@ -13,17 +13,17 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
-## Tanda 82 — cambios del 2026-11-17 (análisis diario: frases de los anuncios activos, laboratorio sin plazo, título del post de gripe/COVID)  📨 ENVIADA 17/11/2026
+## Tanda 82 — cambios del 2026-11-17 (análisis diario: frases de los anuncios activos, laboratorio sin plazo, título del post de gripe/COVID)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
 
-- [ ] https://www.clinica529.com/  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/en  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
-- [ ] https://www.clinica529.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
 
 ## Tanda 83
 
