@@ -6,29 +6,20 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-17; URL Inspection API, datos de hoy 2026-11-17):** 86 de 98 URLs del sitemap indexadas · 12 sin indexar (6 descubierta sin indexar · 4 desconocida · 2 rastreada sin indexar).
+**Estado (actualizado 2026-11-18; URL Inspection API, datos ANTIGUOS del 2026-11-17: antiguos (2026-11-17): --sin-fetch):** 86 de 98 URLs del sitemap indexadas · 12 sin indexar (6 descubierta sin indexar · 4 desconocida · 2 rastreada sin indexar).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 21 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 4 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-1 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
-## Tanda 82 — cambios del 2026-11-17 (análisis diario: frases de los anuncios activos, laboratorio sin plazo, título del post de gripe/COVID)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
+## Tanda 86 — cambios del 2026-11-17 (análisis diario: página en español que faltaba en la tanda 82)  📨 ENVIADA 18/11/2026
 
-- [x] https://www.clinica529.com/  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/en  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
-- [x] https://www.clinica529.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
+- [ ] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-11-17
 
 ## Tanda 83
 
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 48 impr.
-- [ ] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-11-17 · rastreada 2026-10-30 · indexada · pedida 2026-10-13 · 16 impr.
 - [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 10 impr.
 - [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 9 impr.
 - [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 8 impr.
@@ -238,3 +229,15 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 - [x] https://www.clinica529.com/blog/chequeo-ginecologico-anual-que-incluye-como-prepararse  — cambiada 2026-11-16
 - [x] https://www.clinica529.com/en/blog/chequeo-ginecologico-anual-que-incluye-como-prepararse  — cambiada 2026-11-16
+
+## Tanda 82 — cambios del 2026-11-17 (análisis diario: frases de los anuncios activos, laboratorio sin plazo, título del post de gripe/COVID)  📨 ENVIADA 17/11/2026  ✅ PEDIDA 17/11/2026
+
+- [x] https://www.clinica529.com/  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/services/infecciones-urinarias  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/blog/gripe-o-covid-prueba-rapida-dia-sintomas  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/en/services/condiciones-cronicas  — cambiada 2026-11-17
