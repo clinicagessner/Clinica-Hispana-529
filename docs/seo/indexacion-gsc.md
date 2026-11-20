@@ -13,9 +13,9 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-20).
 <!-- /tandas:auto -->
 
-## Tanda 86 — cambios del 2026-11-17 (análisis diario: página en español que faltaba en la tanda 82)  📨 ENVIADA 19/11/2026
+## Tanda 86 — cambios del 2026-11-17 (análisis diario: página en español que faltaba en la tanda 82)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
-- [ ] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-11-17
+- [x] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-11-17
 
 ## Tanda 87
 
