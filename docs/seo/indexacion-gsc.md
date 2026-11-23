@@ -13,6 +13,10 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
 
+## Tanda 90 — cambios del 2026-11-23 (post del blog semanal)  📨 ENVIADA 23/11/2026
+- [ ] https://www.clinica529.com/blog/examen-prostata-psa-edad-resultado  — cambiada 2026-11-23
+- [ ] https://www.clinica529.com/en/blog/examen-prostata-psa-edad-resultado  — cambiada 2026-11-23
+
 ## Tanda 87
 
 - [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 74 impr.
