@@ -6,17 +6,12 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-24; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 85 de 100 URLs del sitemap indexadas · 15 sin indexar (5 desconocida · 4 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
+**Estado (actualizado 2026-11-25; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 85 de 100 URLs del sitemap indexadas · 15 sin indexar (5 desconocida · 4 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
 **Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 20 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 6 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
+4 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-01).
 <!-- /tandas:auto -->
-
-## Tanda 90 — cambios del 2026-11-23 (post del blog semanal)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
-
-- [x] https://www.clinica529.com/blog/examen-prostata-psa-edad-resultado  — cambiada 2026-11-23
-- [x] https://www.clinica529.com/en/blog/examen-prostata-psa-edad-resultado  — cambiada 2026-11-23
 
 ## Tanda 91
 
@@ -248,3 +243,8 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 ## Tanda 86 — cambios del 2026-11-17 (análisis diario: página en español que faltaba en la tanda 82)  📨 ENVIADA 19/11/2026  ✅ PEDIDA 20/11/2026
 
 - [x] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-11-17
+
+## Tanda 90 — cambios del 2026-11-23 (post del blog semanal)  📨 ENVIADA 24/11/2026  ✅ PEDIDA 24/11/2026
+
+- [x] https://www.clinica529.com/blog/examen-prostata-psa-edad-resultado  — cambiada 2026-11-23
+- [x] https://www.clinica529.com/en/blog/examen-prostata-psa-edad-resultado  — cambiada 2026-11-23
