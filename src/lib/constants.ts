@@ -38,6 +38,7 @@ export const SOCIAL_LINKS: SocialLinks = {
   google: "https://maps.google.com/maps?cid=10276802228702582022",
   tiktok: "https://www.tiktok.com/@clinica529",
   x: "https://x.com/529Clinica20928",
+  pinterest: "https://www.pinterest.com/clinicafamiliar529/",
   yelp: "https://www.yelp.com/biz/clinica-familiar-529-no-title",
 };
 

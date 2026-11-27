@@ -119,6 +119,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         "max-snippet": -1,
       },
     },
+    // Verificación del sitio en Pinterest (pinterest.com/clinicafamiliar529); no quitar.
+    verification: { other: { "p:domain_verify": "834bc78f98d17011a885edef7f1c58ab" } },
     // TODO(randy): añadir verification.google cuando se cree la propiedad de
     // Search Console de clinica529.com (no reutilizar tokens de otra clínica).
   };
