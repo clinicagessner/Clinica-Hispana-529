@@ -63,7 +63,7 @@ function header(rating: { rating: number; total: number }) {
     "## Condiciones de atención",
     "- Idiomas: español (principal) e inglés",
     "- No se requiere seguro médico: pago directo, efectivo y tarjetas",
-    "- Médico autorizado por USCIS (Civil Surgeon) para el examen de inmigración I-693",
+    "- Médico autorizado por USCIS (Civil Surgeon) para el examen de inmigración I-693 (servicio temporalmente pausado hasta nuevo aviso)",
     "",
     "## Reputación",
     `- Google: ${rating.total} reseñas, calificación promedio ${rating.rating.toFixed(1)} de 5`,
