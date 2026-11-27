@@ -35,8 +35,10 @@ export const SOCIAL_LINKS: SocialLinks = {
   facebook: "https://www.facebook.com/clinicafamiliar529",
   instagram: "https://www.instagram.com/clinicafamiliar529/",
   youtube: "https://www.youtube.com/@ClinicaFamiliar529",
-  google: "https://g.co/kgs/1RwVVhT",
+  google: "https://maps.google.com/maps?cid=10276802228702582022",
   tiktok: "https://www.tiktok.com/@clinica529",
+  x: "https://x.com/529Clinica20928",
+  yelp: "https://www.yelp.com/biz/clinica-familiar-529-no-title",
 };
 
 // Respaldo con los valores reales de Places comprobados el 2026-10-06
