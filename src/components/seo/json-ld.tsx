@@ -119,6 +119,7 @@ export async function JsonLdMedicalClinic() {
           SOCIAL_LINKS.x,
           SOCIAL_LINKS.yelp,
           SOCIAL_LINKS.pinterest,
+          SOCIAL_LINKS.nextdoor,
         ].filter(Boolean),
         // Áreas de servicio de la ficha de Google (Houston, Katy y Cypress).
         areaServed: [

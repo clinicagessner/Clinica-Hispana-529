@@ -39,6 +39,7 @@ export const SOCIAL_LINKS: SocialLinks = {
   tiktok: "https://www.tiktok.com/@clinica529",
   x: "https://x.com/529Clinica20928",
   pinterest: "https://www.pinterest.com/clinicafamiliar529/",
+  nextdoor: "https://nextdoor.com/page/clinica-hispana-familiar-529-houston-tx/",
   yelp: "https://www.yelp.com/biz/clinica-familiar-529-no-title",
 };
 
