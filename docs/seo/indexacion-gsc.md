@@ -6,31 +6,27 @@ poner `✅ PEDIDA dd/mm/aaaa` en su encabezado. Límite: 10 peticiones al día p
 Propiedad: `https://www.clinica529.com/`, cuenta **clinicafamiliar529@gmail.com**.
 
 <!-- tandas:auto -->
-**Estado (actualizado 2026-11-27; URL Inspection API, datos ANTIGUOS del 2026-10-01: antiguos (2026-10-01): --sin-fetch):** 64 de 100 URLs del sitemap indexadas · 36 sin indexar (16 sin datos · 14 descubierta sin indexar · 3 otra · 2 desconocida · 1 rastreada sin indexar).
+**Estado (actualizado 2026-11-28; URL Inspection API, datos ANTIGUOS del 2026-11-23: antiguos (2026-11-23): --sin-fetch):** 85 de 100 URLs del sitemap indexadas · 15 sin indexar (5 desconocida · 4 descubierta sin indexar · 4 rastreada sin indexar · 2 sin datos).
 
-**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 18 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 19 no indexadas no pedidas en los últimos 14 días.
+**Orden** (`playbook/toolkit/indexacion-tandas.py`): primero las 13 páginas cambiadas en git después del último rastreo de Google y no pedidas desde el cambio; después las 3 no indexadas no pedidas en los últimos 14 días.
 Español antes que inglés y, a igualdad, más impresiones primero. Las indexadas sin cambios no entran; las tandas fijas (`📨 ENVIADA`, "cambios del …") van primero tal cual y las `✅ PEDIDA` pasan al historial.
-6 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-11-30).
+2 no indexadas pedidas hace menos de 14 días quedan fuera hasta que se cumpla el plazo (la primera vuelve el 2026-12-08).
 <!-- /tandas:auto -->
 
-## Tanda 94 — cambios del 2026-11-27 (X, Yelp y TikTok en el pie)  📨 ENVIADA 27/11/2026
-
-- [ ] https://www.clinica529.com/  — cambiada 2026-11-27
-- [ ] https://www.clinica529.com/en  — cambiada 2026-11-27
-
-## Tanda 98 — cambios del 2026-11-27 (aviso I-693 pausado)
-
+## Tanda 98 — cambios del 2026-11-27 (aviso I-693 pausado)  📨 ENVIADA 28/11/2026
 - [ ] https://www.clinica529.com/services/examenes-inmigracion  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/en/services/examenes-inmigracion  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/en/blog/guia-examen-medico-inmigracion-i693-houston  — cambiada 2026-11-27
-
-## Tanda 104 — cambios del 2026-11-27 (limpieza §9)
-
+- [ ] https://www.clinica529.com/  — cambiada 2026-11-27
+- [ ] https://www.clinica529.com/en  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/services/condiciones-cronicas  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/en/services/condiciones-cronicas  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/services/enfermedades-respiratorias  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/en/services/enfermedades-respiratorias  — cambiada 2026-11-27
+
+## Tanda 104 — cambios del 2026-11-27 (limpieza §9)
+
 - [ ] https://www.clinica529.com/services/ginecologia  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/en/services/ginecologia  — cambiada 2026-11-27
 - [ ] https://www.clinica529.com/services/salud-hombre  — cambiada 2026-11-27
@@ -62,50 +58,23 @@ Español antes que inglés y, a igualdad, más impresiones primero. Las indexada
 
 ## Tanda 107
 
-- [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 52 impr.
-- [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 14 impr.
-- [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 14 impr.
-- [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 0 impr.
-- [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 0 impr.
-- [ ] https://www.clinica529.com/en/services/drenaje-abscesos  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 42 impr.
-- [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 29 impr.
-- [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 25 impr.
-- [ ] https://www.clinica529.com/en/services/examen-fisico-escolar  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 8 impr.
+- [ ] https://www.clinica529.com/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-10-01 · indexada · 74 impr.
+- [ ] https://www.clinica529.com/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 34 impr.
+- [ ] https://www.clinica529.com/services/cirugias-menores  — cambiada 2026-10-06 · rastreada 2026-07-21 · indexada · 27 impr.
+- [ ] https://www.clinica529.com/blog  — cambiada 2026-10-06 · rastreada 2026-09-19 · indexada · 22 impr.
+- [ ] https://www.clinica529.com/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-09-27 · indexada · 15 impr.
+- [ ] https://www.clinica529.com/services/suturas-heridas  — cambiada 2026-10-06 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/en/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 33 impr.
+- [ ] https://www.clinica529.com/en/blog/examen-dot-cdl-camioneros-houston  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 28 impr.
+- [ ] https://www.clinica529.com/en/services/prueba-tuberculosis  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 26 impr.
+- [ ] https://www.clinica529.com/en/blog  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 9 impr.
 
 ## Tanda 108
 
-- [ ] https://www.clinica529.com/en/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 7 impr.
-- [ ] https://www.clinica529.com/en/blog  — cambiada 2026-10-06 · rastreada 2026-07-19 · indexada · 3 impr.
-- [ ] https://www.clinica529.com/en/services/curacion-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 2 impr.
-- [ ] https://www.clinica529.com/en/services/suturas-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 1 impr.
-- [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/services/cirugias-menores  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/services/examen-alcohol-drogas  — cambiada 2026-10-06 · descubierta sin indexar · 0 impr.
-- [ ] https://www.clinica529.com/en/services/vacunas  — cambiada 2026-10-06 · rastreada 2026-09-24 · indexada · 0 impr.
-- [ ] https://www.clinica529.com/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · rastreada 2026-07-20 · rastreada sin indexar · pedida 2026-10-25 · 50 impr.
-- [ ] https://www.clinica529.com/services/anticonceptivos  — cambiada 2026-10-23 · ? · pedida 2026-10-25 · 45 impr.
-
-## Tanda 109
-
-- [ ] https://www.clinica529.com/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinica529.com/blog/clinica-para-ninos-cerca-de-mi-consulta-o-urgencias  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.clinica529.com/blog/presion-alta-sin-sintomas-asesina-silenciosa  — cambiada 2026-10-26 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
-- [ ] https://www.clinica529.com/blog/que-ultrasonido-necesito-guia-segun-sintoma  — cambiada 2026-10-19 · sin datos de inspección · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinica529.com/services  — cambiada 2026-11-02 · desconocida · pedida 2026-11-06 · 0 impr.
-- [ ] https://www.clinica529.com/services/prueba-embarazo  — cambiada 2026-10-23 · ? · pedida 2026-10-25 · 0 impr.
-- [ ] https://www.clinica529.com/en/services/extraccion-implantes  — cambiada 2026-10-23 · ? · pedida 2026-10-26 · 12 impr.
-- [ ] https://www.clinica529.com/en/blog/absceso-nacido-piel-por-que-no-apretarlo  — cambiada 2026-11-09 · sin datos de inspección · pedida 2026-11-09 · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/atencion-medica-sin-seguro-houston  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/bienvenidos-clinica-hispana-familiar-529  — cambiada 2026-10-15 · desconocida · pedida 2026-10-19 · 0 impr.
-
-## Tanda 110
-
-- [ ] https://www.clinica529.com/en/blog/clinica-para-ninos-cerca-de-mi-consulta-o-urgencias  — cambiada 2026-11-02 · sin datos de inspección · pedida 2026-11-02 · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/control-diabetes-houston-guia-pacientes  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-20 · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/presion-alta-sin-sintomas-asesina-silenciosa  — cambiada 2026-10-26 · sin datos de inspección · pedida 2026-10-26 · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/que-ultrasonido-necesito-guia-segun-sintoma  — cambiada 2026-10-19 · sin datos de inspección · pedida 2026-10-19 · 0 impr.
-- [ ] https://www.clinica529.com/en/blog/salud-mujer-houston-servicios-ginecologia  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
+- [ ] https://www.clinica529.com/en/services/suturas-heridas  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 9 impr.
+- [ ] https://www.clinica529.com/en/services/tiroides  — cambiada 2026-10-06 · rastreada 2026-07-20 · indexada · 4 impr.
+- [ ] https://www.clinica529.com/en/blog/laboratorio-clinico-houston-analisis-sangre  — cambiada 2026-10-06 · desconocida · 0 impr.
+- [ ] https://www.clinica529.com/services  — cambiada 2026-11-03 · desconocida · pedida 2026-11-06 · 0 impr.
 - [ ] https://www.clinica529.com/en/services/anticonceptivos  — cambiada 2026-10-23 · descubierta sin indexar · pedida 2026-10-26 · 0 impr.
 - [ ] https://www.clinica529.com/en/services/farmacia  — cambiada 2026-10-15 · descubierta sin indexar · pedida 2026-10-16 · 0 impr.
 
