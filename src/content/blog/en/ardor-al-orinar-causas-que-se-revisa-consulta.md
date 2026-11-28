@@ -85,7 +85,7 @@ The result is read alongside your story. Nitrites and leukocytes in a woman with
 
 ## If the test shows an infection
 
-At Clínica Hispana Familiar 529 you get the urine test right at the clinic and, if there is an infection, treatment is prescribed the same day, along with a plain explanation in Spanish or English of how many days to take it, what to expect in the first couple of days and when to come back if the burning hangs on. Whatever the team prescribes for the burning is sent as an [e-prescription](/en/services/farmacia) to the pharmacy you choose, so you can pick it up on your way home.
+At Clínica Hispana Familiar 529 you get the urine test right at the clinic and, if there is an infection, treatment is prescribed, along with a plain explanation in Spanish or English of how many days to take it, what to expect in the first couple of days and when to come back if the burning hangs on. Whatever the team prescribes for the burning is sent as an [e-prescription](/en/services/farmacia) to the pharmacy you choose, so you can pick it up on your way home.
 
 A few things help while it starts working:
 

@@ -85,7 +85,7 @@ El resultado se interpreta junto con lo que usted cuenta. Un examen con nitritos
 
 ## Si el examen confirma infección
 
-Cuando los leucocitos, los nitritos y lo que usted contó apuntan en la misma dirección, en Clínica Hispana Familiar 529 el camino es corto: examen de orina en la clínica y, si hay infección, el tratamiento se indica el mismo día, junto con la explicación en su idioma de cuántos días dura la toma, qué mejoría debería notar al pasar las primeras jornadas y cuándo volver si la quemazón sigue igual. La receta de lo que se indique para el ardor se envía de forma electrónica a la [farmacia que usted elija](/services/farmacia), para recogerla de camino a casa.
+Cuando los leucocitos, los nitritos y lo que usted contó apuntan en la misma dirección, en Clínica Hispana Familiar 529 el camino es corto: examen de orina en la clínica y, si hay infección, se indica el tratamiento, junto con la explicación en su idioma de cuántos días dura la toma, qué mejoría debería notar al pasar las primeras jornadas y cuándo volver si la quemazón sigue igual. La receta de lo que se indique para el ardor se envía de forma electrónica a la [farmacia que usted elija](/services/farmacia), para recogerla de camino a casa.
 
 Algunas indicaciones ayudan mientras hace efecto:
 

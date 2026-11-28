@@ -69,7 +69,7 @@ El ardor al orinar, la urgencia frecuente o el dolor bajo del abdomen no son nor
 
 ### Salud Sexual e ITS
 
-Realizamos [pruebas de enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual) de forma totalmente confidencial, con tratamiento el mismo día cuando es necesario.
+Realizamos [pruebas de enfermedades de transmisión sexual](/services/enfermedades-transmision-sexual) de forma totalmente confidencial, con tratamiento cuando es necesario.
 
 ### Testosterona Baja
 

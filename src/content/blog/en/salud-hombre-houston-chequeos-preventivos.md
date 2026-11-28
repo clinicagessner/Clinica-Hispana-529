@@ -69,7 +69,7 @@ Burning when urinating, frequent urgency or lower abdominal pain are not normal.
 
 ### Sexual Health and STIs
 
-We perform [sexually transmitted infection testing](/services/enfermedades-transmision-sexual) with complete confidentiality, with same-day treatment when needed.
+We perform [sexually transmitted infection testing](/services/enfermedades-transmision-sexual) with complete confidentiality, with treatment when needed.
 
 ### Low Testosterone
 

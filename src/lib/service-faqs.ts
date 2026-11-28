@@ -530,8 +530,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "Entregas una muestra de orina y el urianálisis se procesa en la clínica para buscar leucocitos, nitritos o sangre; conviene no orinar durante la hora previa. Después el equipo médico revisa tus síntomas y confirma el diagnóstico."
       },
       {
-        "question": "¿Me indican el tratamiento ese mismo día?",
-        "answer": "Sí. El examen de orina se hace en la clínica y, si confirma una infección, el antibiótico indicado se envía ese mismo día a la farmacia que elijas. Si las infecciones se repiten, además se puede enviar un urocultivo al laboratorio."
+        "question": "¿Me indican el tratamiento en la consulta?",
+        "answer": "Sí. El examen de orina se hace en la clínica y, si confirma una infección, el antibiótico indicado se envía por receta electrónica a la farmacia que elijas. Si las infecciones se repiten, además se puede enviar un urocultivo al laboratorio."
       },
       {
         "question": "¿Qué síntomas indican que la infección subió a los riñones?",
@@ -556,8 +556,8 @@ export const SERVICE_FAQS: Record<string, ServiceFAQs> = {
         "answer": "You give a urine sample and the urinalysis is run at the clinic to look for white cells, nitrites or blood; try not to urinate for the hour before. The medical team then reviews your symptoms and confirms the diagnosis."
       },
       {
-        "question": "Is treatment prescribed that same day?",
-        "answer": "Yes. The urine test is done at the clinic and, if it confirms an infection, the antibiotic is e-prescribed that same day to the pharmacy you choose. If infections keep coming back, a urine culture can also be sent to the lab."
+        "question": "Is treatment prescribed at the visit?",
+        "answer": "Yes. The urine test is done at the clinic and, if it confirms an infection, the antibiotic is e-prescribed to the pharmacy you choose. If infections keep coming back, a urine culture can also be sent to the lab."
       },
       {
         "question": "Which symptoms mean the infection has reached the kidneys?",
